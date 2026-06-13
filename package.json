@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "eslint",
     "mock:data": "node scripts/mock-bundle.mjs",
+    "upload:data": "node --env-file=.env.local scripts/upload-bundle.mjs",
     "sync:data": "node scripts/sync-bundle.mjs",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
@@ -24,6 +25,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vercel/blob": "^2.4.0",
     "@vitejs/plugin-react": "^6.0.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
