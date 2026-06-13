@@ -45,3 +45,4 @@ next-env.d.ts
 
 # data bundle is fetched at build time (see scripts/fetch-bundle.mjs)
 /public/bundle.json
+.env*.local
