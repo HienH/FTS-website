@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local planning notes
+/tasks
+
+# data bundle is fetched at build time (see scripts/fetch-bundle.mjs)
+/public/bundle.json
