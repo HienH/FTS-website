@@ -1,0 +1,494 @@
+Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes
+1,Ousmane Dembélé,fr FRA,FW,Paris Saint-Germain,28,"€ 349,615 (£ 303,067, $407,191)","€ 18,180,000 (£ 15,759,471, $21,173,948)",
+2,Khvicha Kvaratskhelia,ge GEO,FW,Paris Saint-Germain,24,"€ 314,615 (£ 272,727, $366,427)","€ 16,360,000 (£ 14,181,790, $19,054,224)",
+3,Achraf Hakimi,ma MAR,DF,Paris Saint-Germain,26,"€ 262,308 (£ 227,383, $305,505)","€ 13,640,000 (£ 11,823,938, $15,886,284)",
+4,Marquinhos,br BRA,CB,Paris Saint-Germain,31,"€ 258,654 (£ 224,216, $301,250)","€ 13,450,000 (£ 11,659,235, $15,664,994)",
+5,Lucas Hernández,fr FRA,DF,Paris Saint-Germain,29,"€ 255,192 (£ 221,215, $297,218)","€ 13,270,000 (£ 11,503,200, $15,455,351)",
+6,Vitinha,pt POR,MF,Paris Saint-Germain,25,"€ 227,308 (£ 197,043, $264,742)","€ 11,820,000 (£ 10,246,257, $13,766,560)",
+7,Warren Zaïre-Emery,fr FRA,"DF,MF",Paris Saint-Germain,19,"€ 220,192 (£ 190,875, $256,454)","€ 11,450,000 (£ 9,925,519, $13,335,627)",
+8,Nuno Mendes,pt POR,DF,Paris Saint-Germain,23,"€ 209,808 (£ 181,873, $244,360)","€ 10,910,000 (£ 9,457,416, $12,706,698)",
+9,Benjamin Pavard,fr FRA,DF,Marseille,29,"€ 139,808 (£ 121,081, $162,508)","€ 7,270,000 (£ 6,296,236, $8,450,404)",Unverified estimation
+10,Bradley Barcola,fr FRA,FW,Paris Saint-Germain,22,"€ 139,808 (£ 121,193, $162,832)","€ 7,270,000 (£ 6,302,055, $8,467,250)",
+11,Désiré Doué,fr FRA,"FW,MF",Paris Saint-Germain,20,"€ 132,885 (£ 115,192, $154,769)","€ 6,910,000 (£ 5,989,986, $8,047,964)",
+12,Corentin Tolisso,fr FRA,MF,Lyon,30,"€ 122,308 (£ 106,023, $142,450)","€ 6,360,000 (£ 5,513,214, $7,407,388)",
+13,Fabián Ruiz Peña,es ESP,MF,Paris Saint-Germain,29,"€ 122,308 (£ 106,023, $142,450)","€ 6,360,000 (£ 5,513,214, $7,407,388)",
+14,Gonçalo Ramos,pt POR,FW,Paris Saint-Germain,24,"€ 122,308 (£ 106,023, $142,450)","€ 6,360,000 (£ 5,513,214, $7,407,388)",
+15,Lucas Chevalier,fr FRA,GK,Paris Saint-Germain,23,"€ 122,308 (£ 106,023, $142,450)","€ 6,360,000 (£ 5,513,214, $7,407,388)",Unverified estimation
+16,João Neves,pt POR,MF,Paris Saint-Germain,20,"€ 111,923 (£ 97,021, $130,355)","€ 5,820,000 (£ 5,045,111, $6,778,459)",
+17,Willian Pacho,ec ECU,DF,Paris Saint-Germain,23,"€ 111,923 (£ 97,021, $130,355)","€ 5,820,000 (£ 5,045,111, $6,778,459)",Unverified estimation
+18,Tanguy Ndombele,fr FRA,MF,Nice,28,"€ 104,808 (£ 90,853, $122,068)","€ 5,450,000 (£ 4,724,374, $6,347,526)",Unverified estimation
+19,Geoffrey Kondogbia,cf CTA,"MF,DF",Marseille,32,"€ 104,808 (£ 90,853, $122,068)","€ 5,450,000 (£ 4,724,374, $6,347,526)",
+20,Mason Greenwood,eng ENG,MF,Marseille,23,"€ 104,808 (£ 90,853, $122,068)","€ 5,450,000 (£ 4,724,374, $6,347,526)",
+21,Pierre Højbjerg,dk DEN,MF,Marseille,29,"€ 104,808 (£ 90,853, $122,068)","€ 5,450,000 (£ 4,724,374, $6,347,526)",Unverified estimation
+22,Seko Fofana,ci CIV,MF,Rennes,30,"€ 104,808 (£ 90,853, $122,068)","€ 5,450,000 (£ 4,724,374, $6,347,526)",
+23,Moussa Niakhaté,sn SEN,DF,Lyon,29,"€ 104,808 (£ 90,853, $122,068)","€ 5,450,000 (£ 4,724,374, $6,347,526)",Unverified estimation
+24,Illia Zabarnyi,ua UKR,DF,Paris Saint-Germain,22,"€ 104,808 (£ 90,853, $122,068)","€ 5,450,000 (£ 4,724,374, $6,347,526)",Unverified estimation
+25,Morgan Sanson,fr FRA,MF,Nice,30,"€ 97,885 (£ 84,852, $114,005)","€ 5,090,000 (£ 4,412,305, $5,928,240)",
+26,Igor Paixão,br BRA,MF,Marseille,25,"€ 97,885 (£ 84,852, $114,005)","€ 5,090,000 (£ 4,412,305, $5,928,240)",Unverified estimation
+27,Breel Embolo,ch SUI,FW,Rennes,28,"€ 97,885 (£ 84,852, $114,005)","€ 5,090,000 (£ 4,412,305, $5,928,240)",Unverified estimation
+28,Brice Samba,fr FRA,GK,Rennes,31,"€ 97,885 (£ 84,852, $114,005)","€ 5,090,000 (£ 4,412,305, $5,928,240)",
+29,Nayef Aguerd,ma MAR,DF,Marseille,29,"€ 94,423 (£ 81,851, $109,973)","€ 4,910,000 (£ 4,256,271, $5,718,596)",Unverified estimation
+30,Orel Mangala,be BEL,MF,Lyon,27,"€ 94,423 (£ 81,851, $109,973)","€ 4,910,000 (£ 4,256,271, $5,718,596)",Unverified estimation
+31,Denis Zakaria,ch SUI,"DF,MF",Monaco,28,"€ 88,462 (£ 76,684, $103,030)","€ 4,600,000 (£ 3,987,545, $5,357,545)",
+32,Dante,br BRA,DF,Nice,41,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",Unverified estimation
+33,Jonathan Clauss,fr FRA,"MF,DF",Nice,32,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",Unverified estimation
+34,Amine Gouiri,dz ALG,"FW,MF",Marseille,25,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",Unverified estimation
+35,Pierre-Emerick Aubameyang,ga GAB,FW,Marseille,36,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",
+36,Quinten Timber,nl NED,MF,Marseille,24,"€ 87,500 (£ 75,780, $101,707)","€ 4,550,000 (£ 3,940,561, $5,288,767)",
+37,Timothy Weah,us USA,"MF,DF",Marseille,25,"€ 87,500 (£ 75,780, $101,707)","€ 4,550,000 (£ 3,940,561, $5,288,767)",Unverified estimation
+38,Ludovic Blas,fr FRA,"MF,FW",Rennes,27,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",Unverified estimation
+39,Sebastian Szymański,pl POL,MF,Rennes,26,"€ 87,500 (£ 75,780, $101,707)","€ 4,550,000 (£ 3,940,561, $5,288,767)",Unverified estimation
+40,André Gomes,pt POR,MF,Lille,32,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",Unverified estimation
+41,Benjamin André,fr FRA,MF,Lille,34,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",
+42,Thomas Meunier,be BEL,DF,Lille,33,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",Unverified estimation
+43,Lee Kang-in,kr KOR,"MF,FW",Paris Saint-Germain,24,"€ 87,500 (£ 75,850, $101,910)","€ 4,550,000 (£ 3,944,202, $5,299,310)",Unverified estimation
+44,Aleksandr Golovin,ru RUS,MF,Monaco,29,"€ 84,038 (£ 72,849, $97,878)","€ 4,370,000 (£ 3,788,168, $5,089,667)",
+45,Takumi Minamino,jp JPN,MF,Monaco,30,"€ 84,038 (£ 72,849, $97,878)","€ 4,370,000 (£ 3,788,168, $5,089,667)",Unverified estimation
+46,Leonardo Balerdi,ar ARG,DF,Marseille,26,"€ 83,846 (£ 72,683, $97,654)","€ 4,360,000 (£ 3,779,499, $5,078,020)",
+47,Facundo Medina,ar ARG,DF,Marseille,26,"€ 80,385 (£ 69,682, $93,623)","€ 4,180,000 (£ 3,623,465, $4,868,377)",Unverified estimation
+48,Lucas Beraldo,br BRA,"DF,MF",Paris Saint-Germain,21,"€ 80,385 (£ 69,682, $93,623)","€ 4,180,000 (£ 3,623,465, $4,868,377)",Unverified estimation
+49,Jeremie Boga,ci CIV,"MF,FW",Nice,28,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",
+50,Angel Gomes,eng ENG,MF,Marseille,24,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",Unverified estimation
+51,Hamed Junior Traorè,ci CIV,MF,Marseille,25,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",
+52,Valentin Rongier,fr FRA,MF,Rennes,30,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",Unverified estimation
+53,Paul Pogba,fr FRA,MF,Monaco,32,"€ 75,192 (£ 65,181, $87,575)","€ 3,910,000 (£ 3,389,413, $4,553,913)",
+54,Ernest Nuamah,gh GHA,"FW,MF",Lyon,21,"€ 73,462 (£ 63,681, $85,559)","€ 3,820,000 (£ 3,311,396, $4,449,091)",Unverified estimation
+55,Thilo Kehrer,de GER,DF,Monaco,28,"€ 70,769 (£ 61,347, $82,424)","€ 3,680,000 (£ 3,190,036, $4,286,036)",Unverified estimation
+56,Ciro Immobile,it ITA,FW,Paris FC,35,"€ 70,000 (£ 60,624, $81,366)","€ 3,640,000 (£ 3,152,448, $4,231,014)",Unverified estimation
+57,Emerson Palmieri,it ITA,"DF,MF",Marseille,30,"€ 70,000 (£ 60,680, $81,528)","€ 3,640,000 (£ 3,155,362, $4,239,448)",Unverified estimation
+58,Glen Kamara,fi FIN,MF,Rennes,29,"€ 70,000 (£ 60,680, $81,528)","€ 3,640,000 (£ 3,155,362, $4,239,448)",Unverified estimation
+59,Ben Chilwell,eng ENG,"DF,MF",Strasbourg,28,"€ 70,000 (£ 60,680, $81,528)","€ 3,640,000 (£ 3,155,362, $4,239,448)",Unverified estimation
+60,Ainsley Maitland-Niles,eng ENG,"DF,MF",Lyon,27,"€ 70,000 (£ 60,680, $81,528)","€ 3,640,000 (£ 3,155,362, $4,239,448)",Unverified estimation
+61,Anthony Lopes,pt POR,GK,Nantes,34,"€ 70,000 (£ 60,680, $81,528)","€ 3,640,000 (£ 3,155,362, $4,239,448)",Unverified estimation
+62,Matvei Safonov,ru RUS,GK,Paris Saint-Germain,26,"€ 70,000 (£ 60,680, $81,528)","€ 3,640,000 (£ 3,155,362, $4,239,448)",Unverified estimation
+63,Eric Dier,eng ENG,DF,Monaco,31,"€ 66,346 (£ 57,513, $77,272)","€ 3,450,000 (£ 2,990,659, $4,018,158)",Unverified estimation
+64,Melvin Bard,fr FRA,"DF,MF",Nice,24,"€ 62,885 (£ 54,512, $73,241)","€ 3,270,000 (£ 2,834,624, $3,808,515)",Unverified estimation
+65,Sofiane Diop,ma MAR,"MF,FW",Nice,25,"€ 62,885 (£ 54,512, $73,241)","€ 3,270,000 (£ 2,834,624, $3,808,515)",Unverified estimation
+66,Nicolás Tagliafico,ar ARG,DF,Lyon,32,"€ 62,885 (£ 54,512, $73,241)","€ 3,270,000 (£ 2,834,624, $3,808,515)",Unverified estimation
+67,Francis Coquelin,fr FRA,MF,Nantes,34,"€ 62,885 (£ 54,512, $73,241)","€ 3,270,000 (£ 2,834,624, $3,808,515)",Unverified estimation
+68,Florian Thauvin,fr FRA,MF,Lens,32,"€ 62,885 (£ 54,512, $73,241)","€ 3,270,000 (£ 2,834,624, $3,808,515)",Unverified estimation
+69,Folarin Balogun,us USA,FW,Monaco,24,"€ 61,923 (£ 53,678, $72,121)","€ 3,220,000 (£ 2,791,281, $3,750,281)",Unverified estimation
+70,Maghnes Akliouche,fr FRA,"MF,FW",Monaco,23,"€ 61,923 (£ 53,678, $72,121)","€ 3,220,000 (£ 2,791,281, $3,750,281)",Unverified estimation
+71,Mohammed Salisu,gh GHA,DF,Monaco,26,"€ 61,923 (£ 53,678, $72,121)","€ 3,220,000 (£ 2,791,281, $3,750,281)",Unverified estimation
+72,Vanderson,br BRA,"DF,MF",Monaco,24,"€ 61,923 (£ 53,678, $72,121)","€ 3,220,000 (£ 2,791,281, $3,750,281)",
+73,Charles Vanhoutte,be BEL,MF,Nice,26,"€ 59,423 (£ 51,511, $69,209)","€ 3,090,000 (£ 2,678,590, $3,598,872)",Unverified estimation
+74,Neal Maupay,fr FRA,"FW,MF",Marseille,28,"€ 59,423 (£ 51,511, $69,209)","€ 3,090,000 (£ 2,678,590, $3,598,872)",Unverified estimation
+75,Przemysław Frankowski,pl POL,"MF,DF",Rennes,30,"€ 59,423 (£ 51,511, $69,209)","€ 3,090,000 (£ 2,678,590, $3,598,872)",Unverified estimation
+76,Odsonne Édouard,fr FRA,FW,Lens,27,"€ 59,423 (£ 51,511, $69,209)","€ 3,090,000 (£ 2,678,590, $3,598,872)",Unverified estimation
+77,Caio Henrique Oliveira Silva,br BRA,"DF,MF",Monaco,28,"€ 57,500 (£ 49,844, $66,969)","€ 2,990,000 (£ 2,591,904, $3,482,404)",Unverified estimation
+78,Krépin Diatta,sn SEN,"MF,DF",Monaco,26,"€ 57,500 (£ 49,844, $66,969)","€ 2,990,000 (£ 2,591,904, $3,482,404)",
+79,Yehvann Diouf,sn SEN,GK,Nice,25,"€ 55,962 (£ 48,511, $65,177)","€ 2,910,000 (£ 2,522,556, $3,389,229)",Unverified estimation
+80,Michael Amir Murillo,pa PAN,"DF,MF",Marseille,29,"€ 55,962 (£ 48,511, $65,177)","€ 2,910,000 (£ 2,522,556, $3,389,229)",Unverified estimation
+81,Mahdi Camara,fr FRA,MF,Rennes,27,"€ 55,962 (£ 48,511, $65,177)","€ 2,910,000 (£ 2,522,556, $3,389,229)",Unverified estimation
+82,Tanner Tessmann,us USA,MF,Lyon,23,"€ 55,962 (£ 48,511, $65,177)","€ 2,910,000 (£ 2,522,556, $3,389,229)",
+83,Adrien Thomasson,fr FRA,MF,Lens,31,"€ 55,962 (£ 48,511, $65,177)","€ 2,910,000 (£ 2,522,556, $3,389,229)",Unverified estimation
+84,Amadou Haidara,ml MLI,MF,Lens,27,"€ 55,962 (£ 48,466, $65,048)","€ 2,910,000 (£ 2,520,227, $3,382,486)",Unverified estimation
+85,Mika Biereth,dk DEN,FW,Monaco,22,"€ 55,192 (£ 47,844, $64,282)","€ 2,870,000 (£ 2,487,881, $3,342,642)",Unverified estimation
+86,Kevin Trapp,de GER,GK,Paris FC,35,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+87,Moses Simon,ng NGA,"MF,FW",Paris FC,30,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+88,Youssouf Ndayishimiye,bi BDI,MF,Nice,26,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+89,Arthur Vermeeren,be BEL,MF,Marseille,20,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+90,Gerónimo Rulli,ar ARG,GK,Marseille,33,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+91,Esteban Lepaul,fr FRA,FW,Rennes,25,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+92,Lilian Brassier,fr FRA,DF,Rennes,25,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+93,Quentin Merlin,fr FRA,"DF,MF",Rennes,23,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+94,Chancel Mbemba,cd COD,DF,Lille,30,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+95,Olivier Giroud,fr FRA,FW,Lille,38,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+96,Malick Fofana,be BEL,"MF,FW",Lyon,20,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+97,Pavel Šulc,cz CZE,"FW,MF",Lyon,24,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+98,Mostafa Mohamed,eg EGY,FW,Nantes,27,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",
+99,Brendan Chardonnet,fr FRA,DF,Brest,30,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+100,Romain Del Castillo,fr FRA,"MF,FW",Brest,29,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+101,Jonathan Gradit,fr FRA,DF,Lens,32,"€ 52,500 (£ 45,510, $61,146)","€ 2,730,000 (£ 2,366,521, $3,179,586)",Unverified estimation
+102,Ansu Fati,es ESP,"MF,FW",Monaco,22,"€ 50,769 (£ 43,969, $59,012)","€ 2,640,000 (£ 2,286,391, $3,068,647)",Unverified estimation
+103,Julio Enciso,py PAR,"MF,FW",Strasbourg,21,"€ 49,038 (£ 42,509, $57,114)","€ 2,550,000 (£ 2,210,487, $2,969,943)",Unverified estimation
+104,Abner,br BRA,"DF,MF",Lyon,25,"€ 49,038 (£ 42,509, $57,114)","€ 2,550,000 (£ 2,210,487, $2,969,943)",Unverified estimation
+105,Ludovic Ajorque,fr FRA,FW,Brest,31,"€ 49,038 (£ 42,509, $57,114)","€ 2,550,000 (£ 2,210,487, $2,969,943)",Unverified estimation
+106,Ethan Nwaneri,eng ENG,MF,Marseille,18,"€ 47,115 (£ 40,805, $54,765)","€ 2,450,000 (£ 2,121,840, $2,847,798)",Unverified estimation
+107,Pierre Lees-Melou,fr FRA,MF,Paris FC,32,"€ 45,385 (£ 39,342, $52,859)","€ 2,360,000 (£ 2,045,784, $2,748,653)",Unverified estimation
+108,Gaëtan Perrin,fr FRA,"MF,FW",Lille,29,"€ 45,385 (£ 39,306, $52,754)","€ 2,360,000 (£ 2,043,895, $2,743,185)",Unverified estimation
+109,Romain Perraud,fr FRA,DF,Lille,27,"€ 45,385 (£ 39,342, $52,859)","€ 2,360,000 (£ 2,045,784, $2,748,653)",Unverified estimation
+110,Mama Samba Baldé,gw GNB,"FW,MF",Brest,29,"€ 45,385 (£ 39,342, $52,859)","€ 2,360,000 (£ 2,045,784, $2,748,653)",Unverified estimation
+111,Ruben Aguilar,fr FRA,MF,Lens,32,"€ 45,385 (£ 39,342, $52,859)","€ 2,360,000 (£ 2,045,784, $2,748,653)",Unverified estimation
+112,Otávio,,CB,Paris FC,23,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+113,Ali Abdi,tn TUN,"MF,DF",Nice,31,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+114,Djibril Sidibé,fr FRA,"MF,DF",Toulouse,33,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+115,Rasmus Nicolaisen,dk DEN,DF,Toulouse,28,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+116,Haris Belkebla,dz ALG,MF,Angers,31,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+117,Mousa Al-Tamari,,RW,Rennes,28,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+118,Alexsandro Ribeiro,br BRA,DF,Lille,25,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+119,Laurent Abergel,fr FRA,MF,Lorient,32,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+120,Clinton Mata,ao ANG,DF,Lyon,32,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+121,Ibrahima Sissoko,ml MLI,"MF,DF",Nantes,27,"€ 41,923 (£ 36,308, $48,730)","€ 2,180,000 (£ 1,888,005, $2,533,959)",Unverified estimation
+122,Nicolas Cozza,fr FRA,DF,Nantes,26,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+123,Gauthier Hein,fr FRA,"MF,FW",Metz,28,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+124,Habib Diallo,sn SEN,FW,Metz,30,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+125,Radosław Majecki,pl POL,GK,Brest,25,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+126,Abdallah Sima,sn SEN,"MF,FW",Lens,24,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+127,Malang Sarr,fr FRA,DF,Lens,26,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+128,Jordan Teze,nl NED,"MF,DF",Monaco,25,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",Unverified estimation
+129,Marshall Munetsi,zw ZIM,MF,Paris FC,29,"€ 40,192 (£ 34,809, $46,718)","€ 2,090,000 (£ 1,810,060, $2,429,346)",Unverified estimation
+130,Hamari Traoré,ml MLI,DF,Paris FC,33,"€ 38,462 (£ 33,341, $44,796)","€ 2,000,000 (£ 1,733,715, $2,329,367)",Unverified estimation
+131,Ulisses Garcia,ch SUI,"MF,DF",Marseille,29,"€ 38,462 (£ 33,341, $44,796)","€ 2,000,000 (£ 1,733,715, $2,329,367)",Unverified estimation
+132,Aïssa Mandi,dz ALG,DF,Lille,33,"€ 38,462 (£ 33,341, $44,796)","€ 2,000,000 (£ 1,733,715, $2,329,367)",Unverified estimation
+133,Deiver Machado,co COL,"DF,MF",Nantes,31,"€ 38,462 (£ 33,310, $44,706)","€ 2,000,000 (£ 1,732,115, $2,324,733)",Unverified estimation
+134,Lucas Tousart,fr FRA,"MF,DF",Brest,28,"€ 38,462 (£ 33,341, $44,796)","€ 2,000,000 (£ 1,733,715, $2,329,367)",Unverified estimation
+135,Mamadou Sangare,ml MLI,MF,Lens,23,"€ 38,462 (£ 33,341, $44,796)","€ 2,000,000 (£ 1,733,715, $2,329,367)",Unverified estimation
+136,Matthieu Udol,fr FRA,"MF,DF",Lens,29,"€ 38,462 (£ 33,341, $44,796)","€ 2,000,000 (£ 1,733,715, $2,329,367)",Unverified estimation
+137,Wesley Saïd,fr FRA,MF,Lens,30,"€ 38,462 (£ 33,341, $44,796)","€ 2,000,000 (£ 1,733,715, $2,329,367)",Unverified estimation
+138,Ilan Kebbal,dz ALG,"MF,FW",Paris FC,27,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+139,Elye Wahi,ci CIV,FW,Nice,22,"€ 35,000 (£ 30,312, $40,683)","€ 1,820,000 (£ 1,576,224, $2,115,507)",Unverified estimation
+140,Hicham Boudaoui,dz ALG,MF,Nice,25,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+141,Mark McKenzie,us USA,DF,Toulouse,26,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+142,CJ Egan-Riley,eng ENG,"DF,MF",Marseille,22,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+143,Romain Faivre,fr FRA,"MF,FW",Auxerre,27,"€ 35,000 (£ 30,312, $40,683)","€ 1,820,000 (£ 1,576,224, $2,115,507)",Unverified estimation
+144,Carlens Arcus,ht HAI,DF,Angers,29,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+145,Jordan Lefort,mr MTN,DF,Angers,31,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+146,Anthony Rouault,fr FRA,DF,Rennes,24,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+147,Ismaël Doukouré,fr FRA,"DF,MF",Strasbourg,22,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+148,Nabil Bentaleb,dz ALG,MF,Lille,30,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+149,Tiago Santos,pt POR,DF,Lille,23,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+150,Yvon Mvogo,ch SUI,GK,Lorient,31,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+151,Dominik Greif,sk SVK,GK,Lyon,28,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+152,Endrick,br BRA,"FW,MF",Lyon,19,"€ 35,000 (£ 30,312, $40,683)","€ 1,820,000 (£ 1,576,224, $2,115,507)",Unverified estimation
+153,Benjamin Stambouli,fr FRA,MF,Metz,34,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+154,Jessy Deminguet,fr FRA,MF,Metz,27,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+155,Hugo Magnetti,fr FRA,MF,Brest,27,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+156,Kenny Lala,mg MAD,DF,Brest,33,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+157,Allan Saint-Maximin,fr FRA,MF,Lens,28,"€ 35,000 (£ 30,312, $40,683)","€ 1,820,000 (£ 1,576,224, $2,115,507)",Unverified estimation
+158,Florian Sotoca,fr FRA,"MF,FW",Lens,34,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+159,Samson Baidoo,at AUT,DF,Lens,21,"€ 35,000 (£ 30,340, $40,764)","€ 1,820,000 (£ 1,577,681, $2,119,724)",Unverified estimation
+160,Saud Abdulhamid,sa KSA,MF,Lens,26,"€ 35,000 (£ 30,312, $40,683)","€ 1,820,000 (£ 1,576,224, $2,115,507)",Unverified estimation
+161,Dro Fernández,,AM,Paris Saint-Germain,18,"€ 35,000 (£ 30,312, $40,683)","€ 1,820,000 (£ 1,576,224, $2,115,507)",Unverified estimation
+162,Philipp Köhn,ch SUI,GK,Monaco,27,"€ 33,077 (£ 28,673, $38,524)","€ 1,720,000 (£ 1,490,995, $2,003,256)",Unverified estimation
+163,Arthur Masuaku,cd COD,"DF,MF",Lens,31,"€ 31,731 (£ 27,481, $36,883)","€ 1,650,000 (£ 1,428,994, $1,917,905)",Unverified estimation
+164,Jonathan Ikone,fr FRA,"MF,FW",Paris FC,27,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+165,Maxime Lopez,fr FRA,MF,Paris FC,27,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+166,Moïse Bombito,ca CAN,DF,Nice,25,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+167,Aron Dønnum,no NOR,MF,Toulouse,27,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+168,Gideon Mensah,gh GHA,DF,Auxerre,27,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+169,Jim Allevinah,ga GAB,MF,Angers,30,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+170,Joaquín Panichelli,ar ARG,FW,Strasbourg,22,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+171,Berke Özer,tr TUR,GK,Lille,25,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+172,Jean-Victor Makengo,fr FRA,MF,Lorient,27,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+173,Martin Satriano,uy URU,FW,Lyon,24,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+174,Rémy Descamps,fr FRA,GK,Lyon,29,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+175,Fabien Centonze,fr FRA,"MF,DF",Nantes,29,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+176,Boubacar Traoré,ml MLI,MF,Metz,23,"€ 31,538 (£ 27,314, $36,659)","€ 1,640,000 (£ 1,420,334, $1,906,281)",
+177,Jean-Philippe Gbamin,ci CIV,"DF,MF",Metz,29,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+178,Sekou Mara,fr FRA,FW,Auxerre,23,"€ 29,808 (£ 25,839, $34,717)","€ 1,550,000 (£ 1,343,629, $1,805,260)",Unverified estimation
+179,Amine Harit,ma MAR,"FW,MF",Marseille,28,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+180,Lukáš Hrádecký,fi FIN,GK,Monaco,35,"€ 28,654 (£ 24,839, $33,373)","€ 1,490,000 (£ 1,291,618, $1,735,379)",Unverified estimation
+181,Wout Faes,be BEL,DF,Monaco,27,"€ 28,654 (£ 24,816, $33,306)","€ 1,490,000 (£ 1,290,425, $1,731,926)",Unverified estimation
+182,Jean-Philippe Krasso,ci CIV,FW,Paris FC,28,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+183,Willem Geubbels,fr FRA,FW,Paris FC,23,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+184,Kevin Carlos,,CF,Nice,24,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+185,Mohamed Abdelmonem,,CB,Nice,27,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+186,Niklas Schmidt,de GER,"FW,MF",Toulouse,27,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+187,Elisha Owusu,gh GHA,MF,Auxerre,27,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+188,Francisco Sierralta,cl CHI,DF,Auxerre,28,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+189,Abdoulaye Touré,gn GUI,MF,Le Havre,31,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+190,Gautier Lloris,fr FRA,DF,Le Havre,30,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+191,Emanuel Emegha,nl NED,FW,Strasbourg,22,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+192,Calvin Verdonk,id IDN,DF,Lille,28,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+193,Mohamed Lamine Bayo,gn GUI,CF,Lille,27,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",
+194,Hans Hateboer,nl NED,"DF,MF",Lyon,31,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+195,Chidozie Awaziem,ng NGA,DF,Nantes,28,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+196,Quentin Ndjantou,,LW,Paris Saint-Germain,18,"€ 27,885 (£ 24,150, $32,412)","€ 1,450,000 (£ 1,255,783, $1,685,431)",Unverified estimation
+197,Senny Mayulu,fr FRA,"MF,FW",Paris Saint-Germain,19,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+198,Lamine Camara,sn SEN,MF,Monaco,21,"€ 26,538 (£ 23,005, $30,909)","€ 1,380,000 (£ 1,196,263, $1,607,263)",Unverified estimation
+199,Isak Jansson,,LW,Nice,24,"€ 26,154 (£ 22,672, $30,461)","€ 1,360,000 (£ 1,178,926, $1,583,970)",Unverified estimation
+200,Alidu Seidu,gh GHA,DF,Rennes,25,"€ 26,154 (£ 22,672, $30,461)","€ 1,360,000 (£ 1,178,926, $1,583,970)",Unverified estimation
+201,Hákon Haraldsson,is ISL,MF,Lille,22,"€ 26,154 (£ 22,672, $30,461)","€ 1,360,000 (£ 1,178,926, $1,583,970)",Unverified estimation
+202,Osame Sahraoui,ma MAR,MF,Lille,24,"€ 26,154 (£ 22,672, $30,461)","€ 1,360,000 (£ 1,178,926, $1,583,970)",Unverified estimation
+203,Joris Chotard,fr FRA,MF,Brest,23,"€ 26,154 (£ 22,672, $30,461)","€ 1,360,000 (£ 1,178,926, $1,583,970)",Unverified estimation
+204,Simon Adingra,ci CIV,"MF,FW",Monaco,23,"€ 25,385 (£ 21,985, $29,506)","€ 1,320,000 (£ 1,143,196, $1,534,324)",Unverified estimation
+205,Mathieu Cafaro,fr FRA,FW,Paris FC,28,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+206,Pierre-Yves Hamel,fr FRA,FW,Paris FC,31,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+207,Frank Magri,cm CMR,"FW,MF",Toulouse,25,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+208,Donovan Léon,gf GUF,GK,Auxerre,32,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+209,Ibrahim Osman,gh GHA,"MF,FW",Auxerre,20,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+210,Hervé Koffi,bf BFA,GK,Angers,28,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+211,Abakar Sylla,ci CIV,DF,Strasbourg,22,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+212,Andrew Omobamidele,ie IRL,DF,Strasbourg,23,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+213,Diego Moreira,be BEL,MF,Strasbourg,20,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+214,Guéla Doué,ci CIV,"DF,MF",Strasbourg,22,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+215,Sebastian Nanasi,se SWE,MF,Strasbourg,23,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+216,Arnaud Bodart,be BEL,GK,Lille,27,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+217,Félix Correia,pt POR,MF,Lille,24,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+218,Hamza Igamane,,CF,Lille,23,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+219,Bamo Meïté,ci CIV,DF,Lorient,23,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+220,Tyler Morton,eng ENG,MF,Lyon,22,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+221,Kelvin Amian,fr FRA,DF,Nantes,27,"€ 24,423 (£ 21,171, $28,445)","€ 1,270,000 (£ 1,100,909, $1,479,148)",Unverified estimation
+222,Christian Mawissa,fr FRA,"DF,MF",Monaco,20,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+223,Salis Abdul Samed,gh GHA,MF,Nice,25,"€ 22,692 (£ 19,671, $26,429)","€ 1,180,000 (£ 1,022,892, $1,374,327)",Unverified estimation
+224,Danny Loader,cm CMR,"MF,FW",Auxerre,24,"€ 22,692 (£ 19,671, $26,429)","€ 1,180,000 (£ 1,022,892, $1,374,327)",Unverified estimation
+225,Lassine Sinayoko,ml MLI,"FW,MF",Auxerre,25,"€ 22,692 (£ 19,671, $26,429)","€ 1,180,000 (£ 1,022,892, $1,374,327)",Unverified estimation
+226,Matias Fernandez-Pardo,be BEL,"FW,MF",Lille,20,"€ 22,692 (£ 19,671, $26,429)","€ 1,180,000 (£ 1,022,892, $1,374,327)",Unverified estimation
+227,Souleymane Touré,fr FRA,DF,Lorient,22,"€ 22,692 (£ 19,671, $26,429)","€ 1,180,000 (£ 1,022,892, $1,374,327)",Unverified estimation
+228,Matthis Abline,fr FRA,"FW,MF",Nantes,22,"€ 22,692 (£ 19,671, $26,429)","€ 1,180,000 (£ 1,022,892, $1,374,327)",Unverified estimation
+229,Roman Yaremchuk,ua UKR,FW,Lyon,29,"€ 21,923 (£ 18,987, $25,483)","€ 1,140,000 (£ 987,305, $1,325,098)",Unverified estimation
+230,Nouha Dicko,ml MLI,"FW,MF",Paris FC,33,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+231,Mohamed Ali Cho,fr FRA,"FW,MF",Nice,21,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+232,Tiago Gouveia,,RW,Nice,24,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+233,Josué Casimir,ht HAI,"MF,FW",Auxerre,23,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+234,Naouirou Ahamada,fr FRA,MF,Auxerre,23,"€ 20,962 (£ 18,154, $24,365)","€ 1,090,000 (£ 944,002, $1,266,979)",Unverified estimation
+235,Sinaly Diomande,ci CIV,DF,Auxerre,24,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+236,Branco van den Boomen,nl NED,MF,Angers,30,"€ 20,962 (£ 18,154, $24,365)","€ 1,090,000 (£ 944,002, $1,266,979)",Unverified estimation
+237,Aaron Anselmino,ar ARG,DF,Strasbourg,20,"€ 20,962 (£ 18,154, $24,365)","€ 1,090,000 (£ 944,002, $1,266,979)",
+238,Lucas Høgsberg,,CB,Strasbourg,19,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+239,Mathis Amougou,fr FRA,MF,Strasbourg,19,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+240,Valentín Barco,ar ARG,MF,Strasbourg,21,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+241,Ayyoub Bouaddi,ma MAR,MF,Lille,17,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+242,Tosin Aiyegun,bj BEN,"FW,MF",Lorient,27,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+243,Montassar Talbi,tn TUN,DF,Lorient,27,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+244,Rachid Ghezzal,dz ALG,"MF,FW",Lyon,33,"€ 20,962 (£ 18,154, $24,365)","€ 1,090,000 (£ 944,002, $1,266,979)",Unverified estimation
+245,Ruben Kluivert,nl NED,DF,Lyon,24,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+246,Cheikh Tidiane Sabaly,sn SEN,"MF,FW",Metz,26,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+247,Fodé Ballo-Touré,sn SEN,"DF,MF",Metz,28,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+248,Maxime Colin,fr FRA,DF,Metz,33,"€ 20,962 (£ 18,171, $24,414)","€ 1,090,000 (£ 944,875, $1,269,505)",Unverified estimation
+249,Charlie Cresswell,eng ENG,DF,Toulouse,22,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+250,Cristian Cásseres Jr.,ve VEN,MF,Toulouse,25,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+251,Guillaume Restes,fr FRA,GK,Toulouse,20,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+252,Kévin Danois,fr FRA,MF,Auxerre,21,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+253,Djaoui Cissé,fr FRA,MF,Rennes,21,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+254,Mike Penders,,GK,Strasbourg,20,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+255,Ngal'ayel Mukau,,DM,Lille,21,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+256,Terry Yegbe,,CB,Metz,25,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+257,Soumaïla Coulibaly,fr FRA,DF,Brest,21,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+258,Kassoum Ouattara,fr FRA,"MF,DF",Monaco,20,"€ 17,692 (£ 15,337, $20,606)","€ 920,000 (£ 797,509, $1,071,509)",Unverified estimation
+259,Alimami Gory,ml MLI,"MF,DF",Paris FC,28,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+260,Julien López,dz ALG,"FW,MF",Paris FC,33,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+261,Thibault De Smet,be BEL,DF,Paris FC,27,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+262,Timothée Kolodziejczak,fr FRA,DF,Paris FC,33,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+263,Vincent Marchetti,fr FRA,MF,Paris FC,28,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+264,Maxime Dupé,fr FRA,GK,Nice,32,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+265,Himad Abdelli,dz ALG,MF,Marseille,25,"€ 17,500 (£ 15,156, $20,341)","€ 910,000 (£ 788,112, $1,057,753)",Unverified estimation
+266,Jeffrey De Lange,nl NED,GK,Marseille,27,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+267,Clément Akpa,ci CIV,DF,Auxerre,23,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+268,Arouna Sangante,sn SEN,DF,Le Havre,23,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+269,Etienne Youte Kinkoue,fr FRA,"DF,MF",Le Havre,23,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+270,Loïc Nego,hu HUN,"DF,MF",Le Havre,34,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+271,Mbwana Samatta,tz TAN,FW,Le Havre,32,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+272,Mory Diaw,sn SEN,GK,Le Havre,32,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+273,Reda Khadra,de GER,FW,Le Havre,24,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+274,Timothee Pembele,fr FRA,"MF,DF",Le Havre,22,"€ 17,500 (£ 15,156, $20,341)","€ 910,000 (£ 788,112, $1,057,753)",Unverified estimation
+275,Florent Hanin,dz ALG,"DF,MF",Angers,35,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+276,Jérémy Jacquet,fr FRA,DF,Rennes,20,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+277,David Datro Fofana,ci CIV,FW,Strasbourg,22,"€ 17,500 (£ 15,156, $20,341)","€ 910,000 (£ 788,112, $1,057,753)",Unverified estimation
+278,Junior Mwanga,fr FRA,"DF,MF",Strasbourg,22,"€ 17,500 (£ 15,156, $20,341)","€ 910,000 (£ 788,112, $1,057,753)",Unverified estimation
+279,Martial Godo,ci CIV,MF,Strasbourg,22,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+280,Samir El Mourabet,,CM,Strasbourg,20,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+281,Marius Broholm,no NOR,MF,Lille,20,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+282,Nathan Ngoy,be BEL,DF,Lille,22,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+283,Bamba Dieng,sn SEN,FW,Lorient,25,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+284,Igor Carioca,br BRA,DF,Lorient,28,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+285,Mohamed Bamba,ci CIV,FW,Lorient,23,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+286,Nathaniel Adjei,gh GHA,DF,Lorient,22,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+287,Noah Cadiou,,CM,Lorient,27,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+288,Adam Karabec,cz CZE,"MF,FW",Lyon,22,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+289,Khalis Merah,,CM,Lyon,18,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+290,Rémy Cabella,fr FRA,"MF,FW",Nantes,35,"€ 17,500 (£ 15,156, $20,341)","€ 910,000 (£ 788,112, $1,057,753)",Unverified estimation
+291,Youssef El-Arabi,ma MAR,FW,Nantes,38,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+292,Bouna Sarr,sn SEN,"MF,DF",Metz,33,"€ 17,500 (£ 15,156, $20,341)","€ 910,000 (£ 788,112, $1,057,753)",Unverified estimation
+293,Joel Asoro,se SWE,FW,Metz,26,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+294,Koffi Kouao,ci CIV,"DF,MF",Metz,27,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+295,Junior Dina Ebimbe,cm CMR,MF,Brest,24,"€ 17,500 (£ 15,170, $20,382)","€ 910,000 (£ 788,840, $1,059,862)",Unverified estimation
+296,Nhoa Sangui,fr FRA,DF,Paris FC,19,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+297,Obed Nkambadio,fr FRA,GK,Paris FC,22,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+298,Rudy Matondo,,CM,Paris FC,17,"€ 15,769 (£ 13,657, $18,330)","€ 820,000 (£ 710,167, $953,140)",Unverified estimation
+299,Tom Louchet,fr FRA,MF,Nice,22,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+300,Abu Francis,,CM,Toulouse,24,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+301,Yann Gboho,fr FRA,"MF,FW",Toulouse,24,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+302,Bilal Nadir,ma MAR,MF,Marseille,21,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+303,Marvin Senaya,gh GHA,"DF,MF",Auxerre,24,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+304,Oussama El Azzouzi,ma MAR,"MF,DF",Auxerre,24,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",
+305,Yassine Kechta,ma MAR,MF,Le Havre,23,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+306,Abdoulaye Bamba,ci CIV,DF,Angers,35,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+307,Emmanuel Biumla,fr FRA,DF,Angers,20,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+308,Arnaud Nordin,fr FRA,"FW,MF",Rennes,27,"€ 15,769 (£ 13,657, $18,330)","€ 820,000 (£ 710,167, $953,140)",Unverified estimation
+309,Yassir Zabiri,,CF,Rennes,20,"€ 15,769 (£ 13,657, $18,330)","€ 820,000 (£ 710,167, $953,140)",Unverified estimation
+310,Karl-Johan Johnsson,se SWE,GK,Strasbourg,35,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+311,Saidou Sow,gn GUI,CB,Strasbourg,23,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+312,Joel Mvuka,no NOR,"MF,DF",Lorient,22,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+313,Panos Katseris,gr GRE,"MF,DF",Lorient,24,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+314,Sambou Soumano,sn SEN,FW,Lorient,24,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+315,Noah Nartey,,AM,Lyon,20,"€ 15,769 (£ 13,657, $18,330)","€ 820,000 (£ 710,167, $953,140)",Unverified estimation
+316,Johann Lepenant,fr FRA,MF,Nantes,22,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+317,Uroš Radaković,rs SRB,DF,Nantes,31,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+318,Jonathan Fischer,,GK,Metz,24,"€ 15,769 (£ 13,670, $18,366)","€ 820,000 (£ 710,823, $955,041)",Unverified estimation
+319,Stanis Idumbo,be BEL,MF,Monaco,20,"€ 15,385 (£ 13,336, $17,918)","€ 800,000 (£ 693,486, $931,747)",Unverified estimation
+320,Diego Coppola,it ITA,DF,Paris FC,21,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+321,Lamine Gueye,sn SEN,MF,Paris FC,27,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+322,Rémy Riou,fr FRA,GK,Paris FC,37,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+323,Samir Chergui,dz ALG,DF,Paris FC,26,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+324,Antoine Mendy,sn SEN,DF,Nice,21,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+325,Juma Bah,,CB,Nice,19,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+326,Ayumu Seko,jp JPN,"MF,DF",Le Havre,25,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+327,Sofiane Boufal,ma MAR,"MF,FW",Le Havre,31,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+328,Amine Sbai,ma MAR,"MF,FW",Angers,24,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+329,Goduine Koyalipou,cf CTA,FW,Angers,25,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+330,Louis Mouton,fr FRA,MF,Angers,23,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+331,Pierrick Capelle,fr FRA,MF,Angers,38,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+332,Maxi Oyedele,,DM,Strasbourg,21,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+333,Rafael Luís,,DM,Strasbourg,20,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+334,Samuel Amo-Ameyaw,eng ENG,"MF,DF",Strasbourg,19,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+335,Ethan Mbappé,fr FRA,"MF,FW",Lille,18,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+336,Noah Edjouma,fr FRA,MF,Lille,19,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+337,Abdoulaye Faye,sn SEN,DF,Lorient,20,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+338,Bingourou Kamara,sn SEN,GK,Lorient,28,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+339,Pablo Pagis,fr FRA,"MF,FW",Lorient,22,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+340,Frederic Guilbert,fr FRA,"DF,MF",Nantes,30,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+341,Louis Leroux,fr FRA,"MF,DF",Nantes,19,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+342,Tylel Tati,,CB,Nantes,18,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+343,Giorgi Kvilitaia,ge GEO,FW,Metz,31,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+344,Giorgi Tsitaishvili,,RW,Metz,25,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+345,Kamory Doumbia,ml MLI,MF,Brest,22,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+346,Jhoanner Chávez,ec ECU,"DF,MF",Lens,23,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+347,Robin Risser,fr FRA,GK,Lens,20,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+348,Ibrahim Mbaye,sn SEN,"FW,MF",Paris Saint-Germain,17,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+349,Kojo Peprah Oppong,,CB,Nice,21,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+350,Emersonn,,CF,Toulouse,21,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+351,Santiago Hidalgo,,CF,Toulouse,20,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+352,Assane Dioussé,sn SEN,MF,Auxerre,27,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+353,Lionel Mpasi-Nzau,,GK,Le Havre,31,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+354,Lucas Gourna-Douath,fr FRA,MF,Le Havre,21,"€ 12,308 (£ 10,659, $14,306)","€ 640,000 (£ 554,277, $743,915)",
+355,Lilian Raolisoa,fr FRA,"MF,DF",Angers,25,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+356,Yassin Belkhdim,fr FRA,MF,Angers,23,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+357,Abdelhamid Ait Boudlal,ma MAR,DF,Rennes,19,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+358,Gessime Yassine,,RW,Strasbourg,20,"€ 12,308 (£ 10,659, $14,306)","€ 640,000 (£ 554,277, $743,915)",Unverified estimation
+359,Arsène Kouassi,,LB,Lorient,21,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+360,Darlin Yongwa,cm CMR,"DF,MF",Lorient,24,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+361,Théo Le Bris,fr FRA,MF,Lorient,22,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+362,Afonso Moreira,pt POR,"MF,FW",Lyon,20,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+363,Patrik Carlgren,se SWE,GK,Nantes,33,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+364,Yassine Benhattab,fr FRA,"MF,FW",Nantes,22,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+365,Bradley Locko,fr FRA,DF,Brest,23,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+366,Luck Zogbé,ci CIV,DF,Brest,20,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+367,Pathé Mboup,,LW,Brest,22,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+368,Mamadou Coulibaly,,CM,Monaco,21,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+369,Luca Koleosho,it ITA,MF,Paris FC,20,"€ 10,577 (£ 9,160, $12,294)","€ 550,000 (£ 476,331, $639,302)",Unverified estimation
+370,Moustapha Mbow,sn SEN,DF,Paris FC,25,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+371,Mathys Tourraine,fr FRA,RB,Paris FC,24,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+372,Sofiane Alakouch,ma MAR,RB,Paris FC,27,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+373,Tuomas Ollila,,LB,Paris FC,25,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+374,Dayann Methalie,,CB,Toulouse,19,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+375,Jacen Russell-Rowe,ca CAN,FW,Toulouse,22,"€ 10,577 (£ 9,160, $12,294)","€ 550,000 (£ 476,331, $639,302)",Unverified estimation
+376,Mario Sauer,sk SVK,MF,Toulouse,21,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+377,Pape Demba Diop,sn SEN,MF,Toulouse,21,"€ 10,577 (£ 9,160, $12,294)","€ 550,000 (£ 476,331, $639,302)",Unverified estimation
+378,Warren Kamanzi,no NOR,MF,Toulouse,24,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+379,Tochukwu Nnadi,,DM,Marseille,22,"€ 10,577 (£ 9,160, $12,294)","€ 550,000 (£ 476,331, $639,302)",Unverified estimation
+380,Lasso Coulibaly,ci CIV,MF,Auxerre,22,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+381,Godson Kyeremeh,fr FRA,FW,Le Havre,25,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+382,Issa Soumaré,sn SEN,"FW,MF",Le Havre,24,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+383,Rassoul Ndiaye,sn SEN,MF,Le Havre,23,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+384,Yanis Zouaoui,,LB,Le Havre,27,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+385,Rafael Fernandes,pt POR,CB,Lille,23,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+386,Arthur Avom,,CM,Lorient,21,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+387,Benjamin Leroy,fr FRA,GK,Lorient,36,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+388,Dermane Karim,,DM,Lorient,22,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+389,Amady Camara,,CF,Nantes,20,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+390,Herba Guirassy,,LW,Nantes,19,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+391,Daouda Guindo,ml MLI,DF,Brest,22,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+392,Junior Diaz,,CB,Brest,22,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+393,Nidal Čelik,ba BIH,DF,Lens,19,"€ 10,577 (£ 9,169, $12,319)","€ 550,000 (£ 476,772, $640,576)",Unverified estimation
+394,Paris Brunner,de GER,FW,Monaco,19,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+395,Adama Camara,fr FRA,"MF,DF",Paris FC,28,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+396,Lohann Doucet,bf BFA,MF,Paris FC,22,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+397,Rafik Messali,fr FRA,MF,Toulouse,22,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+398,Bryan Okoh,ch SUI,DF,Auxerre,22,"€ 8,654 (£ 7,495, $10,059)","€ 450,000 (£ 389,726, $523,065)",Unverified estimation
+399,Felix Mambimbi,ch SUI,"FW,MF",Le Havre,24,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+400,Fodé Doucouré,ml MLI,"MF,FW",Le Havre,24,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+401,Jacques Ekomie,ga GAB,"DF,MF",Angers,21,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+402,Ousmane Camara,ml MLI,DF,Angers,22,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+403,Stefan Bajic,fr FRA,GK,Strasbourg,23,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+404,Mathys De Carvalho,,DM,Lyon,20,"€ 8,654 (£ 7,495, $10,059)","€ 450,000 (£ 389,726, $523,065)",Unverified estimation
+405,Mohamed Kaba,gn GUI,MF,Nantes,23,"€ 8,654 (£ 7,495, $10,059)","€ 450,000 (£ 389,726, $523,065)",Unverified estimation
+406,Morgan Bokele,,LW,Metz,21,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+407,Rémy Labeau Lascary,gp GLP,"MF,FW",Brest,22,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+408,Anthony Bermont,fr FRA,FW,Lens,20,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+409,Fodé Sylla,,DM,Lens,19,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+410,Ismaëlo Ganiou,fr FRA,DF,Lens,20,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+411,Rayan Fofana,,CF,Lens,19,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+412,Renato Marin,it ITA,GK,Paris Saint-Germain,19,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+413,Álex Domínguez,es ESP,GK,Toulouse,27,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+414,Julián Vignolo,,CF,Toulouse,19,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+415,Kjetil Haug,no NOR,GK,Toulouse,27,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+416,Lamine Sy,mr MTN,DF,Auxerre,22,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+417,Mahamadou Nagida,cm CMR,DF,Rennes,20,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+418,Mathys Silistrie,,GK,Rennes,20,"€ 6,923 (£ 5,996, $8,047)","€ 360,000 (£ 311,781, $418,452)",Unverified estimation
+419,Abdoul Ouattara,fr FRA,"MF,DF",Strasbourg,19,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+420,Marc-Aurèle Caillard,fr FRA,GK,Lille,31,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+421,Bandiougou Fadiga,fr FRA,MF,Lorient,24,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+422,Achraf Laâziri,ma MAR,LB,Lyon,22,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+423,Noham Kamara,,CB,Lyon,19,"€ 6,923 (£ 5,996, $8,047)","€ 360,000 (£ 311,781, $418,452)",Unverified estimation
+424,Ali Youssif,,CB,Nantes,24,"€ 6,923 (£ 5,996, $8,047)","€ 360,000 (£ 311,781, $418,452)",Unverified estimation
+425,Giorgi Abuashvili,,LW,Metz,22,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+426,Michel Mboula,ga GAB,"DF,MF",Metz,22,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+427,Pape Sy,,GK,Metz,28,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+428,Grégoire Coudert,fr FRA,GK,Brest,26,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+429,Andrija Bulatović,me MNE,MF,Lens,18,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+430,Régis Gurtner,fr FRA,GK,Lens,38,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+431,Aladji Bamba,,DM,Monaco,19,"€ 6,538 (£ 5,668, $7,615)","€ 340,000 (£ 294,732, $395,992)",Unverified estimation
+432,Edan Diop,fr FRA,CM,Monaco,21,"€ 6,538 (£ 5,668, $7,615)","€ 340,000 (£ 294,732, $395,992)",Unverified estimation
+433,Fredrik Oppegard,no NOR,"MF,DF",Auxerre,22,"€ 6,346 (£ 5,501, $7,391)","€ 330,000 (£ 286,063, $384,346)",Unverified estimation
+434,Trevan Sanusi,,LW,Lorient,18,"€ 6,346 (£ 5,501, $7,391)","€ 330,000 (£ 286,063, $384,346)",Unverified estimation
+435,Mathieu Gorgelin,fr FRA,GK,Lens,34,"€ 6,346 (£ 5,496, $7,377)","€ 330,000 (£ 285,799, $383,581)",Unverified estimation
+436,Jules Stawiecki,,GK,Monaco,18,"€ 5,577 (£ 4,834, $6,495)","€ 290,000 (£ 251,389, $337,758)",Unverified estimation
+437,Gabin Bernardeau,fr FRA,MF,Nice,19,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+438,Jelle Van Neck,be BEL,GK,Marseille,21,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+439,Théo De Percin,mq MTQ,GK,Auxerre,24,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+440,Simon Ebonog,cm CMR,MF,Le Havre,20,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+441,Harouna Djibirin,,RW,Angers,19,"€ 5,192 (£ 4,497, $6,035)","€ 270,000 (£ 233,835, $313,839)",Unverified estimation
+442,Melvin Zinga,fr FRA,GK,Angers,23,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+443,Ousmane Toure,fr FRA,DF,Lille,20,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+444,Lassine Diarra,ml MLI,GK,Lyon,22,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+445,Rémi Himbert,,LW,Lyon,18,"€ 5,192 (£ 4,497, $6,035)","€ 270,000 (£ 233,835, $313,839)",Unverified estimation
+446,Dehmaine Tabibou,,CM,Nantes,20,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+447,Lucas Michal,,,Metz,20,"€ 5,192 (£ 4,497, $6,035)","€ 270,000 (£ 233,835, $313,839)",Unverified estimation
+448,Sadibou Sané,sn SEN,DF,Metz,21,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+449,Telli Siwe,,CB,Auxerre,21,"€ 4,231 (£ 3,667, $4,928)","€ 220,000 (£ 190,709, $256,230)",Unverified estimation
+450,Lanroy Machine,,CF,Angers,20,"€ 4,231 (£ 3,667, $4,928)","€ 220,000 (£ 190,709, $256,230)",Unverified estimation
+451,Marius Courcoul,fr FRA,MF,Angers,18,"€ 4,231 (£ 3,667, $4,928)","€ 220,000 (£ 190,709, $256,230)",Unverified estimation
+452,Alpha Touré,sn SEN,MF,Metz,19,"€ 4,231 (£ 3,667, $4,928)","€ 220,000 (£ 190,709, $256,230)",Unverified estimation
+453,Ousmane Ba,sn SEN,GK,Metz,23,"€ 4,231 (£ 3,664, $4,918)","€ 220,000 (£ 190,533, $255,721)",Unverified estimation
+454,Yannis Lawson,tg TOG,DF,Metz,20,"€ 4,231 (£ 3,667, $4,928)","€ 220,000 (£ 190,709, $256,230)",Unverified estimation
+455,Djibril Coulibaly,,CM,Nice,17,"€ 3,462 (£ 3,001, $4,032)","€ 180,000 (£ 156,034, $209,643)",Unverified estimation
+456,Dan Sinaté,fr FRA,DF,Angers,19,"€ 3,462 (£ 3,001, $4,032)","€ 180,000 (£ 156,034, $209,643)",Unverified estimation
+457,Nordan Mukiele,,LW,Rennes,19,"€ 3,462 (£ 3,001, $4,032)","€ 180,000 (£ 156,034, $209,643)",Unverified estimation
+458,Adel Mahamoud,,LW,Nantes,23,"€ 3,462 (£ 3,001, $4,032)","€ 180,000 (£ 156,034, $209,643)",Unverified estimation
+459,Alexis Mirbach,fr FRA,GK,Nantes,20,"€ 3,462 (£ 3,001, $4,032)","€ 180,000 (£ 156,034, $209,643)",Unverified estimation
+460,Hamidou Makalou,ml MLI,MF,Brest,19,"€ 3,462 (£ 3,001, $4,032)","€ 180,000 (£ 156,034, $209,643)",Unverified estimation
+461,Noah Jauny,ie IRL,GK,Brest,20,"€ 3,462 (£ 3,001, $4,032)","€ 180,000 (£ 156,034, $209,643)",Unverified estimation
+462,Yann Liénard,fr FRA,GK,Monaco,22,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+463,Bartosz Zelazowski,,GK,Nice,20,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+464,Enzo Faty,,CF,Toulouse,19,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+465,Seny Koumbassa,,CB,Toulouse,18,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+466,Ryan Rodin,,CF,Auxerre,19,"€ 3,077 (£ 2,665, $3,577)","€ 160,000 (£ 138,569, $185,979)",Unverified estimation
+467,Daren Mosengo,,DM,Le Havre,19,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+468,Kenny Quetant,,CF,Le Havre,19,"€ 3,077 (£ 2,665, $3,577)","€ 160,000 (£ 138,569, $185,979)",Unverified estimation
+469,Noam Obougou,,CF,Le Havre,19,"€ 3,077 (£ 2,665, $3,577)","€ 160,000 (£ 138,569, $185,979)",Unverified estimation
+470,Oumar Pona,fr FRA,GK,Angers,19,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+471,Prosper Peter,,CF,Angers,18,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+472,Elías Legendre Quiñónez,,RW,Rennes,17,"€ 3,077 (£ 2,665, $3,577)","€ 160,000 (£ 138,569, $185,979)",Unverified estimation
+473,Bahmed Deuff,,DM,Nantes,19,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+474,Ismaël Guerti,fr FRA,FW,Metz,21,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+475,Raphaël Le Guen,,CB,Brest,19,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+476,Alpha Diallo,,AM,Lens,19,"€ 3,077 (£ 2,667, $3,584)","€ 160,000 (£ 138,697, $186,349)",Unverified estimation
+477,Alexis Vossah,,CM,Toulouse,17,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+478,Alvin Petit Dol,,CB,Auxerre,19,"€ 2,885 (£ 2,498, $3,353)","€ 150,000 (£ 129,909, $174,355)",Unverified estimation
+479,Louis Mezerette,,GK,Auxerre,19,"€ 2,885 (£ 2,498, $3,353)","€ 150,000 (£ 129,909, $174,355)",Unverified estimation
+480,Tom Negrel,fr FRA,GK,Auxerre,22,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+481,Guy-Noël Zohouri,,CM,Le Havre,19,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+482,Paul Argney,fr FRA,GK,Le Havre,19,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+483,Marius Louer,fr FRA,DF,Angers,18,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+484,Sékou Doucouré,,CB,Nantes,20,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+485,Cléo Mélières,,RB,Metz,20,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+486,Joseph Mangondo,fr FRA,CF,Metz,20,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+487,Saliou Diop,,CF,Brest,20,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+488,Kyllian Antonio,,CB,Lens,18,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+489,Tidiane Devernois,,CM,Auxerre,18,"€ 2,500 (£ 2,165, $2,906)","€ 130,000 (£ 112,587, $151,108)",Unverified estimation
+490,Stephan Zagadou,,CB,Le Havre,17,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+491,Ilan Jourdren,,GK,Lens,17,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+492,Nathan Buayi-Kiala,fr FRA,DM,Auxerre,21,"€ 2,308 (£ 1,990, $2,701)","€ 120,000 (£ 103,462, $140,466)",Unverified estimation
+493,Elikya Legros,,CB,Auxerre,17,"€ 2,115 (£ 1,832, $2,459)","€ 110,000 (£ 95,266, $127,860)",Unverified estimation

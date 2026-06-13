@@ -1,0 +1,519 @@
+Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes
+1,Kylian Mbappé,fr FRA,FW,Real Madrid,26,"€ 600,962 (£ 520,948, $699,930)","€ 31,250,000 (£ 27,089,300, $36,396,362)",
+2,Vinicius Júnior,br BRA,"FW,MF",Real Madrid,25,"€ 480,769 (£ 416,758, $559,944)","€ 25,000,000 (£ 21,671,440, $29,117,090)",
+3,David Alaba,at AUT,DF,Real Madrid,33,"€ 432,692 (£ 375,083, $503,950)","€ 22,500,000 (£ 19,504,296, $26,205,381)",
+4,Jude Bellingham,eng ENG,MF,Real Madrid,22,"€ 400,577 (£ 347,243, $466,545)","€ 20,830,000 (£ 18,056,644, $24,260,359)",
+5,Jan Oblak,si SVN,GK,Atlético Madrid,32,"€ 400,577 (£ 347,243, $466,545)","€ 20,830,000 (£ 18,056,644, $24,260,359)",
+6,Robert Lewandowski,pl POL,FW,Barcelona,36,"€ 400,577 (£ 347,243, $466,545)","€ 20,830,000 (£ 18,056,644, $24,260,359)",
+7,Frenkie de Jong,nl NED,MF,Barcelona,28,"€ 365,385 (£ 316,736, $425,557)","€ 19,000,000 (£ 16,470,294, $22,128,988)",
+8,Nico Williams,es ESP,MF,Athletic Club,23,"€ 320,577 (£ 277,895, $373,371)","€ 16,670,000 (£ 14,450,516, $19,415,276)",
+9,Federico Valverde,uy URU,"MF,DF",Real Madrid,27,"€ 320,577 (£ 277,895, $373,371)","€ 16,670,000 (£ 14,450,516, $19,415,276)",Unverified estimation
+10,Rodrygo,br BRA,"MF,FW",Real Madrid,24,"€ 320,577 (£ 277,895, $373,371)","€ 16,670,000 (£ 14,450,516, $19,415,276)",Unverified estimation
+11,Trent Alexander-Arnold,eng ENG,DF,Real Madrid,26,"€ 320,577 (£ 277,895, $373,371)","€ 16,670,000 (£ 14,450,516, $19,415,276)",
+12,Lamine Yamal,es ESP,"MF,FW",Barcelona,18,"€ 320,577 (£ 277,895, $373,371)","€ 16,670,000 (£ 14,450,516, $19,415,276)",
+13,Raphinha,br BRA,"MF,FW",Barcelona,28,"€ 320,577 (£ 277,895, $373,371)","€ 16,670,000 (£ 14,450,516, $19,415,276)",
+14,Jules Koundé,fr FRA,DF,Barcelona,26,"€ 300,577 (£ 260,557, $350,077)","€ 15,630,000 (£ 13,548,984, $18,204,005)",Unverified estimation
+15,Thibaut Courtois,be BEL,GK,Real Madrid,33,"€ 288,462 (£ 250,055, $335,966)","€ 15,000,000 (£ 13,002,864, $17,470,254)",
+16,Antonio Rüdiger,de GER,DF,Real Madrid,32,"€ 280,385 (£ 243,054, $326,559)","€ 14,580,000 (£ 12,638,784, $16,981,087)",
+17,Éder Militão,br BRA,DF,Real Madrid,27,"€ 280,385 (£ 243,054, $326,559)","€ 14,580,000 (£ 12,638,784, $16,981,087)",
+18,Marcus Rashford,eng ENG,"MF,FW",Barcelona,27,"€ 269,231 (£ 233,385, $313,569)","€ 14,000,000 (£ 12,136,006, $16,305,570)",
+19,Aurélien Tchouaméni,fr FRA,MF,Real Madrid,25,"€ 240,385 (£ 208,379, $279,972)","€ 12,500,000 (£ 10,835,720, $14,558,545)",
+20,Eduardo Camavinga,fr FRA,MF,Real Madrid,22,"€ 240,385 (£ 208,379, $279,972)","€ 12,500,000 (£ 10,835,720, $14,558,545)",Unverified estimation
+21,Ademola Lookman,ng NGA,"FW,MF",Atlético Madrid,27,"€ 240,385 (£ 208,187, $279,415)","€ 12,500,000 (£ 10,825,716, $14,529,580)",
+22,Julián Álvarez,ar ARG,FW,Atlético Madrid,25,"€ 240,385 (£ 208,379, $279,972)","€ 12,500,000 (£ 10,835,720, $14,558,545)",Unverified estimation
+23,Dani Olmo,es ESP,MF,Barcelona,27,"€ 240,385 (£ 208,379, $279,972)","€ 12,500,000 (£ 10,835,720, $14,558,545)",
+24,Pedri,es ESP,MF,Barcelona,22,"€ 240,385 (£ 208,379, $279,972)","€ 12,500,000 (£ 10,835,720, $14,558,545)",
+25,Ronald Araújo,uy URU,DF,Barcelona,26,"€ 240,385 (£ 208,379, $279,972)","€ 12,500,000 (£ 10,835,720, $14,558,545)",
+26,Iñaki Williams,gh GHA,"MF,FW",Athletic Club,31,"€ 219,231 (£ 190,042, $255,334)","€ 11,400,000 (£ 9,882,177, $13,277,393)",
+27,Aymeric Laporte,es ESP,DF,Athletic Club,31,"€ 200,385 (£ 173,705, $233,385)","€ 10,420,000 (£ 9,032,656, $12,136,003)",Unverified estimation
+28,Dani Ceballos,es ESP,MF,Real Madrid,28,"€ 200,385 (£ 173,705, $233,385)","€ 10,420,000 (£ 9,032,656, $12,136,003)",Unverified estimation
+29,Dani Carvajal,es ESP,DF,Real Madrid,33,"€ 200,385 (£ 173,705, $233,385)","€ 10,420,000 (£ 9,032,656, $12,136,003)",
+30,Ferland Mendy,fr FRA,DF,Real Madrid,30,"€ 200,385 (£ 173,705, $233,385)","€ 10,420,000 (£ 9,032,656, $12,136,003)",
+31,Ferrán Torres,es ESP,FW,Barcelona,25,"€ 192,308 (£ 166,703, $223,978)","€ 10,000,000 (£ 8,668,576, $11,646,836)",
+32,Antoine Griezmann,fr FRA,FW,Atlético Madrid,34,"€ 180,385 (£ 156,368, $210,091)","€ 9,380,000 (£ 8,131,124, $10,924,732)",
+33,Gavi,es ESP,MF,Barcelona,20,"€ 180,385 (£ 156,368, $210,091)","€ 9,380,000 (£ 8,131,124, $10,924,732)",Unverified estimation
+34,Andreas Christensen,dk DEN,DF,Barcelona,29,"€ 173,077 (£ 150,033, $201,580)","€ 9,000,000 (£ 7,801,718, $10,482,152)",
+35,Álvaro Carreras,es ESP,DF,Real Madrid,22,"€ 172,308 (£ 149,366, $200,684)","€ 8,960,000 (£ 7,767,044, $10,435,565)",
+36,Dean Huijsen,es ESP,DF,Real Madrid,20,"€ 172,308 (£ 149,366, $200,684)","€ 8,960,000 (£ 7,767,044, $10,435,565)",
+37,Unai Simón,es ESP,GK,Athletic Club,28,"€ 160,385 (£ 139,031, $186,797)","€ 8,340,000 (£ 7,229,592, $9,713,461)",
+38,Álex Baena,es ESP,"MF,FW",Atlético Madrid,24,"€ 160,192 (£ 138,864, $186,573)","€ 8,330,000 (£ 7,220,924, $9,701,814)",Unverified estimation
+39,Marcos Llorente,es ESP,"DF,MF",Atlético Madrid,30,"€ 160,192 (£ 138,864, $186,573)","€ 8,330,000 (£ 7,220,924, $9,701,814)",
+40,João Cancelo,pt POR,DF,Barcelona,31,"€ 160,192 (£ 138,736, $186,202)","€ 8,330,000 (£ 7,214,257, $9,682,512)",
+41,Eric García,es ESP,"DF,MF",Barcelona,24,"€ 153,846 (£ 133,363, $179,182)","€ 8,000,000 (£ 6,934,861, $9,317,469)",Unverified estimation
+42,Nicolás González,ar ARG,"MF,DF",Atlético Madrid,27,"€ 144,231 (£ 125,028, $167,983)","€ 7,500,000 (£ 6,501,432, $8,735,127)",
+43,Alexander Sørloth,no NOR,FW,Atlético Madrid,29,"€ 140,385 (£ 121,693, $163,504)","€ 7,300,000 (£ 6,328,060, $8,502,190)",Unverified estimation
+44,Clément Lenglet,fr FRA,DF,Atlético Madrid,30,"€ 140,385 (£ 121,693, $163,504)","€ 7,300,000 (£ 6,328,060, $8,502,190)",Unverified estimation
+45,Brahim Díaz,ma MAR,"MF,FW",Real Madrid,25,"€ 140,192 (£ 121,527, $163,280)","€ 7,290,000 (£ 6,319,392, $8,490,543)",Unverified estimation
+46,Franco Mastantuono,,RW,Real Madrid,18,"€ 140,192 (£ 121,527, $163,280)","€ 7,290,000 (£ 6,319,392, $8,490,543)",Unverified estimation
+47,Koke,es ESP,MF,Atlético Madrid,33,"€ 128,269 (£ 111,191, $149,393)","€ 6,670,000 (£ 5,781,940, $7,768,440)",
+48,Dávid Hancko,sk SVK,DF,Atlético Madrid,27,"€ 128,077 (£ 111,024, $149,169)","€ 6,660,000 (£ 5,773,272, $7,756,793)",Unverified estimation
+49,Mikel Oyarzabal,es ESP,FW,Real Sociedad,28,"€ 120,385 (£ 104,356, $140,210)","€ 6,260,000 (£ 5,426,529, $7,290,919)",Unverified estimation
+50,Raúl Asencio,es ESP,DF,Real Madrid,22,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",Unverified estimation
+51,José María Giménez,uy URU,DF,Atlético Madrid,30,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",Unverified estimation
+52,Pablo Barrios,es ESP,MF,Atlético Madrid,22,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",
+53,Robin Le Normand,es ESP,DF,Atlético Madrid,28,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",Unverified estimation
+54,Antony,br BRA,"MF,FW",Real Betis,25,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",
+55,Isco,es ESP,MF,Real Betis,33,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",
+56,Sofyan Amrabat,ma MAR,MF,Real Betis,28,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",
+57,Joan García,es ESP,GK,Barcelona,24,"€ 120,192 (£ 104,190, $139,986)","€ 6,250,000 (£ 5,417,860, $7,279,272)",
+58,Fran Garcia,es ESP,"DF,MF",Real Madrid,25,"€ 100,192 (£ 86,852, $116,692)","€ 5,210,000 (£ 4,516,328, $6,068,002)",Unverified estimation
+59,Arda Güler,tr TUR,MF,Real Madrid,20,"€ 100,000 (£ 86,686, $116,468)","€ 5,200,000 (£ 4,507,659, $6,056,355)",Unverified estimation
+60,Thiago Almada,ar ARG,"MF,FW",Atlético Madrid,24,"€ 100,000 (£ 86,686, $116,468)","€ 5,200,000 (£ 4,507,659, $6,056,355)",Unverified estimation
+61,Brais Méndez,es ESP,"MF,FW",Real Sociedad,28,"€ 100,000 (£ 86,686, $116,468)","€ 5,200,000 (£ 4,507,659, $6,056,355)",Unverified estimation
+62,Takefusa Kubo,jp JPN,MF,Real Sociedad,24,"€ 100,000 (£ 86,686, $116,468)","€ 5,200,000 (£ 4,507,659, $6,056,355)",Unverified estimation
+63,Giovani Lo Celso,ar ARG,MF,Real Betis,29,"€ 100,000 (£ 86,686, $116,468)","€ 5,200,000 (£ 4,507,659, $6,056,355)",Unverified estimation
+64,Borja Mayoral,es ESP,FW,Getafe,28,"€ 92,115 (£ 79,851, $107,285)","€ 4,790,000 (£ 4,152,248, $5,578,834)",
+65,Ansu Fati,es ESP,LW,Barcelona,22,"€ 90,192 (£ 78,184, $105,046)","€ 4,690,000 (£ 4,065,562, $5,462,366)",
+66,Georges Mikautadze,ge GEO,FW,Villarreal,24,"€ 88,077 (£ 76,350, $102,582)","€ 4,580,000 (£ 3,970,208, $5,334,251)",Unverified estimation
+67,Andriy Lunin,ua UKR,GK,Real Madrid,26,"€ 88,077 (£ 76,350, $102,582)","€ 4,580,000 (£ 3,970,208, $5,334,251)",Unverified estimation
+68,José Luis Gayà,es ESP,DF,Valencia,30,"€ 88,077 (£ 76,350, $102,582)","€ 4,580,000 (£ 3,970,208, $5,334,251)",
+69,Yuri Berchiche,es ESP,DF,Athletic Club,35,"€ 82,308 (£ 71,349, $95,862)","€ 4,280,000 (£ 3,710,150, $4,984,846)",
+70,Vedat Muriqi,xk KVX,FW,Mallorca,31,"€ 80,192 (£ 69,515, $93,399)","€ 4,170,000 (£ 3,614,796, $4,856,731)",Unverified estimation
+71,César Azpilicueta,es ESP,DF,Sevilla,35,"€ 80,192 (£ 69,515, $93,399)","€ 4,170,000 (£ 3,614,796, $4,856,731)",Unverified estimation
+72,Tanguy Nianzou,fr FRA,DF,Sevilla,23,"€ 80,192 (£ 69,515, $93,399)","€ 4,170,000 (£ 3,614,796, $4,856,731)",
+73,Johnny Cardoso,us USA,MF,Atlético Madrid,23,"€ 80,192 (£ 69,515, $93,399)","€ 4,170,000 (£ 3,614,796, $4,856,731)",Unverified estimation
+74,Hugo Duro,es ESP,FW,Valencia,25,"€ 80,192 (£ 69,515, $93,399)","€ 4,170,000 (£ 3,614,796, $4,856,731)",
+75,Marcos Alonso,es ESP,DF,Celta Vigo,34,"€ 80,192 (£ 69,515, $93,399)","€ 4,170,000 (£ 3,614,796, $4,856,731)",Unverified estimation
+76,Juan Foyth,ar ARG,DF,Villarreal,27,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+77,Thomas Partey,gh GHA,MF,Villarreal,32,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+78,Oihan Sancet,es ESP,MF,Athletic Club,25,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+79,Endrick,br BRA,FW,Real Madrid,19,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+80,André Silva,pt POR,FW,Elche,29,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+81,Axel Witsel,be BEL,MF,Girona,36,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+82,Álex Remiro,es ESP,GK,Real Sociedad,30,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+83,Carlos Soler,es ESP,MF,Real Sociedad,28,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+84,Gonçalo Guedes,pt POR,MF,Real Sociedad,28,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+85,Yangel Herrera,ve VEN,MF,Real Sociedad,27,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+86,Cucho,co COL,FW,Real Betis,26,"€ 80,000 (£ 69,349, $93,175)","€ 4,160,000 (£ 3,606,128, $4,845,084)",Unverified estimation
+87,Gabriel Suazo,cl CHI,"DF,MF",Sevilla,27,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",Unverified estimation
+88,Fermin López,es ESP,MF,Barcelona,22,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",Unverified estimation
+89,Pau Cubarsí,es ESP,DF,Barcelona,18,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",
+90,Nemanja Gudelj,rs SRB,"DF,MF",Sevilla,33,"€ 76,154 (£ 66,015, $88,695)","€ 3,960,000 (£ 3,432,756, $4,612,147)",
+91,Mouctar Diakhaby,gn GUI,DF,Valencia,28,"€ 76,154 (£ 66,015, $88,695)","€ 3,960,000 (£ 3,432,756, $4,612,147)",
+92,Nahuel Molina,ar ARG,"DF,MF",Atlético Madrid,27,"€ 72,308 (£ 62,680, $84,216)","€ 3,760,000 (£ 3,259,385, $4,379,210)",Unverified estimation
+93,Duje Ćaleta-Car,hr CRO,DF,Real Sociedad,28,"€ 72,308 (£ 62,680, $84,216)","€ 3,760,000 (£ 3,259,385, $4,379,210)",Unverified estimation
+94,Daniel Parejo,es ESP,MF,Villarreal,36,"€ 72,115 (£ 62,514, $83,992)","€ 3,750,000 (£ 3,250,716, $4,367,564)",Unverified estimation
+95,Gerard Moreno,es ESP,FW,Villarreal,33,"€ 72,115 (£ 62,514, $83,992)","€ 3,750,000 (£ 3,250,716, $4,367,564)",
+96,Renato Veiga,pt POR,DF,Villarreal,22,"€ 72,115 (£ 62,514, $83,992)","€ 3,750,000 (£ 3,250,716, $4,367,564)",Unverified estimation
+97,Marash Kumbulla,al ALB,DF,Mallorca,25,"€ 72,115 (£ 62,514, $83,992)","€ 3,750,000 (£ 3,250,716, $4,367,564)",
+98,Martin Valjent,sk SVK,DF,Mallorca,29,"€ 72,115 (£ 62,514, $83,992)","€ 3,750,000 (£ 3,250,716, $4,367,564)",Unverified estimation
+99,David López,es ESP,DF,Girona,35,"€ 72,115 (£ 62,514, $83,992)","€ 3,750,000 (£ 3,250,716, $4,367,564)",Unverified estimation
+100,Lucas Beltrán,ar ARG,FW,Valencia,24,"€ 72,115 (£ 62,514, $83,992)","€ 3,750,000 (£ 3,250,716, $4,367,564)",
+101,Mauro Arambarri,uy URU,MF,Getafe,29,"€ 71,923 (£ 62,347, $83,768)","€ 3,740,000 (£ 3,242,047, $4,355,917)",Unverified estimation
+102,Junior Firpo,do DOM,DF,Real Betis,28,"€ 71,923 (£ 62,347, $83,768)","€ 3,740,000 (£ 3,242,047, $4,355,917)",Unverified estimation
+103,Daniel Vivian,es ESP,DF,Athletic Club,26,"€ 70,000 (£ 60,680, $81,528)","€ 3,640,000 (£ 3,155,362, $4,239,448)",Unverified estimation
+104,Nicolas Pépé,ci CIV,"MF,FW",Villarreal,30,"€ 68,077 (£ 59,013, $79,288)","€ 3,540,000 (£ 3,068,676, $4,122,980)",Unverified estimation
+105,Joan Jordán,es ESP,MF,Sevilla,31,"€ 68,077 (£ 59,013, $79,288)","€ 3,540,000 (£ 3,068,676, $4,122,980)",Unverified estimation
+106,Alfonso Pedraza,es ESP,DF,Villarreal,29,"€ 64,231 (£ 55,679, $74,809)","€ 3,340,000 (£ 2,895,304, $3,890,043)",Unverified estimation
+107,Daley Blind,nl NED,DF,Girona,35,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",Unverified estimation
+108,Juan Musso,ar ARG,GK,Atlético Madrid,31,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+109,Javi Galán,es ESP,DF,Osasuna,30,"€ 60,192 (£ 52,130, $69,966)","€ 3,130,000 (£ 2,710,759, $3,638,207)",Unverified estimation
+110,Donny van de Beek,nl NED,MF,Girona,28,"€ 60,192 (£ 52,178, $70,105)","€ 3,130,000 (£ 2,713,264, $3,645,460)",Unverified estimation
+111,Adnan Januzaj,be BEL,"MF,FW",Sevilla,30,"€ 60,192 (£ 52,178, $70,105)","€ 3,130,000 (£ 2,713,264, $3,645,460)",
+112,Alexis Sánchez,cl CHI,"FW,MF",Sevilla,36,"€ 60,192 (£ 52,178, $70,105)","€ 3,130,000 (£ 2,713,264, $3,645,460)",Unverified estimation
+113,Djibril Sow,ch SUI,MF,Sevilla,28,"€ 60,192 (£ 52,178, $70,105)","€ 3,130,000 (£ 2,713,264, $3,645,460)",Unverified estimation
+114,Isaac Romero,es ESP,"FW,MF",Sevilla,25,"€ 60,192 (£ 52,178, $70,105)","€ 3,130,000 (£ 2,713,264, $3,645,460)",Unverified estimation
+115,Marcão,br BRA,DF,Sevilla,29,"€ 60,192 (£ 52,178, $70,105)","€ 3,130,000 (£ 2,713,264, $3,645,460)",
+116,Ruben Vargas,ch SUI,"MF,FW",Sevilla,26,"€ 60,192 (£ 52,178, $70,105)","€ 3,130,000 (£ 2,713,264, $3,645,460)",Unverified estimation
+117,Wesley,,LW,Real Sociedad,20,"€ 60,192 (£ 52,130, $69,966)","€ 3,130,000 (£ 2,710,759, $3,638,207)",Unverified estimation
+118,Ante Budimir,hr CRO,FW,Osasuna,34,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+119,Alberto Moleiro,es ESP,MF,Villarreal,21,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+120,Ayoze Pérez,es ESP,FW,Villarreal,32,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+121,Pape Gueye,sn SEN,MF,Villarreal,26,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+122,Tajon Buchanan,ca CAN,MF,Villarreal,26,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+123,Álex Berenguer,es ESP,MF,Athletic Club,30,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+124,Djené,tg TOG,"DF,MF",Getafe,33,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+125,Leander Dendoncker,be BEL,MF,Oviedo,30,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+126,Giuliano Simeone,ar ARG,MF,Atlético Madrid,22,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+127,Ander Barrenetxea,es ESP,MF,Real Sociedad,23,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+128,Igor Zubeldia,es ESP,DF,Real Sociedad,28,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+129,Diego Llorente,es ESP,DF,Real Betis,31,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+130,Héctor Bellerín,es ESP,DF,Real Betis,30,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",
+131,Natan,br BRA,DF,Real Betis,24,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+132,Pablo Fornals,es ESP,MF,Real Betis,29,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+133,Rodrigo Riquelme,es ESP,MF,Real Betis,25,"€ 60,000 (£ 52,011, $69,881)","€ 3,120,000 (£ 2,704,596, $3,633,813)",Unverified estimation
+134,Batista Mendy,fr FRA,MF,Sevilla,25,"€ 58,077 (£ 50,344, $67,641)","€ 3,020,000 (£ 2,617,910, $3,517,344)",
+135,Odysseas Vlachodimos,gr GRE,GK,Sevilla,31,"€ 58,077 (£ 50,344, $67,641)","€ 3,020,000 (£ 2,617,910, $3,517,344)",Unverified estimation
+136,Wojciech Szczęsny,pl POL,GK,Barcelona,35,"€ 57,692 (£ 50,011, $67,193)","€ 3,000,000 (£ 2,600,573, $3,494,051)",
+137,Álex Moreno,es ESP,DF,Girona,32,"€ 56,154 (£ 48,677, $65,401)","€ 2,920,000 (£ 2,531,224, $3,400,876)",Unverified estimation
+138,Bryan Gil,es ESP,"MF,FW",Girona,24,"€ 56,154 (£ 48,677, $65,401)","€ 2,920,000 (£ 2,531,224, $3,400,876)",Unverified estimation
+139,Borja Iglesias,es ESP,FW,Celta Vigo,32,"€ 56,154 (£ 48,677, $65,401)","€ 2,920,000 (£ 2,531,224, $3,400,876)",Unverified estimation
+140,Iago Aspas,es ESP,"FW,MF",Celta Vigo,37,"€ 56,154 (£ 48,677, $65,401)","€ 2,920,000 (£ 2,531,224, $3,400,876)",
+141,Matías Vecino,uy URU,MF,Celta Vigo,33,"€ 56,154 (£ 48,632, $65,271)","€ 2,920,000 (£ 2,528,887, $3,394,110)",Unverified estimation
+142,Álvaro Fidalgo,mx MEX,MF,Real Betis,28,"€ 52,115 (£ 45,135, $60,577)","€ 2,710,000 (£ 2,347,015, $3,150,013)",Unverified estimation
+143,Tani Oluwaseyi,ca CAN,FW,Villarreal,25,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+144,Sergi Darder,es ESP,MF,Mallorca,31,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+145,Viktor Tsyhankov,ua UKR,"MF,FW",Girona,27,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+146,Vladyslav Vanat,,CF,Girona,24,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+147,Baptiste Santamaria,fr FRA,MF,Valencia,30,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+148,Julen Agirrezabala,es ESP,GK,Valencia,24,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+149,Álvaro Odriozola,es ESP,DF,Real Sociedad,29,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+150,Cédric Bakambu,cd COD,FW,Real Betis,34,"€ 51,923 (£ 45,010, $60,474)","€ 2,700,000 (£ 2,340,515, $3,144,646)",Unverified estimation
+151,Guido Rodríguez,ar ARG,MF,Valencia,31,"€ 50,000 (£ 43,303, $58,118)","€ 2,600,000 (£ 2,251,749, $3,022,153)",Unverified estimation
+152,Logan Costa,cv CPV,DF,Villarreal,24,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+153,Rafa Marín,es ESP,DF,Villarreal,23,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",
+154,Iñaki Peña,es ESP,GK,Elche,26,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+155,Abdel Abqar,ma MAR,DF,Getafe,26,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+156,David Soria,es ESP,GK,Getafe,32,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+157,Juanmi,es ESP,"FW,MF",Getafe,32,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+158,Azzedine Ounahi,ma MAR,MF,Girona,25,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+159,Fran Beltrán,es ESP,MF,Girona,26,"€ 48,077 (£ 41,637, $55,883)","€ 2,500,000 (£ 2,165,143, $2,905,916)",Unverified estimation
+160,David Carmo,ao ANG,DF,Oviedo,26,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+161,José Ángel Carmona,,RB,Sevilla,24,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+162,Juanlu Sánchez,es ESP,"MF,DF",Sevilla,21,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+163,Sergio Gómez,es ESP,DF,Real Sociedad,24,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+164,Marc Bartra,es ESP,DF,Real Betis,34,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+165,Marc Roca,es ESP,MF,Real Betis,28,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+166,Pau López,es ESP,GK,Real Betis,30,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",Unverified estimation
+167,Ricardo Rodríguez,ch SUI,DF,Real Betis,32,"€ 48,077 (£ 41,676, $55,994)","€ 2,500,000 (£ 2,167,144, $2,911,709)",
+168,Yeray Álvarez,es ESP,DF,Athletic Club,30,"€ 46,154 (£ 40,009, $53,755)","€ 2,400,000 (£ 2,080,458, $2,795,241)",Unverified estimation
+169,Vitor Reis,br BRA,DF,Girona,19,"€ 46,154 (£ 40,009, $53,755)","€ 2,400,000 (£ 2,080,458, $2,795,241)",Unverified estimation
+170,Santi Comesaña,es ESP,MF,Villarreal,28,"€ 44,231 (£ 38,342, $51,515)","€ 2,300,000 (£ 1,993,772, $2,678,772)",Unverified estimation
+171,Iván Martín,es ESP,MF,Girona,26,"€ 44,231 (£ 38,342, $51,515)","€ 2,300,000 (£ 1,993,772, $2,678,772)",Unverified estimation
+172,Lucien Agoume,fr FRA,MF,Sevilla,23,"€ 44,231 (£ 38,342, $51,515)","€ 2,300,000 (£ 1,993,772, $2,678,772)",Unverified estimation
+173,Ferran Jutglà,es ESP,FW,Celta Vigo,26,"€ 44,231 (£ 38,342, $51,515)","€ 2,300,000 (£ 1,993,772, $2,678,772)",Unverified estimation
+174,Nelson Deossa,co COL,MF,Real Betis,25,"€ 44,231 (£ 38,342, $51,515)","€ 2,300,000 (£ 1,993,772, $2,678,772)",Unverified estimation
+175,Umar Sadiq,ng NGA,FW,Valencia,28,"€ 44,038 (£ 38,140, $51,189)","€ 2,290,000 (£ 1,983,271, $2,661,819)",Unverified estimation
+176,Lucas Torró,es ESP,MF,Osasuna,31,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+177,Sergio Herrera,es ESP,GK,Osasuna,32,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+178,Luiz Júnior,,GK,Villarreal,25,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+179,Sergi Cardona,es ESP,DF,Villarreal,26,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+180,Aitor Paredes,es ESP,DF,Athletic Club,25,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+181,Gorka Guruzeta,es ESP,FW,Athletic Club,28,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+182,Jesús Areso,es ESP,DF,Athletic Club,26,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+183,Mikel Jauregizar,,CM,Athletic Club,22,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+184,Mikel Vesga,es ESP,MF,Athletic Club,32,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+185,Rafa Mir,es ESP,"FW,MF",Elche,28,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+186,Diego Rico,es ESP,DF,Getafe,32,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+187,Lucas Boyé,ar ARG,FW,Alavés,29,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+188,Abel Ruiz,es ESP,FW,Girona,25,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+189,Álvaro García,es ESP,"MF,FW",Rayo Vallecano,32,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+190,Augusto Batalla,ar ARG,GK,Rayo Vallecano,29,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+191,Florian Lejeune,fr FRA,DF,Rayo Vallecano,34,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+192,Isaac Palazón Camacho,es ESP,"MF,FW",Rayo Vallecano,30,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+193,Luiz Felipe,it ITA,DF,Rayo Vallecano,28,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+194,Javi Puado,es ESP,"MF,FW",Espanyol,27,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+195,Fábio Cardoso,pt POR,DF,Sevilla,31,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+196,Kike Salas,es ESP,DF,Sevilla,23,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+197,Matteo Ruggeri,it ITA,DF,Atlético Madrid,23,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+198,Javi Guerra,,CM,Valencia,22,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+199,Aritz Elustondo,es ESP,DF,Real Sociedad,31,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+200,Jon Aramburu,ve VEN,DF,Real Sociedad,23,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+201,Álvaro Vallés,es ESP,GK,Real Betis,28,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+202,Ezequiel Ávila,ar ARG,FW,Real Betis,31,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+203,Sergi Altimira,es ESP,MF,Real Betis,23,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+204,Rubén García,es ESP,"MF,FW",Osasuna,32,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+205,Valentin Rosier,fr FRA,"DF,MF",Osasuna,28,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+206,Diego Conde,es ESP,GK,Villarreal,26,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+207,Johan Mojica,co COL,DF,Mallorca,32,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+208,Portu,es ESP,"FW,MF",Girona,33,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+209,Andrei Ratiu,ro ROU,DF,Rayo Vallecano,27,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+210,Jorge de Frutos,es ESP,"FW,MF",Rayo Vallecano,28,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+211,Óscar Valentín,es ESP,MF,Rayo Vallecano,30,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+212,Pep Chavarría,es ESP,DF,Rayo Vallecano,27,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+213,Edu Expósito,es ESP,MF,Espanyol,28,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",
+214,Eric Bailly,ci CIV,DF,Oviedo,31,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+215,Akor Adams,ng NGA,FW,Sevilla,25,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+216,Chidera Ejuke,ng NGA,"MF,FW",Sevilla,27,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+217,Arnaut Danjuma,nl NED,"MF,FW",Valencia,28,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+218,Filip Ugrinic,ch SUI,MF,Valencia,26,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+219,Luis Rioja,es ESP,MF,Valencia,31,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+220,Ionuț Radu,ro ROU,GK,Celta Vigo,28,"€ 36,154 (£ 31,340, $42,108)","€ 1,880,000 (£ 1,629,692, $2,189,605)",Unverified estimation
+221,Denis Suárez,es ESP,MF,Alavés,31,"€ 35,962 (£ 31,174, $41,884)","€ 1,870,000 (£ 1,621,024, $2,177,958)",Unverified estimation
+222,Toni Martínez,es ESP,FW,Alavés,28,"€ 35,962 (£ 31,174, $41,884)","€ 1,870,000 (£ 1,621,024, $2,177,958)",Unverified estimation
+223,Neal Maupay,fr FRA,FW,Sevilla,28,"€ 34,038 (£ 29,479, $39,565)","€ 1,770,000 (£ 1,532,921, $2,057,389)",Unverified estimation
+224,Aimar Oroz,es ESP,"MF,FW",Osasuna,23,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+225,Catena,es ESP,DF,Osasuna,30,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+226,Sheraldo Becker,sr SUR,"FW,MF",Osasuna,30,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+227,Rodrigo Mendoza,es ESP,MF,Atlético Madrid,20,"€ 32,115 (£ 27,814, $37,330)","€ 1,670,000 (£ 1,446,316, $1,941,152)",Unverified estimation
+228,Alejandro Balde,es ESP,DF,Barcelona,21,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+229,Willy Kambwala,fr FRA,DF,Villarreal,20,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+230,Gonzalo García,,CF,Real Madrid,21,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+231,Javier Muñoz,es ESP,"MF,FW",Getafe,30,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+232,Jonny Castro,es ESP,DF,Alavés,31,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+233,Jeremy Toljan,de GER,DF,Levante,30,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+234,Mathew Ryan,au AUS,GK,Levante,33,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+235,Roger Brugué,,LW,Levante,29,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+236,Unai López,es ESP,MF,Rayo Vallecano,29,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+237,Domingos André Ribeiro Almeida,pt POR,MF,Valencia,25,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+238,César Tárrega,es ESP,DF,Valencia,23,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+239,Diego López,es ESP,"MF,FW",Valencia,23,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+240,Dimitri Foulquier,fr FRA,DF,Valencia,32,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+241,José Luis García Vayá,es ESP,"MF,DF",Valencia,26,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+242,Aihen Muñoz,es ESP,DF,Real Sociedad,27,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+243,Beñat Turrientes,es ESP,MF,Real Sociedad,23,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+244,Jon Gorrotxategi,es ESP,MF,Real Sociedad,23,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+245,Luka Sučić,hr CRO,"MF,FW",Real Sociedad,22,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+246,Aitor Ruibal,es ESP,"DF,MF",Real Betis,29,"€ 31,923 (£ 27,673, $37,180)","€ 1,660,000 (£ 1,438,984, $1,933,375)",Unverified estimation
+247,Antonio Raillo,es ESP,DF,Mallorca,33,"€ 31,538 (£ 27,339, $36,732)","€ 1,640,000 (£ 1,421,646, $1,910,081)",Unverified estimation
+248,Thomas Lemar,fr FRA,MF,Girona,29,"€ 31,250 (£ 27,089, $36,396)","€ 1,625,000 (£ 1,408,644, $1,892,611)",
+249,Andoni Gorosabel,es ESP,DF,Athletic Club,28,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+250,Adrià Pedrosa,es ESP,"DF,MF",Elche,27,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+251,Antonio Sivera,es ESP,GK,Alavés,28,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+252,Mariano,do DOM,FW,Alavés,31,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+253,Paulo Gazzaniga,ar ARG,GK,Girona,33,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+254,Unai Vencedor Paris,es ESP,MF,Levante,24,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+255,Pedro Díaz,es ESP,MF,Rayo Vallecano,27,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+256,Carl Starfelt,se SWE,DF,Celta Vigo,30,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+257,Joseph Aidoo,gh GHA,DF,Celta Vigo,29,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+258,Gerard Martín,,LB,Barcelona,23,"€ 30,000 (£ 26,006, $34,941)","€ 1,560,000 (£ 1,352,298, $1,816,906)",Unverified estimation
+259,Jon Moncayola,es ESP,MF,Osasuna,27,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+260,Moi Gómez,es ESP,MF,Osasuna,31,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+261,Raúl Moro,es ESP,MF,Osasuna,22,"€ 28,077 (£ 24,316, $32,636)","€ 1,460,000 (£ 1,264,444, $1,697,055)",Unverified estimation
+262,Arnau Tenas,es ESP,GK,Villarreal,24,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+263,Antonio Sánchez,es ESP,"MF,DF",Mallorca,28,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+264,Pablo Maffeo,es ESP,DF,Mallorca,28,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+265,Takuma Asano,jp JPN,"MF,FW",Mallorca,30,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+266,Toni Lato,es ESP,"DF,MF",Mallorca,27,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+267,Beñat Prados,es ESP,MF,Athletic Club,24,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+268,Iñigo Ruiz de Galarreta,es ESP,MF,Athletic Club,31,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+269,Grady Diangana,cd COD,"MF,FW",Elche,27,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+270,Luis Milla,es ESP,MF,Getafe,30,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+271,Ander Guevara,es ESP,MF,Alavés,28,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+272,Nahuel Tenaglia,ar ARG,DF,Alavés,29,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+273,Alexandre Alemão,br BRA,FW,Rayo Vallecano,27,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+274,Charles Pickel,cd COD,MF,Espanyol,28,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+275,Tyrhys Dolan,eng ENG,MF,Espanyol,23,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+276,Urko González de Zárate,,DM,Espanyol,24,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+277,Horaţiu Moldovan,ro ROU,GK,Oviedo,27,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+278,Álvaro Núñez,es ESP,"DF,MF",Celta Vigo,25,"€ 28,077 (£ 24,316, $32,636)","€ 1,460,000 (£ 1,264,444, $1,697,055)",Unverified estimation
+279,Abde Ezzalzouli,ma MAR,"MF,FW",Real Betis,23,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+280,Adrián,es ESP,GK,Real Betis,38,"€ 28,077 (£ 24,339, $32,701)","€ 1,460,000 (£ 1,265,612, $1,700,438)",Unverified estimation
+281,Yaser Asprilla,co COL,"FW,MF",Girona,21,"€ 27,885 (£ 24,172, $32,477)","€ 1,450,000 (£ 1,256,944, $1,688,791)",Unverified estimation
+282,Ilaix Moriba,gn GUI,MF,Celta Vigo,22,"€ 26,154 (£ 22,672, $30,461)","€ 1,360,000 (£ 1,178,926, $1,583,970)",Unverified estimation
+283,Sergio Carreira,es ESP,MF,Celta Vigo,24,"€ 26,154 (£ 22,672, $30,461)","€ 1,360,000 (£ 1,178,926, $1,583,970)",Unverified estimation
+284,Enzo Boyomo,cm CMR,DF,Osasuna,23,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+285,Juan Cruz Armada,es ESP,DF,Osasuna,33,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+286,Raúl García,,CF,Osasuna,25,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+287,Domingos Duarte,pt POR,DF,Getafe,30,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+288,Kiko Femenía,es ESP,"DF,MF",Getafe,34,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+289,Carles Aleñá,es ESP,MF,Alavés,27,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+290,Jon Guridi,es ESP,"MF,FW",Alavés,30,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+291,Randy Nteka,ao ANG,FW,Rayo Vallecano,27,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+292,Santiago Colombatto,ar ARG,MF,Oviedo,28,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+293,Arsen Zakharyan,ru RUS,MF,Real Sociedad,22,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+294,Orri Óskarsson,,CF,Real Sociedad,21,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+295,Valentín Gómez,,CB,Real Betis,22,"€ 24,231 (£ 21,005, $28,221)","€ 1,260,000 (£ 1,092,241, $1,467,501)",Unverified estimation
+296,Santiago Mouriño,uy URU,DF,Villarreal,23,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+297,Leo Román,es ESP,GK,Mallorca,25,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+298,Manu Morlanes,es ESP,MF,Mallorca,26,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+299,Samu Costa,pt POR,MF,Mallorca,24,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+300,Tete Morente,es ESP,MF,Elche,28,"€ 24,038 (£ 20,819, $27,942)","€ 1,250,000 (£ 1,082,572, $1,452,958)",Unverified estimation
+301,Cyril Ngonge,be BEL,MF,Espanyol,25,"€ 24,038 (£ 20,819, $27,942)","€ 1,250,000 (£ 1,082,572, $1,452,958)",Unverified estimation
+302,Fernando Calero,es ESP,DF,Espanyol,29,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+303,Kiké,es ESP,FW,Espanyol,35,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+304,Marko Dmitrović,rs SRB,GK,Espanyol,33,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+305,Pere Milla,es ESP,"MF,FW",Espanyol,32,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+306,Roberto Férnandez,es ESP,FW,Espanyol,23,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+307,Ørjan Nyland,no NOR,GK,Sevilla,34,"€ 24,038 (£ 20,838, $27,997)","€ 1,250,000 (£ 1,083,572, $1,455,854)",Unverified estimation
+308,Aleix Febas,es ESP,MF,Elche,29,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+309,Arnau Martinez,es ESP,"DF,MF",Girona,22,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+310,Cristhian Stuani,uy URU,FW,Girona,38,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+311,Iván Romero,es ESP,"FW,MF",Levante,24,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+312,Olasagasti,es ESP,MF,Levante,24,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+313,José Luis Morales,es ESP,MF,Levante,38,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+314,Manu Sánchez,es ESP,DF,Levante,24,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+315,Oriol Rey,es ESP,MF,Levante,27,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+316,Marc Pubill,es ESP,DF,Atlético Madrid,22,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+317,Dani Raba,es ESP,FW,Valencia,29,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+318,Stole Dimitrievski,mk MKD,GK,Valencia,31,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+319,Thierry Correia,pt POR,"DF,MF",Valencia,26,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+320,Franco Cervi,ar ARG,"FW,MF",Celta Vigo,31,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+321,Marc Bernal,es ESP,MF,Barcelona,18,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+322,Marc Casado,es ESP,MF,Barcelona,21,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+323,Luca Koleosho,it ITA,MF,Espanyol,20,"€ 23,077 (£ 20,004, $26,877)","€ 1,200,000 (£ 1,040,229, $1,397,620)",Unverified estimation
+324,Antonio Blanco,es ESP,MF,Alavés,25,"€ 22,115 (£ 19,171, $25,757)","€ 1,150,000 (£ 996,886, $1,339,386)",Unverified estimation
+325,Óscar Mingueza,es ESP,MF,Celta Vigo,26,"€ 22,115 (£ 19,171, $25,757)","€ 1,150,000 (£ 996,886, $1,339,386)",Unverified estimation
+326,Pol Lozano,es ESP,MF,Espanyol,25,"€ 21,923 (£ 19,004, $25,533)","€ 1,140,000 (£ 988,218, $1,327,739)",Unverified estimation
+327,Williot Swedberg,se SWE,"FW,MF",Celta Vigo,21,"€ 21,923 (£ 19,004, $25,533)","€ 1,140,000 (£ 988,218, $1,327,739)",Unverified estimation
+328,Mihailo Ristić,rs SRB,"MF,DF",Celta Vigo,29,"€ 20,192 (£ 17,504, $23,518)","€ 1,050,000 (£ 910,200, $1,222,918)",Unverified estimation
+329,Abel Bretones,es ESP,"MF,DF",Osasuna,24,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+330,Pablo Torre,es ESP,"MF,FW",Mallorca,22,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+331,Roberto Navarro,es ESP,MF,Athletic Club,23,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+332,Federico Redondo,ar ARG,MF,Elche,22,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+333,Héctor Fort,es ESP,"DF,MF",Elche,18,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+334,Léo Pétrot,fr FRA,DF,Elche,28,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+335,Álex Sancris,es ESP,"MF,FW",Getafe,28,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+336,Jon Pacheco,es ESP,DF,Alavés,24,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+337,Pablo Ibáñez,es ESP,MF,Alavés,26,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+338,Marc-André ter Stegen,de GER,GK,Girona,33,"€ 20,000 (£ 17,321, $23,247)","€ 1,040,000 (£ 900,700, $1,208,861)",
+339,Alan Matturro,uy URU,DF,Levante,20,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+340,Iker Losada,es ESP,MF,Levante,23,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+341,Karl Etta Eyong,,CF,Levante,22,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+342,Kervin Arriaga,hn HON,MF,Levante,27,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+343,Pablo Martínez,es ESP,MF,Levante,27,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+344,Unai Elgezabal,es ESP,"DF,MF",Levante,32,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+345,Óscar Trejo,ar ARG,MF,Rayo Vallecano,37,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+346,Jofre Carreras,,RW,Espanyol,24,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+347,Leandro Cabrera,uy URU,DF,Espanyol,34,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+348,Miguel Ángel Rubio,es ESP,DF,Espanyol,27,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+349,Omar El Hilali,ma MAR,DF,Espanyol,21,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+350,Aarón Escandell,es ESP,GK,Oviedo,29,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+351,Alberto Reina,,CM,Oviedo,28,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+352,Dani Calvo,es ESP,DF,Oviedo,31,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+353,David Costas,es ESP,DF,Oviedo,30,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+354,Federico Viñas,uy URU,"FW,MF",Oviedo,27,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+355,Javi López,es ESP,DF,Oviedo,23,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+356,Luka Ilić,rs SRB,"MF,FW",Oviedo,26,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+357,Nacho Vidal,es ESP,DF,Oviedo,30,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+358,Eray Cömert,ch SUI,DF,Valencia,27,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+359,Jesus Vazquez,es ESP,"DF,MF",Valencia,22,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+360,Copete,es ESP,DF,Valencia,25,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+361,Largie Ramazani,be BEL,"MF,FW",Valencia,24,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+362,Pablo Marín,es ESP,MF,Real Sociedad,22,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+363,Iván Villar,es ESP,GK,Celta Vigo,28,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+364,Roony Bardghji,,RW,Barcelona,20,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+365,Iñigo Lekue,es ESP,DF,Athletic Club,32,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+366,David Affengruber,at AUT,DF,Elche,24,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+367,Gonzalo Villar,es ESP,MF,Elche,27,"€ 18,077 (£ 15,656, $21,012)","€ 940,000 (£ 814,094, $1,092,624)",Unverified estimation
+368,Martim Neto,,CM,Elche,23,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+369,Pedro Bigas,es ESP,DF,Elche,34,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+370,Martin Satriano,uy URU,"FW,MF",Getafe,24,"€ 18,077 (£ 15,656, $21,012)","€ 940,000 (£ 814,094, $1,092,624)",Unverified estimation
+371,Facundo Garcés,my MAS,DF,Alavés,25,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+372,Alfonso Espino,uy URU,"DF,MF",Rayo Vallecano,33,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+373,Iván Balliu,al ALB,DF,Rayo Vallecano,33,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+374,Carlos Romero,es ESP,DF,Espanyol,23,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+375,Ilyas Chaira,ma MAR,"MF,FW",Oviedo,24,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+376,Carlos Dominguez,es ESP,DF,Celta Vigo,24,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+377,Hugo Álvarez,es ESP,"FW,MF",Celta Vigo,22,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+378,Mateo Joseph,,CF,Mallorca,22,"€ 17,308 (£ 15,003, $20,158)","€ 900,000 (£ 780,172, $1,048,215)",Unverified estimation
+379,Unai Núñez,es ESP,DF,Valencia,28,"€ 16,346 (£ 14,157, $19,000)","€ 850,000 (£ 736,149, $988,011)",Unverified estimation
+380,Aitor Fernández,es ESP,GK,Osasuna,34,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+381,Kike Barja,es ESP,MF,Osasuna,28,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+382,Víctor Muñoz,,LW,Osasuna,22,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+383,Mateu Morey,es ESP,"DF,MF",Mallorca,25,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+384,Omar Mascarell,gq EQG,"MF,DF",Mallorca,32,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+385,Maroan Sannadi,ma MAR,FW,Athletic Club,24,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+386,Álvaro Rodríguez,uy URU,FW,Elche,21,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+387,Bambo Diaby,sn SEN,DF,Elche,27,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+388,Germán Valera,es ESP,"MF,DF",Elche,23,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+389,Víctor Chust,es ESP,DF,Elche,25,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+390,Coba da Costa,es ESP,MF,Getafe,23,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+391,Iglesias,es ESP,DF,Getafe,27,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+392,Nikola Maraš,rs SRB,DF,Alavés,29,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+393,Gerard Gumbau,es ESP,MF,Rayo Vallecano,30,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+394,Sergio Camello,es ESP,"FW,MF",Rayo Vallecano,24,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+395,Clemens Riedel,de GER,DF,Espanyol,22,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+396,José Salinas,es ESP,DF,Espanyol,24,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+397,Haissem Hassan,eg EGY,"MF,FW",Oviedo,23,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+398,Kwasi Sibo,gh GHA,MF,Oviedo,27,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+399,Lucas Ahijado,es ESP,DF,Oviedo,30,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+400,Oier Luengo,es ESP,DF,Oviedo,27,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+401,Ovie Ejaria,eng ENG,MF,Oviedo,27,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+402,Jon Karrikaburu,es ESP,FW,Real Sociedad,22,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+403,Jon Martín,,CB,Real Sociedad,19,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+404,Javi Rodríguez,,CB,Celta Vigo,22,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+405,Javi Rueda,,RB,Celta Vigo,23,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+406,Pablo García,,RW,Real Betis,19,"€ 16,154 (£ 14,003, $18,814)","€ 840,000 (£ 728,160, $978,334)",Unverified estimation
+407,Alfon,es ESP,MF,Villarreal,26,"€ 15,962 (£ 13,824, $18,553)","€ 830,000 (£ 718,828, $964,764)",Unverified estimation
+408,Matias Moreno,ar ARG,DF,Levante,21,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",
+409,Pablo Campos,,GK,Levante,23,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+410,Víctor García,,RB,Levante,28,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+411,Carlos Martín,es ESP,"MF,FW",Rayo Vallecano,23,"€ 15,962 (£ 13,824, $18,553)","€ 830,000 (£ 718,828, $964,764)",Unverified estimation
+412,Ilias Akhomach,ma MAR,"MF,FW",Rayo Vallecano,21,"€ 15,962 (£ 13,824, $18,553)","€ 830,000 (£ 718,828, $964,764)",Unverified estimation
+413,Thiago Borbas,,CF,Oviedo,23,"€ 15,962 (£ 13,824, $18,553)","€ 830,000 (£ 718,828, $964,764)",Unverified estimation
+414,Obed Vargas,mx MEX,MF,Atlético Madrid,19,"€ 15,962 (£ 13,824, $18,553)","€ 830,000 (£ 718,828, $964,764)",Unverified estimation
+415,Fer López,,AM,Celta Vigo,21,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+416,Alex Freeman,us USA,DF,Villarreal,20,"€ 14,038 (£ 12,158, $16,318)","€ 730,000 (£ 632,222, $848,527)",Unverified estimation
+417,Abde Rebbach,dz ALG,"MF,DF",Alavés,26,"€ 14,038 (£ 12,169, $16,350)","€ 730,000 (£ 632,806, $850,219)",Unverified estimation
+418,Iker Muñoz,,DM,Osasuna,23,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+419,Abdón Prats,es ESP,FW,Mallorca,32,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+420,Marc Aguado,es ESP,MF,Elche,25,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+421,Carlos Benavídez,uy URU,DF,Alavés,27,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+422,Alejandro Francés,es ESP,DF,Girona,22,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+423,Adrián de la Fuente,es ESP,DF,Levante,26,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+424,Diego Pampín,es ESP,DF,Levante,25,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+425,Fran Pérez,,RW,Rayo Vallecano,23,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+426,Antoniu Roca,,RW,Espanyol,23,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+427,Rubén Sánchez,,RB,Espanyol,25,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+428,Álex Forés,es ESP,FW,Oviedo,24,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+429,Hugo Sotelo,es ESP,MF,Celta Vigo,21,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",Unverified estimation
+430,Jorge Herrando,es ESP,DF,Osasuna,24,"€ 12,115 (£ 10,502, $14,111)","€ 630,000 (£ 546,120, $733,751)",Unverified estimation
+431,Zito Luvumbo,ao ANG,"FW,MF",Mallorca,23,"€ 12,115 (£ 10,493, $14,083)","€ 630,000 (£ 545,616, $732,291)",Unverified estimation
+432,Lucas Cepeda,,LW,Elche,23,"€ 12,115 (£ 10,493, $14,083)","€ 630,000 (£ 545,616, $732,291)",Unverified estimation
+433,Allan Nyom,cm CMR,DF,Getafe,37,"€ 12,115 (£ 10,493, $14,083)","€ 630,000 (£ 545,616, $732,291)",Unverified estimation
+434,Veljko Birmančević,rs SRB,FW,Getafe,27,"€ 12,115 (£ 10,493, $14,083)","€ 630,000 (£ 545,616, $732,291)",Unverified estimation
+435,Nicolás Fonseca,,DM,Oviedo,27,"€ 12,115 (£ 10,493, $14,083)","€ 630,000 (£ 545,616, $732,291)",Unverified estimation
+436,Pau Navarro,es ESP,DF,Villarreal,20,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+437,Jan Virgili,,LW,Mallorca,19,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+438,Alejandro Iturbe,,GK,Elche,22,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+439,Matías Dituro,ar ARG,GK,Elche,38,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+440,Jiří Letáček,,GK,Getafe,26,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+441,Raúl Fernández,es ESP,GK,Alavés,37,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+442,Dani Cárdenas,es ESP,GK,Rayo Vallecano,28,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+443,Nobel Mendy,sn SEN,DF,Rayo Vallecano,20,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+444,Pathé Ciss,sn SEN,"MF,DF",Rayo Vallecano,31,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+445,Ramón Terrats,es ESP,MF,Espanyol,24,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+446,Brandon Domingues,fr FRA,MF,Oviedo,25,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+447,Peque Fernández,,SS,Sevilla,23,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+448,Ángel Ortíz,es ESP,DF,Real Betis,21,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+449,Alex Padilla,es ESP,GK,Athletic Club,21,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+450,John Donald,,CB,Elche,25,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+451,Abu Kamara,,RW,Getafe,22,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+452,Luis Vázquez,ar ARG,FW,Getafe,24,"€ 10,000 (£ 8,661, $11,624)","€ 520,000 (£ 450,350, $604,431)",Unverified estimation
+453,Mario Martín,es ESP,"MF,FW",Getafe,21,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+454,Sebastián Boselli,,CB,Getafe,22,"€ 10,000 (£ 8,661, $11,624)","€ 520,000 (£ 450,350, $604,431)",Unverified estimation
+455,Calebe,br BRA,MF,Alavés,25,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+456,Claudio Echeverri,ar ARG,"FW,MF",Girona,19,"€ 10,000 (£ 8,661, $11,624)","€ 520,000 (£ 450,350, $604,431)",Unverified estimation
+457,Hugo Rincón,es ESP,DF,Girona,22,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+458,Carlos Álvarez,es ESP,MF,Levante,21,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+459,Abdul Mumin,gh GHA,DF,Rayo Vallecano,27,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+460,Jones El-Abdellaoui,,RW,Celta Vigo,20,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+461,Pau Cabanes,es ESP,FW,Villarreal,20,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+462,Adama Boiro,es ESP,DF,Athletic Club,23,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+463,Urko Izeta,es ESP,FW,Athletic Club,25,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+464,Josan,es ESP,"MF,DF",Elche,35,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+465,Ismael Bekhoucha,ma MAR,DF,Getafe,20,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+466,Zaid Romero,ar ARG,DF,Getafe,25,"€ 8,077 (£ 6,995, $9,388)","€ 420,000 (£ 363,744, $488,194)",Unverified estimation
+467,Victor Parada,es ESP,DF,Alavés,23,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+468,Youssef Enríquez,,LB,Alavés,20,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+469,Joel Roca,es ESP,"MF,FW",Girona,20,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+470,Kareem Tunde,,RW,Levante,20,"€ 8,077 (£ 6,995, $9,388)","€ 420,000 (£ 363,744, $488,194)",Unverified estimation
+471,Federico Gattoni,ar ARG,DF,Sevilla,26,"€ 8,077 (£ 6,995, $9,388)","€ 420,000 (£ 363,744, $488,194)",Unverified estimation
+472,Cristian,es ESP,GK,Valencia,27,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+473,Pablo Durán,es ESP,"FW,MF",Celta Vigo,24,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+474,Asier Osambela,,CM,Osasuna,21,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+475,Unai Gómez,es ESP,MF,Athletic Club,22,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+476,Tay Abed,,RW,Levante,21,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+477,Juan Carlos,es ESP,GK,Girona,37,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+478,Iker Benito,es ESP,MF,Osasuna,22,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+479,Iván Cuéllar,es ESP,GK,Mallorca,41,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+480,Lucas Bergström,fi FIN,GK,Mallorca,22,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+481,Yago Santiago,es ESP,MF,Elche,22,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+482,Adrián Liso,es ESP,"FW,MF",Getafe,20,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+483,Davinchi,,LB,Getafe,18,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+484,Jozhua Vertrouwd,,LB,Rayo Vallecano,21,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+485,Rahim Alhassane,,LB,Oviedo,24,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+486,Manu Bueno,es ESP,MF,Sevilla,21,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+487,Marc Vidal,,GK,Celta Vigo,25,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+488,Yoel Lago,es ESP,DF,Celta Vigo,21,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+489,Carlos Macià,,CM,Villarreal,17,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+490,Justin Kalumba,,RW,Mallorca,21,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+491,Alejandro Rego,,CM,Athletic Club,22,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+492,Nicolás Serrano,es ESP,MF,Athletic Club,22,"€ 5,962 (£ 5,168, $6,943)","€ 310,000 (£ 268,726, $361,052)",Unverified estimation
+493,Unai Egiluz,,CB,Athletic Club,23,"€ 5,962 (£ 5,168, $6,943)","€ 310,000 (£ 268,726, $361,052)",Unverified estimation
+494,Buba Sangaré,es ESP,"DF,MF",Elche,17,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+495,Ángel Pérez,,RW,Alavés,23,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+496,Lass Kourouma,,CM,Girona,21,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+497,Ugo Raghouber,fr FRA,MF,Levante,22,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+498,Oso,,LB,Sevilla,22,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+499,Javi Llabrés,,LW,Mallorca,23,"€ 5,192 (£ 4,501, $6,047)","€ 270,000 (£ 234,052, $314,465)",Unverified estimation
+500,Ibrahim Diabate,,CF,Alavés,26,"€ 5,000 (£ 4,330, $5,812)","€ 260,000 (£ 225,175, $302,215)",Unverified estimation
+501,Ville Koski,,CB,Alavés,24,"€ 5,000 (£ 4,330, $5,812)","€ 260,000 (£ 225,175, $302,215)",Unverified estimation
+502,Iñigo Arguibide,,RB,Osasuna,20,"€ 4,808 (£ 4,164, $5,588)","€ 250,000 (£ 216,514, $290,592)",Unverified estimation
+503,David López,es ESP,DF,Mallorca,22,"€ 4,808 (£ 4,168, $5,599)","€ 250,000 (£ 216,714, $291,171)",Unverified estimation
+504,Selton Sánchez,,CM,Athletic Club,18,"€ 4,808 (£ 4,164, $5,588)","€ 250,000 (£ 216,514, $290,592)",Unverified estimation
+505,Carlos Espí,es ESP,FW,Levante,20,"€ 4,808 (£ 4,168, $5,599)","€ 250,000 (£ 216,714, $291,171)",Unverified estimation
+506,Thiago Fernández,,LW,Oviedo,21,"€ 4,808 (£ 4,164, $5,588)","€ 250,000 (£ 216,514, $290,592)",Unverified estimation
+507,Manu Fernández,es ESP,DF,Celta Vigo,24,"€ 4,808 (£ 4,168, $5,599)","€ 250,000 (£ 216,714, $291,171)",Unverified estimation
+508,Miguel Román,,CM,Celta Vigo,23,"€ 4,808 (£ 4,168, $5,599)","€ 250,000 (£ 216,714, $291,171)",Unverified estimation
+509,Vladyslav Krapyvtsov,,GK,Girona,20,"€ 4,615 (£ 4,001, $5,375)","€ 240,000 (£ 208,046, $279,524)",Unverified estimation
+510,Unai Marrero,es ESP,GK,Real Sociedad,23,"€ 4,615 (£ 4,001, $5,375)","€ 240,000 (£ 208,046, $279,524)",Unverified estimation
+511,Jan Salas,,CM,Mallorca,20,"€ 4,038 (£ 3,498, $4,694)","€ 210,000 (£ 181,872, $244,097)",Unverified estimation
+512,Aitor Mañas,,CF,Alavés,23,"€ 4,038 (£ 3,498, $4,694)","€ 210,000 (£ 181,872, $244,097)",Unverified estimation
+513,Paco Cortés,,LW,Levante,18,"€ 4,038 (£ 3,498, $4,694)","€ 210,000 (£ 181,872, $244,097)",Unverified estimation
+514,Ángel Fortuño,,GK,Espanyol,24,"€ 4,038 (£ 3,501, $4,704)","€ 210,000 (£ 182,040, $244,584)",Unverified estimation
+515,Adam Boayar,ma MAR,MF,Elche,19,"€ 3,846 (£ 3,334, $4,480)","€ 200,000 (£ 173,372, $232,937)",Unverified estimation
+516,Santi Cazorla,es ESP,MF,Oviedo,40,"€ 3,750 (£ 3,251, $4,368)","€ 195,000 (£ 169,037, $227,113)",
+517,Samu Becerra,,CM,Rayo Vallecano,19,"€ 3,654 (£ 3,164, $4,247)","€ 190,000 (£ 164,551, $220,850)",Unverified estimation
+518,Andrés Castrín,,CB,Sevilla,22,"€ 2,692 (£ 2,334, $3,136)","€ 140,000 (£ 121,360, $163,056)",Unverified estimation

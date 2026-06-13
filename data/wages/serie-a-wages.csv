@@ -1,0 +1,569 @@
+Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes
+1,Dušan Vlahović,rs SRB,FW,Juventus,25,"€ 427,308 (£ 370,415, $497,678)","€ 22,220,000 (£ 19,261,576, $25,879,270)",
+2,Lautaro Martínez,ar ARG,FW,Inter,27,"€ 320,577 (£ 277,895, $373,371)","€ 16,670,000 (£ 14,450,516, $19,415,276)",
+3,Paulo Dybala,ar ARG,"MF,FW",Roma,31,"€ 249,231 (£ 216,048, $290,275)","€ 12,960,000 (£ 11,234,474, $15,094,299)",
+4,Nicolò Barella,it ITA,MF,Inter,28,"€ 231,538 (£ 200,711, $269,669)","€ 12,040,000 (£ 10,436,965, $14,022,791)",
+5,Kevin De Bruyne,be BEL,MF,Napoli,34,"€ 213,654 (£ 185,207, $248,839)","€ 11,110,000 (£ 9,630,788, $12,939,635)",
+6,Jonathan David,ca CAN,FW,Juventus,25,"€ 213,654 (£ 185,207, $248,839)","€ 11,110,000 (£ 9,630,788, $12,939,635)",
+7,Hakan Çalhanoğlu,tr TUR,MF,Inter,31,"€ 213,654 (£ 185,207, $248,839)","€ 11,110,000 (£ 9,630,788, $12,939,635)",
+8,Alessandro Bastoni,it ITA,DF,Inter,26,"€ 195,962 (£ 169,871, $228,233)","€ 10,190,000 (£ 8,833,279, $11,868,126)",
+9,Rasmus Højlund,dk DEN,FW,Napoli,22,"€ 178,077 (£ 154,367, $207,403)","€ 9,260,000 (£ 8,027,101, $10,784,970)",
+10,Adrien Rabiot,fr FRA,MF,Milan,30,"€ 178,077 (£ 154,367, $207,403)","€ 9,260,000 (£ 8,027,101, $10,784,970)",
+11,Christopher Nkunku,fr FRA,FW,Milan,27,"€ 178,077 (£ 154,367, $207,403)","€ 9,260,000 (£ 8,027,101, $10,784,970)",
+12,Gleison Bremer,br BRA,DF,Juventus,28,"€ 178,077 (£ 154,367, $207,403)","€ 9,260,000 (£ 8,027,101, $10,784,970)",
+13,Álvaro Morata,es ESP,FW,Como,32,"€ 160,192 (£ 138,864, $186,573)","€ 8,330,000 (£ 7,220,924, $9,701,814)",
+14,Piotr Zieliński,pl POL,MF,Inter,31,"€ 160,192 (£ 138,864, $186,573)","€ 8,330,000 (£ 7,220,924, $9,701,814)",
+15,Romelu Lukaku,be BEL,FW,Napoli,32,"€ 147,885 (£ 128,195, $172,239)","€ 7,690,000 (£ 6,666,135, $8,956,417)",
+16,Marcus Thuram,fr FRA,FW,Inter,27,"€ 147,885 (£ 128,195, $172,239)","€ 7,690,000 (£ 6,666,135, $8,956,417)",
+17,Loïs Openda,be BEL,"FW,MF",Juventus,25,"€ 142,500 (£ 123,527, $165,967)","€ 7,410,000 (£ 6,423,415, $8,630,305)",
+18,Federico Dimarco,it ITA,MF,Inter,27,"€ 142,500 (£ 123,527, $165,967)","€ 7,410,000 (£ 6,423,415, $8,630,305)",
+19,Francisco Conceição,pt POR,"MF,FW",Juventus,22,"€ 135,385 (£ 117,359, $157,680)","€ 7,040,000 (£ 6,102,677, $8,199,373)",
+20,Stefan de Vrij,nl NED,DF,Inter,33,"€ 135,385 (£ 117,359, $157,680)","€ 7,040,000 (£ 6,102,677, $8,199,373)",
+21,Maxence Caqueret,fr FRA,MF,Como,25,"€ 128,269 (£ 111,191, $149,393)","€ 6,670,000 (£ 5,781,940, $7,768,440)",
+22,Giacomo Raspadori,it ITA,"MF,FW",Atalanta,25,"€ 124,615 (£ 107,924, $144,849)","€ 6,480,000 (£ 5,612,051, $7,532,134)",
+23,Gianluca Mancini,it ITA,DF,Roma,29,"€ 124,615 (£ 108,024, $145,138)","€ 6,480,000 (£ 5,617,237, $7,547,150)",
+24,Lorenzo Pellegrini,it ITA,MF,Roma,29,"€ 124,615 (£ 108,024, $145,138)","€ 6,480,000 (£ 5,617,237, $7,547,150)",
+25,Mario Hermoso,es ESP,DF,Roma,30,"€ 124,615 (£ 108,024, $145,138)","€ 6,480,000 (£ 5,617,237, $7,547,150)",
+26,Matteo Politano,it ITA,"MF,FW",Napoli,31,"€ 124,615 (£ 108,024, $145,138)","€ 6,480,000 (£ 5,617,237, $7,547,150)",
+27,Luka Modrić,hr CRO,MF,Milan,39,"€ 124,615 (£ 108,024, $145,138)","€ 6,480,000 (£ 5,617,237, $7,547,150)",
+28,Manuel Akanji,ch SUI,DF,Inter,30,"€ 124,615 (£ 108,024, $145,138)","€ 6,480,000 (£ 5,617,237, $7,547,150)",
+29,Rafael Leão,pt POR,FW,Milan,26,"€ 123,269 (£ 106,857, $143,570)","€ 6,410,000 (£ 5,556,557, $7,465,622)",
+30,Manuel Locatelli,it ITA,MF,Juventus,27,"€ 117,500 (£ 101,856, $136,850)","€ 6,110,000 (£ 5,296,500, $7,116,217)",
+31,Gianluca Scamacca,it ITA,FW,Atalanta,26,"€ 114,038 (£ 98,855, $132,819)","€ 5,930,000 (£ 5,140,466, $6,906,574)",
+32,Moise Kean,it ITA,FW,Fiorentina,25,"€ 110,962 (£ 96,188, $129,235)","€ 5,770,000 (£ 5,001,768, $6,720,224)",
+33,Teun Koopmeiners,nl NED,"MF,DF",Juventus,27,"€ 110,962 (£ 96,188, $129,235)","€ 5,770,000 (£ 5,001,768, $6,720,224)",
+34,Federico Gatti,it ITA,DF,Juventus,27,"€ 110,385 (£ 95,688, $128,563)","€ 5,740,000 (£ 4,975,763, $6,685,284)",
+35,David de Gea,es ESP,GK,Fiorentina,34,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+36,Alessio Romagnoli,it ITA,DF,Lazio,30,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+37,Mattia Zaccagni,it ITA,FW,Lazio,30,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+38,Artem Dovbyk,ua UKR,FW,Roma,28,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+39,David Neres,br BRA,"FW,MF",Napoli,28,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+40,Elif Elmas,mk MKD,"MF,FW",Napoli,25,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+41,Giovanni Di Lorenzo,it ITA,"DF,MF",Napoli,31,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+42,Scott McTominay,sct SCO,MF,Napoli,28,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+43,Youssouf Fofana,fr FRA,MF,Milan,26,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+44,Domenico Berardi,it ITA,FW,Sassuolo,30,"€ 106,923 (£ 92,687, $124,532)","€ 5,560,000 (£ 4,819,728, $6,475,641)",
+45,Elseid Hysaj,al ALB,DF,Lazio,31,"€ 99,808 (£ 86,519, $116,244)","€ 5,190,000 (£ 4,498,991, $6,044,708)",
+46,Bryan Cristante,it ITA,MF,Roma,30,"€ 99,808 (£ 86,519, $116,244)","€ 5,190,000 (£ 4,498,991, $6,044,708)",
+47,Manu Koné,fr FRA,MF,Roma,24,"€ 99,808 (£ 86,519, $116,244)","€ 5,190,000 (£ 4,498,991, $6,044,708)",
+48,Davide Frattesi,it ITA,MF,Inter,25,"€ 99,808 (£ 86,519, $116,244)","€ 5,190,000 (£ 4,498,991, $6,044,708)",
+49,Obite N'Dicka,ci CIV,DF,Roma,25,"€ 98,654 (£ 85,519, $114,901)","€ 5,130,000 (£ 4,446,979, $5,974,827)",
+50,Christian Pulisic,us USA,FW,Milan,26,"€ 98,654 (£ 85,519, $114,901)","€ 5,130,000 (£ 4,446,979, $5,974,827)",
+51,Ruben Loftus-Cheek,eng ENG,"MF,FW",Milan,29,"€ 98,654 (£ 85,519, $114,901)","€ 5,130,000 (£ 4,446,979, $5,974,827)",
+52,Denzel Dumfries,nl NED,MF,Inter,29,"€ 98,654 (£ 85,519, $114,901)","€ 5,130,000 (£ 4,446,979, $5,974,827)",
+53,Duván Zapata,co COL,FW,Torino,34,"€ 96,154 (£ 83,352, $111,989)","€ 5,000,000 (£ 4,334,288, $5,823,418)",
+54,Henrikh Mkhitaryan,am ARM,MF,Inter,36,"€ 93,654 (£ 81,185, $109,077)","€ 4,870,000 (£ 4,221,596, $5,672,009)",
+55,Ben Godfrey,eng ENG,CB,Atalanta,27,"€ 89,038 (£ 76,767, $104,224)","€ 4,630,000 (£ 3,991,891, $5,419,665)",
+56,Kostas Tsimikas,gr GRE,MF,Roma,29,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",Unverified estimation
+57,Stephan El Shaarawy,it ITA,"MF,FW",Roma,32,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+58,Alessandro Buongiorno,it ITA,DF,Napoli,26,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+59,Alex Meret,it ITA,GK,Napoli,28,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+60,Noa Lang,nl NED,"FW,MF",Napoli,26,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+61,Ardon Jashari,ch SUI,MF,Milan,23,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+62,Pervis Estupiñán,ec ECU,MF,Milan,27,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+63,Samuele Ricci,it ITA,MF,Milan,23,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+64,Santiago Giménez,mx MEX,FW,Milan,24,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+65,Edon Zhegrova,xk KVX,MF,Juventus,26,"€ 89,038 (£ 77,184, $103,702)","€ 4,630,000 (£ 4,013,551, $5,392,485)",
+66,Fikayo Tomori,eng ENG,DF,Milan,27,"€ 86,346 (£ 74,850, $100,566)","€ 4,490,000 (£ 3,892,191, $5,229,429)",
+67,Andrea Cambiaso,it ITA,"MF,DF",Juventus,25,"€ 85,385 (£ 74,016, $99,446)","€ 4,440,000 (£ 3,848,848, $5,171,195)",
+68,Lloyd Kelly,eng ENG,DF,Juventus,26,"€ 85,385 (£ 74,016, $99,446)","€ 4,440,000 (£ 3,848,848, $5,171,195)",
+69,Andrea Pinamonti,it ITA,FW,Sassuolo,26,"€ 85,385 (£ 74,016, $99,446)","€ 4,440,000 (£ 3,848,848, $5,171,195)",
+70,Mile Svilar,rs SRB,GK,Roma,25,"€ 83,846 (£ 72,683, $97,654)","€ 4,360,000 (£ 3,779,499, $5,078,020)",
+71,Donyell Malen,nl NED,FW,Roma,26,"€ 81,923 (£ 70,950, $95,225)","€ 4,260,000 (£ 3,689,404, $4,951,681)",
+72,Miguel Gutiérrez,es ESP,"MF,DF",Napoli,24,"€ 81,923 (£ 71,016, $95,414)","€ 4,260,000 (£ 3,692,813, $4,961,552)",
+73,Ismaël Bennacer,dz ALG,DM,Milan,27,"€ 81,154 (£ 70,349, $94,519)","€ 4,220,000 (£ 3,658,139, $4,914,965)",
+74,Nuno Tavares,pt POR,DF,Lazio,25,"€ 78,269 (£ 67,848, $91,159)","€ 4,070,000 (£ 3,528,110, $4,740,262)",
+75,Samuel Gigot,fr FRA,"DF,MF",Lazio,31,"€ 78,269 (£ 67,848, $91,159)","€ 4,070,000 (£ 3,528,110, $4,740,262)",
+76,Luis Henrique,br BRA,MF,Inter,23,"€ 75,192 (£ 65,181, $87,575)","€ 3,910,000 (£ 3,389,413, $4,553,913)",
+77,Riccardo Orsolini,it ITA,"MF,FW",Bologna,28,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+78,Diego Carlos,br BRA,DF,Como,32,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",Unverified estimation
+79,Robin Gosens,de GER,"DF,MF",Fiorentina,31,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+80,Ivan Provedel,it ITA,GK,Lazio,31,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+81,Nicolò Rovella,it ITA,MF,Lazio,23,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+82,Mario Pašalić,hr CRO,MF,Atalanta,30,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+83,Angeliño,es ESP,MF,Roma,28,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+84,Matìas Soulé,ar ARG,"MF,FW",Roma,22,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+85,Wesley,br BRA,MF,Roma,21,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+86,Lorenzo Lucca,it ITA,FW,Napoli,24,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+87,Khéphren Thuram,fr FRA,MF,Juventus,24,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+88,Michele Di Gregorio,it ITA,GK,Juventus,28,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+89,Aster Vranckx,be BEL,MF,Sassuolo,22,"€ 71,154 (£ 61,623, $82,707)","€ 3,700,000 (£ 3,204,412, $4,300,756)",Unverified estimation
+90,Nemanja Matić,rs SRB,MF,Sassuolo,36,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",Unverified estimation
+91,Andy Diouf,fr FRA,MF,Inter,22,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+92,Ange-Yoan Bonny,ci CIV,FW,Inter,21,"€ 71,154 (£ 61,680, $82,872)","€ 3,700,000 (£ 3,207,373, $4,309,329)",
+93,Stanislav Lobotka,sk SVK,MF,Napoli,30,"€ 69,038 (£ 59,847, $80,408)","€ 3,590,000 (£ 3,112,019, $4,181,214)",
+94,Mike Maignan,fr FRA,GK,Milan,30,"€ 69,038 (£ 59,847, $80,408)","€ 3,590,000 (£ 3,112,019, $4,181,214)",
+95,Andre-Frank Zambo Anguissa,cm CMR,MF,Napoli,29,"€ 66,538 (£ 57,679, $77,496)","€ 3,460,000 (£ 2,999,327, $4,029,805)",
+96,Nicolò Zaniolo,it ITA,"FW,MF",Udinese,26,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+97,Ché Adams,sct SCO,FW,Torino,29,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+98,Federico Bernardeschi,it ITA,"MF,FW",Bologna,31,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+99,Nicolò Fagioli,it ITA,MF,Fiorentina,24,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+100,Vitinha,pt POR,"FW,MF",Genoa,25,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",Unverified estimation
+101,Adam Marušić,me MNE,DF,Lazio,32,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+102,Raoul Bellanova,it ITA,MF,Atalanta,25,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+103,Evan Ferguson,ie IRL,FW,Roma,20,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+104,Niccolò Pisilli,it ITA,MF,Roma,20,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+105,Billy Gilmour,sct SCO,MF,Napoli,24,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+106,Leonardo Spinazzola,it ITA,"MF,DF",Napoli,32,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+107,Matteo Gabbia,it ITA,DF,Milan,25,"€ 64,038 (£ 55,512, $74,585)","€ 3,330,000 (£ 2,886,636, $3,878,396)",
+108,Charles De Ketelaere,be BEL,"MF,FW",Atalanta,24,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",
+109,Amir Rrahmani,xk KVX,DF,Napoli,31,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",
+110,Sam Beukema,nl NED,DF,Napoli,26,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",
+111,Filip Kostić,rs SRB,MF,Juventus,32,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",
+112,Weston McKennie,us USA,MF,Juventus,26,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",
+113,Matteo Darmian,it ITA,"MF,DF",Inter,35,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",
+114,Yann Sommer,ch SUI,GK,Inter,36,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",
+115,Cristiano Biraghi,it ITA,"MF,DF",Torino,32,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",Unverified estimation
+116,Giovanni Simeone,ar ARG,FW,Torino,30,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",
+117,Guillermo Maripán,cl CHI,DF,Torino,31,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",Unverified estimation
+118,Christian Kouamé,ci CIV,"FW,MF",Fiorentina,27,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",Unverified estimation
+119,Fabiano Parisi,it ITA,"MF,FW",Fiorentina,24,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",Unverified estimation
+120,Kenneth Taylor,nl NED,MF,Lazio,23,"€ 60,577 (£ 52,463, $70,413)","€ 3,150,000 (£ 2,728,080, $3,661,454)",
+121,Manuel Lazzari,it ITA,DF,Lazio,31,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",
+122,Vanja Milinković-Savić,rs SRB,GK,Napoli,28,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",
+123,Koni De Winter,be BEL,DF,Milan,23,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",
+124,Strahinja Pavlović,rs SRB,DF,Milan,24,"€ 60,577 (£ 52,512, $70,553)","€ 3,150,000 (£ 2,730,601, $3,668,753)",
+125,Pierre Kalulu,fr FRA,"DF,MF",Juventus,25,"€ 59,231 (£ 51,345, $68,985)","€ 3,080,000 (£ 2,669,921, $3,587,225)",
+126,Thijs Dallinga,nl NED,FW,Bologna,24,"€ 56,923 (£ 49,344, $66,297)","€ 2,960,000 (£ 2,565,898, $3,447,463)",
+127,Roberto Piccoli,it ITA,FW,Fiorentina,24,"€ 56,923 (£ 49,344, $66,297)","€ 2,960,000 (£ 2,565,898, $3,447,463)",
+128,Rolando Mandragora,it ITA,MF,Fiorentina,28,"€ 56,923 (£ 49,344, $66,297)","€ 2,960,000 (£ 2,565,898, $3,447,463)",
+129,Kamaldeen Sulemana,gh GHA,MF,Atalanta,23,"€ 56,923 (£ 49,344, $66,297)","€ 2,960,000 (£ 2,565,898, $3,447,463)",
+130,Nicola Zalewski,pl POL,MF,Atalanta,23,"€ 56,923 (£ 49,344, $66,297)","€ 2,960,000 (£ 2,565,898, $3,447,463)",
+131,Antonio Sanabria,py PAR,FW,Cremonese,29,"€ 56,923 (£ 49,344, $66,297)","€ 2,960,000 (£ 2,565,898, $3,447,463)",
+132,Kenan Yıldız,tr TUR,"MF,FW",Juventus,20,"€ 56,923 (£ 49,344, $66,297)","€ 2,960,000 (£ 2,565,898, $3,447,463)",
+133,Albert Guðmundsson,is ISL,"FW,MF",Fiorentina,28,"€ 54,231 (£ 47,010, $63,162)","€ 2,820,000 (£ 2,444,538, $3,284,408)",
+134,Pedro,es ESP,"FW,MF",Lazio,38,"€ 54,231 (£ 47,010, $63,162)","€ 2,820,000 (£ 2,444,538, $3,284,408)",
+135,Mitchel Bakker,nl NED,"DF,MF",Atalanta,25,"€ 54,231 (£ 47,010, $63,162)","€ 2,820,000 (£ 2,444,538, $3,284,408)",
+136,Carlos Augusto,br BRA,"MF,DF",Inter,26,"€ 54,231 (£ 47,010, $63,162)","€ 2,820,000 (£ 2,444,538, $3,284,408)",
+137,Cesare Casadei,it ITA,MF,Torino,22,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+138,Jonathan Rowe,eng ENG,"MF,FW",Bologna,22,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+139,Jean Onana,cm CMR,MF,Genoa,25,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+140,Justin Bijlow,nl NED,GK,Genoa,27,"€ 53,462 (£ 46,301, $62,142)","€ 2,780,000 (£ 2,407,639, $3,231,379)",Unverified estimation
+141,Valentin Carboni,ar ARG,MF,Genoa,20,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+142,Danilo Cataldi,it ITA,MF,Lazio,30,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+143,Giorgio Scalvini,it ITA,DF,Atalanta,21,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+144,Andrea Belotti,it ITA,FW,Cagliari,31,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",Unverified estimation
+145,Bryan Zaragoza,es ESP,MF,Roma,23,"€ 53,462 (£ 46,301, $62,142)","€ 2,780,000 (£ 2,407,639, $3,231,379)",
+146,Neil El Aynaoui,ma MAR,MF,Roma,24,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+147,Robinio Vaz,,CF,Roma,18,"€ 53,462 (£ 46,301, $62,142)","€ 2,780,000 (£ 2,407,639, $3,231,379)",
+148,Mattia Perin,it ITA,GK,Juventus,32,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+149,Francesco Acerbi,it ITA,DF,Inter,37,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+150,Josep Martinez,es ESP,GK,Inter,27,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+151,Petar Sučić,hr CRO,MF,Inter,21,"€ 53,462 (£ 46,344, $62,266)","€ 2,780,000 (£ 2,409,864, $3,237,820)",
+152,Jack Harrison,eng ENG,"FW,MF",Fiorentina,28,"€ 51,731 (£ 44,802, $60,130)","€ 2,690,000 (£ 2,329,694, $3,126,766)",Unverified estimation
+153,Marin Pongračić,hr CRO,DF,Fiorentina,27,"€ 51,731 (£ 44,843, $60,250)","€ 2,690,000 (£ 2,331,847, $3,132,999)",
+154,Luca Mazzitelli,it ITA,MF,Cagliari,29,"€ 49,808 (£ 43,176, $58,010)","€ 2,590,000 (£ 2,245,161, $3,016,531)",
+155,Nikola Vlašić,hr CRO,"MF,FW",Torino,27,"€ 49,231 (£ 42,676, $57,338)","€ 2,560,000 (£ 2,219,155, $2,981,590)",
+156,Boulaye Dia,sn SEN,"FW,MF",Lazio,28,"€ 49,231 (£ 42,676, $57,338)","€ 2,560,000 (£ 2,219,155, $2,981,590)",
+157,Éderson,br BRA,MF,Atalanta,26,"€ 49,231 (£ 42,676, $57,338)","€ 2,560,000 (£ 2,219,155, $2,981,590)",
+158,Sead Kolašinac,ba BIH,DF,Atalanta,32,"€ 49,231 (£ 42,676, $57,338)","€ 2,560,000 (£ 2,219,155, $2,981,590)",
+159,Yunus Musah,us USA,MF,Atalanta,22,"€ 49,231 (£ 42,676, $57,338)","€ 2,560,000 (£ 2,219,155, $2,981,590)",
+160,Zeki Çelik,tr TUR,"MF,DF",Roma,28,"€ 49,231 (£ 42,676, $57,338)","€ 2,560,000 (£ 2,219,155, $2,981,590)",
+161,Mathías Olivera,uy URU,"DF,MF",Napoli,27,"€ 49,231 (£ 42,676, $57,338)","€ 2,560,000 (£ 2,219,155, $2,981,590)",
+162,Fisayo Dele-Bashiru,ng NGA,MF,Lazio,24,"€ 46,346 (£ 40,176, $53,979)","€ 2,410,000 (£ 2,089,127, $2,806,887)",
+163,Luca Pellegrini,it ITA,DF,Lazio,26,"€ 46,346 (£ 40,176, $53,979)","€ 2,410,000 (£ 2,089,127, $2,806,887)",
+164,Tijjani Noslin,nl NED,FW,Lazio,26,"€ 46,346 (£ 40,176, $53,979)","€ 2,410,000 (£ 2,089,127, $2,806,887)",
+165,Niclas Füllkrug,de GER,FW,Milan,32,"€ 46,346 (£ 40,138, $53,871)","€ 2,410,000 (£ 2,087,198, $2,801,303)",
+166,Al-Musrati,ly LBY,MF,Hellas Verona,29,"€ 44,423 (£ 38,508, $51,739)","€ 2,310,000 (£ 2,002,441, $2,690,419)",
+167,Tariq Lamptey,gh GHA,MF,Fiorentina,24,"€ 44,423 (£ 38,508, $51,739)","€ 2,310,000 (£ 2,002,441, $2,690,419)",
+168,Calvin Stengs,nl NED,"FW,MF",Pisa,26,"€ 44,423 (£ 38,508, $51,739)","€ 2,310,000 (£ 2,002,441, $2,690,419)",
+169,Jeremie Boga,ci CIV,"MF,FW",Juventus,28,"€ 44,423 (£ 38,473, $51,636)","€ 2,310,000 (£ 2,000,592, $2,685,066)",
+170,Arkadiusz Milik,pl POL,FW,Juventus,31,"€ 43,077 (£ 37,342, $50,171)","€ 2,240,000 (£ 1,941,761, $2,608,891)",
+171,Ardian Ismajli,al ALB,DF,Torino,28,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",Unverified estimation
+172,Juan Miranda,es ESP,DF,Bologna,25,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",Unverified estimation
+173,Łukasz Skorupski,pl POL,GK,Bologna,34,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",
+174,Sergi Roberto,es ESP,MF,Como,33,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",Unverified estimation
+175,Amir Richardson,ma MAR,MF,Fiorentina,23,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",
+176,Jacopo Fazzini,it ITA,"MF,FW",Fiorentina,22,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",
+177,Luca Ranieri,it ITA,DF,Fiorentina,26,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",Unverified estimation
+178,Leo Østigård,no NOR,DF,Genoa,25,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",Unverified estimation
+179,Patric,es ESP,"MF,DF",Lazio,32,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",
+180,Michael Folorunsho,it ITA,"MF,FW",Cagliari,27,"€ 42,692 (£ 36,974, $49,624)","€ 2,220,000 (£ 1,922,647, $2,580,453)",Unverified estimation
+181,Devyne Rensch,nl NED,MF,Roma,22,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",
+182,Juan David Cabal,co COL,MF,Juventus,24,"€ 42,692 (£ 37,008, $49,723)","€ 2,220,000 (£ 1,924,424, $2,585,598)",
+183,Nikola Krstović,me MNE,FW,Atalanta,25,"€ 41,923 (£ 36,341, $48,827)","€ 2,180,000 (£ 1,889,750, $2,539,010)",
+184,Arijanet Muric,xk KVX,GK,Sassuolo,26,"€ 40,962 (£ 35,508, $47,707)","€ 2,130,000 (£ 1,846,407, $2,480,776)",Unverified estimation
+185,Suat Serdar,de GER,MF,Hellas Verona,28,"€ 39,423 (£ 34,174, $45,915)","€ 2,050,000 (£ 1,777,058, $2,387,601)",Unverified estimation
+186,Toma Bašić,hr CRO,MF,Lazio,28,"€ 39,423 (£ 34,174, $45,915)","€ 2,050,000 (£ 1,777,058, $2,387,601)",
+187,Gift Orban,ng NGA,FW,Hellas Verona,23,"€ 39,231 (£ 33,976, $45,601)","€ 2,040,000 (£ 1,766,757, $2,371,228)",Unverified estimation
+188,Victor Nelsson,dk DEN,DF,Hellas Verona,26,"€ 39,231 (£ 34,007, $45,691)","€ 2,040,000 (£ 1,768,389, $2,375,955)",
+189,Zakaria Aboukhlal,ma MAR,MF,Torino,25,"€ 39,231 (£ 34,007, $45,691)","€ 2,040,000 (£ 1,768,389, $2,375,955)",Unverified estimation
+190,Nicolas Kühn,,RW,Como,26,"€ 39,231 (£ 34,007, $45,691)","€ 2,040,000 (£ 1,768,389, $2,375,955)",Unverified estimation
+191,Valentino Lazaro,at AUT,MF,Torino,29,"€ 36,923 (£ 32,007, $43,004)","€ 1,920,000 (£ 1,664,367, $2,236,193)",Unverified estimation
+192,Dodô,br BRA,"DF,MF",Fiorentina,26,"€ 36,923 (£ 32,007, $43,004)","€ 1,920,000 (£ 1,664,367, $2,236,193)",
+193,Gustav Isaksen,dk DEN,FW,Lazio,24,"€ 36,923 (£ 32,007, $43,004)","€ 1,920,000 (£ 1,664,367, $2,236,193)",
+194,Lazar Samardzic,rs SRB,MF,Atalanta,23,"€ 36,923 (£ 32,007, $43,004)","€ 1,920,000 (£ 1,664,367, $2,236,193)",
+195,Warren Bondo,fr FRA,MF,Cremonese,21,"€ 36,923 (£ 32,007, $43,004)","€ 1,920,000 (£ 1,664,367, $2,236,193)",
+196,Yerry Mina,co COL,DF,Cagliari,30,"€ 36,923 (£ 32,007, $43,004)","€ 1,920,000 (£ 1,664,367, $2,236,193)",
+197,Yann Aurel Bisseck,de GER,DF,Inter,24,"€ 36,923 (£ 32,007, $43,004)","€ 1,920,000 (£ 1,664,367, $2,236,193)",
+198,Domagoj Bradarić,hr CRO,MF,Hellas Verona,25,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+199,Nicolás Valentini,ar ARG,DF,Hellas Verona,24,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+200,Roberto Gagliardini,it ITA,MF,Hellas Verona,31,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+201,Sandro Kulenović,,CF,Torino,26,"€ 35,577 (£ 30,812, $41,353)","€ 1,850,000 (£ 1,602,206, $2,150,378)",Unverified estimation
+202,João Mário Lopes,pt POR,"DF,MF",Bologna,25,"€ 35,577 (£ 30,812, $41,353)","€ 1,850,000 (£ 1,602,206, $2,150,378)",Unverified estimation
+203,Kevin Bonifazi,it ITA,CB,Bologna,29,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+204,Nicolò Casale,it ITA,DF,Bologna,27,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+205,Remo Freuler,ch SUI,MF,Bologna,33,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+206,Tommaso Pobega,it ITA,MF,Bologna,26,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+207,Alberto Dossena,it ITA,DF,Como,26,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+208,Máximo Perrone,ar ARG,MF,Como,22,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+209,Mattia Viti,it ITA,"MF,DF",Fiorentina,23,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+210,Pietro Comuzzo,it ITA,DF,Fiorentina,20,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+211,Juan Cuadrado,co COL,MF,Pisa,37,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+212,Marco Sportiello,it ITA,GK,Atalanta,33,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+213,Marten de Roon,nl NED,MF,Atalanta,34,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+214,Odilon Kossounou,ci CIV,DF,Atalanta,24,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+215,Federico Baschirotto,it ITA,DF,Cremonese,28,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+216,Federico Bonazzoli,it ITA,FW,Cremonese,28,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+217,Jamie Vardy,eng ENG,FW,Cremonese,38,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",Unverified estimation
+218,Sebastiano Luperto,it ITA,DF,Cremonese,28,"€ 35,577 (£ 30,812, $41,353)","€ 1,850,000 (£ 1,602,206, $2,150,378)",Unverified estimation
+219,Daniele Ghilardi,it ITA,DF,Roma,22,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+220,Juan Jesus,br BRA,DF,Napoli,34,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+221,Pasquale Mazzocchi,it ITA,MF,Napoli,30,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+222,Zachary Athekame,ch SUI,"MF,DF",Milan,20,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+223,Fabio Miretti,it ITA,MF,Juventus,21,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+224,Francesco Pio Esposito,,CF,Inter,20,"€ 35,577 (£ 30,840, $41,436)","€ 1,850,000 (£ 1,603,687, $2,154,665)",
+225,Perr Schuurs,nl NED,CB,Torino,26,"€ 34,423 (£ 29,840, $40,092)","€ 1,790,000 (£ 1,551,675, $2,084,784)",
+226,Adam Buksa,pl POL,FW,Udinese,29,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+227,Christian Kabasele,be BEL,DF,Udinese,34,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+228,Amin Sarr,se SWE,"FW,MF",Hellas Verona,24,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+229,Saúl Coco,gq EQG,DF,Torino,26,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+230,Daniele Rugani,it ITA,DF,Fiorentina,31,"€ 32,115 (£ 27,814, $37,330)","€ 1,670,000 (£ 1,446,316, $1,941,152)",Unverified estimation
+231,Manor Solomon,il ISR,"FW,MF",Fiorentina,26,"€ 32,115 (£ 27,814, $37,330)","€ 1,670,000 (£ 1,446,316, $1,941,152)",
+232,Stefano Moreo,it ITA,"FW,MF",Pisa,32,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+233,Reda Belahyane,ma MAR,MF,Lazio,21,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",
+234,Davide Zappacosta,it ITA,MF,Atalanta,33,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",
+235,Isak Hien,se SWE,DF,Atalanta,26,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",
+236,Emil Audero,id IDN,GK,Cremonese,28,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",Unverified estimation
+237,Alisson Santos,,LW,Napoli,23,"€ 32,115 (£ 27,814, $37,330)","€ 1,670,000 (£ 1,446,316, $1,941,152)",
+238,Enrico Delprato,it ITA,"DF,MF",Parma,25,"€ 32,115 (£ 27,839, $37,404)","€ 1,670,000 (£ 1,447,652, $1,945,022)",
+239,Cyril Ngonge,be BEL,FW,Torino,25,"€ 29,615 (£ 25,672, $34,493)","€ 1,540,000 (£ 1,334,961, $1,793,613)",
+240,Ivan Ilić,rs SRB,MF,Torino,24,"€ 29,615 (£ 25,672, $34,493)","€ 1,540,000 (£ 1,334,961, $1,793,613)",
+241,Martín Payero,ar ARG,MF,Cremonese,26,"€ 29,615 (£ 25,672, $34,493)","€ 1,540,000 (£ 1,334,961, $1,793,613)",
+242,Josh Doig,sct SCO,DF,Sassuolo,23,"€ 29,615 (£ 25,672, $34,493)","€ 1,540,000 (£ 1,334,961, $1,793,613)",
+243,Unai Núñez,es ESP,DF,Hellas Verona,28,"€ 29,231 (£ 25,339, $34,045)","€ 1,520,000 (£ 1,317,624, $1,770,319)",Unverified estimation
+244,Franco Israel,uy URU,GK,Torino,25,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",Unverified estimation
+245,Gvidas Gineitis,lt LTU,MF,Torino,21,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+246,Nadir Zortea,it ITA,DF,Bologna,26,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",Unverified estimation
+247,Anastasios Douvikas,gr GRE,FW,Como,25,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",Unverified estimation
+248,Abdelhamid Sabiri,ma MAR,MF,Fiorentina,28,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+249,Matteo Cancellieri,it ITA,FW,Lazio,23,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",Unverified estimation
+250,Berat Djimsiti,al ALB,DF,Atalanta,32,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+251,Marco Carnesecchi,it ITA,GK,Atalanta,25,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+252,Filippo Terracciano,it ITA,DF,Cremonese,22,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+253,Zé Pedro,,CB,Cagliari,28,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",Unverified estimation
+254,Pierluigi Gollini,it ITA,GK,Roma,30,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+255,Pietro Terracciano,it ITA,GK,Milan,35,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+256,Francesco Camarda,it ITA,FW,Lecce,17,"€ 28,462 (£ 24,672, $33,149)","€ 1,480,000 (£ 1,282,949, $1,723,732)",
+257,Elia Caprile,it ITA,GK,Cagliari,23,"€ 27,115 (£ 23,505, $31,581)","€ 1,410,000 (£ 1,222,269, $1,642,204)",
+258,Antoine Bernede,fr FRA,MF,Hellas Verona,26,"€ 26,731 (£ 23,172, $31,133)","€ 1,390,000 (£ 1,204,932, $1,618,910)",Unverified estimation
+259,Cheikh Niasse,sn SEN,MF,Hellas Verona,25,"€ 26,731 (£ 23,172, $31,133)","€ 1,390,000 (£ 1,204,932, $1,618,910)",Unverified estimation
+260,Mërgim Vojvoda,xk KVX,"MF,DF",Como,30,"€ 26,731 (£ 23,172, $31,133)","€ 1,390,000 (£ 1,204,932, $1,618,910)",Unverified estimation
+261,M'Bala Nzola,ao ANG,,Fiorentina,28,"€ 26,731 (£ 23,150, $31,071)","€ 1,390,000 (£ 1,203,820, $1,615,689)",Unverified estimation
+262,Maxwel Cornet,ci CIV,MF,Genoa,28,"€ 26,731 (£ 23,172, $31,133)","€ 1,390,000 (£ 1,204,932, $1,618,910)",Unverified estimation
+263,Ismaël Koné,ca CAN,MF,Sassuolo,23,"€ 26,731 (£ 23,172, $31,133)","€ 1,390,000 (£ 1,204,932, $1,618,910)",Unverified estimation
+264,Emanuele Valeri,it ITA,"MF,DF",Parma,26,"€ 26,731 (£ 23,172, $31,133)","€ 1,390,000 (£ 1,204,932, $1,618,910)",Unverified estimation
+265,Mandela Keita,be BEL,MF,Parma,23,"€ 26,731 (£ 23,172, $31,133)","€ 1,390,000 (£ 1,204,932, $1,618,910)",Unverified estimation
+266,Jurgen Ekkelenkamp,nl NED,MF,Udinese,25,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+267,Oumar Solet,fr FRA,DF,Udinese,25,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+268,Armel Bella Kotchap,de GER,DF,Hellas Verona,23,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+269,Marcus Pedersen,no NOR,"MF,DF",Torino,25,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+270,Alberto Moreno,es ESP,DF,Como,33,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+271,Alberto Grassi,it ITA,MF,Cremonese,30,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+272,Mikayil Faye,,CB,Cremonese,21,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+273,Leonardo Pavoletti,it ITA,FW,Cagliari,36,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",
+274,Jan Ziolkowski,,CB,Roma,20,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",
+275,Cristian Volpato,au AUS,FW,Sassuolo,21,"€ 25,000 (£ 21,671, $29,117)","€ 1,300,000 (£ 1,126,915, $1,514,089)",Unverified estimation
+276,Adrien Tameze,cm CMR,DF,Torino,31,"€ 24,615 (£ 21,338, $28,669)","€ 1,280,000 (£ 1,109,578, $1,490,795)",
+277,Lewis Ferguson,sct SCO,MF,Bologna,25,"€ 24,615 (£ 21,338, $28,669)","€ 1,280,000 (£ 1,109,578, $1,490,795)",
+278,Aarón Martín,es ESP,"MF,DF",Genoa,28,"€ 24,615 (£ 21,338, $28,669)","€ 1,280,000 (£ 1,109,578, $1,490,795)",
+279,Johan Vásquez,mx MEX,DF,Genoa,26,"€ 24,615 (£ 21,338, $28,669)","€ 1,280,000 (£ 1,109,578, $1,490,795)",Unverified estimation
+280,Ruslan Malinovskyi,ua UKR,MF,Genoa,32,"€ 24,615 (£ 21,338, $28,669)","€ 1,280,000 (£ 1,109,578, $1,490,795)",Unverified estimation
+281,Mario Gila,es ESP,DF,Lazio,24,"€ 24,615 (£ 21,338, $28,669)","€ 1,280,000 (£ 1,109,578, $1,490,795)",
+282,Alexis Saelemaekers,be BEL,MF,Milan,26,"€ 24,615 (£ 21,338, $28,669)","€ 1,280,000 (£ 1,109,578, $1,490,795)",
+283,Nikola Moro,hr CRO,MF,Bologna,27,"€ 23,846 (£ 20,671, $27,773)","€ 1,240,000 (£ 1,074,903, $1,444,208)",Unverified estimation
+284,Mehdi Léris,dz ALG,MF,Pisa,27,"€ 23,077 (£ 20,004, $26,877)","€ 1,200,000 (£ 1,040,229, $1,397,620)",Unverified estimation
+285,Jeremy Sarmiento,ec ECU,MF,Cremonese,23,"€ 23,077 (£ 20,004, $26,877)","€ 1,200,000 (£ 1,040,229, $1,397,620)",Unverified estimation
+286,Nicholas Pierini,it ITA,"FW,MF",Sassuolo,26,"€ 23,077 (£ 20,004, $26,877)","€ 1,200,000 (£ 1,040,229, $1,397,620)",Unverified estimation
+287,Matija Frigan,,CF,Parma,22,"€ 23,077 (£ 20,004, $26,877)","€ 1,200,000 (£ 1,040,229, $1,397,620)",Unverified estimation
+288,Oliver Sørensen,,CM,Parma,23,"€ 23,077 (£ 20,004, $26,877)","€ 1,200,000 (£ 1,040,229, $1,397,620)",Unverified estimation
+289,Hassane Kamara,ci CIV,"MF,DF",Udinese,31,"€ 22,115 (£ 19,171, $25,757)","€ 1,150,000 (£ 996,886, $1,339,386)",Unverified estimation
+290,Armand Lauriente,fr FRA,FW,Sassuolo,26,"€ 22,115 (£ 19,171, $25,757)","€ 1,150,000 (£ 996,886, $1,339,386)",Unverified estimation
+291,Jakub Piotrowski,pl POL,MF,Udinese,27,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+292,Jesper Karlström,se SWE,MF,Udinese,30,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+293,Jens Odgaard,dk DEN,MF,Bologna,26,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+294,Martin Vitík,,CB,Bologna,23,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+295,Nicolò Cambiaghi,it ITA,"MF,FW",Bologna,24,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+296,Jesus Rodríguez,es ESP,MF,Como,19,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+297,Marc-Oliver Kempf,de GER,DF,Como,30,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+298,Cher Ndour,it ITA,MF,Fiorentina,21,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",
+299,Adrian Šemper,hr CRO,GK,Pisa,27,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+300,Mikael Ellertsson,is ISL,MF,Genoa,23,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+301,Petar Ratkov,,CF,Lazio,22,"€ 21,346 (£ 18,487, $24,812)","€ 1,110,000 (£ 961,324, $1,290,227)",Unverified estimation
+302,Faris Moumbagna,,CF,Cremonese,25,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+303,Giuseppe Pezzella,it ITA,"MF,DF",Cremonese,27,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+304,Jari Vandeputte,be BEL,MF,Cremonese,29,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+305,Morten Thorsby,no NOR,MF,Cremonese,29,"€ 21,346 (£ 18,487, $24,812)","€ 1,110,000 (£ 961,324, $1,290,227)",Unverified estimation
+306,Gabriele Zappa,it ITA,"DF,MF",Cagliari,25,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",
+307,Michel Ndary Adopo,fr FRA,MF,Cagliari,25,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+308,Sebastiano Esposito,it ITA,"FW,MF",Cagliari,23,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+309,Zito Luvumbo,ao ANG,"MF,FW",Cagliari,23,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+310,Giovane,,CF,Napoli,22,"€ 21,346 (£ 18,487, $24,812)","€ 1,110,000 (£ 961,324, $1,290,227)",
+311,Davide Bartesaghi,,LB,Milan,20,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",
+312,Daniel Boloca,ro ROU,MF,Sassuolo,26,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+313,Jay Idzes,id IDN,DF,Sassuolo,25,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+314,Sebastian Walukiewicz,pl POL,DF,Sassuolo,25,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+315,Nahuel Estévez,ar ARG,MF,Parma,29,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+316,Pontus Almqvist,se SWE,MF,Parma,26,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+317,Nikola Stulic,,CF,Lecce,24,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+318,Omri Gandelman,,AM,Lecce,25,"€ 21,346 (£ 18,487, $24,812)","€ 1,110,000 (£ 961,324, $1,290,227)",Unverified estimation
+319,Riccardo Sottil,it ITA,"FW,MF",Lecce,26,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",
+320,Wladimiro Falcone,it ITA,GK,Lecce,30,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",Unverified estimation
+321,Tomás Palacios,ar ARG,DF,Inter,22,"€ 21,346 (£ 18,504, $24,862)","€ 1,110,000 (£ 962,212, $1,292,799)",
+322,Emil Holm,se SWE,DF,Bologna,25,"€ 19,808 (£ 17,170, $23,070)","€ 1,030,000 (£ 892,863, $1,199,624)",
+323,Michel Aebischer,ch SUI,MF,Pisa,28,"€ 19,808 (£ 17,170, $23,070)","€ 1,030,000 (£ 892,863, $1,199,624)",
+324,Morten Frendrup,dk DEN,MF,Genoa,24,"€ 19,808 (£ 17,170, $23,070)","€ 1,030,000 (£ 892,863, $1,199,624)",Unverified estimation
+325,Christos Mandas,gr GRE,GK,Lazio,23,"€ 19,808 (£ 17,170, $23,070)","€ 1,030,000 (£ 892,863, $1,199,624)",
+326,Adrian Bernabe,es ESP,MF,Parma,24,"€ 19,808 (£ 17,170, $23,070)","€ 1,030,000 (£ 892,863, $1,199,624)",Unverified estimation
+327,Torbjørn Heggem,,CB,Bologna,27,"€ 19,615 (£ 17,004, $22,846)","€ 1,020,000 (£ 884,195, $1,187,977)",Unverified estimation
+328,Rafiu Durosinmi,,CF,Pisa,23,"€ 19,615 (£ 16,988, $22,800)","€ 1,020,000 (£ 883,378, $1,185,614)",Unverified estimation
+329,Daniel Maldini,it ITA,FW,Lazio,23,"€ 19,615 (£ 16,988, $22,800)","€ 1,020,000 (£ 883,378, $1,185,614)",
+330,Federico Ceccherini,it ITA,DF,Cremonese,33,"€ 19,615 (£ 17,004, $22,846)","€ 1,020,000 (£ 884,195, $1,187,977)",Unverified estimation
+331,Ulisses Garcia,ch SUI,DF,Sassuolo,29,"€ 19,615 (£ 16,988, $22,800)","€ 1,020,000 (£ 883,378, $1,185,614)",Unverified estimation
+332,Stefan Posch,at AUT,DF,Como,28,"€ 19,231 (£ 16,670, $22,398)","€ 1,000,000 (£ 866,858, $1,164,684)",Unverified estimation
+333,Tommaso Baldanzi,it ITA,MF,Genoa,22,"€ 19,231 (£ 16,655, $22,353)","€ 1,000,000 (£ 866,057, $1,162,366)",Unverified estimation
+334,Jhon Lucumí,co COL,DF,Bologna,27,"€ 18,462 (£ 16,004, $21,502)","€ 960,000 (£ 832,183, $1,118,096)",Unverified estimation
+335,Antonino Gallo,it ITA,DF,Lecce,25,"€ 18,462 (£ 16,004, $21,502)","€ 960,000 (£ 832,183, $1,118,096)",Unverified estimation
+336,Vakoun Bayo,ci CIV,FW,Udinese,28,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+337,Lorenzo Montipò,it ITA,GK,Hellas Verona,29,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+338,Luca Marianucci,it ITA,DF,Torino,21,"€ 17,885 (£ 15,489, $20,788)","€ 930,000 (£ 805,433, $1,081,001)",
+339,Babis Lykogiannis,gr GRE,DF,Bologna,31,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",
+340,Ibrahim Sulemana,gh GHA,MF,Bologna,22,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",
+341,Santiago Castro,,CF,Bologna,21,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+342,Assane Diao,sn SEN,MF,Como,19,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+343,Edoardo Goldaniga,it ITA,DF,Como,31,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+344,Jean Butez,fr FRA,GK,Como,30,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+345,Martin Baturina,hr CRO,"MF,FW",Como,22,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+346,Nico Paz,,AM,Como,21,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+347,Marco Brescianini,it ITA,MF,Fiorentina,25,"€ 17,885 (£ 15,489, $20,788)","€ 930,000 (£ 805,433, $1,081,001)",
+348,Tommaso Martinelli,it ITA,GK,Fiorentina,19,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+349,Raúl Albiol,es ESP,DF,Pisa,39,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+350,Samuel Iling-Junior,eng ENG,MF,Pisa,21,"€ 17,885 (£ 15,489, $20,788)","€ 930,000 (£ 805,433, $1,081,001)",Unverified estimation
+351,Brooke Norton-Cuffy,eng ENG,"MF,DF",Genoa,21,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+352,Junior Messias,br BRA,MF,Genoa,34,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+353,Lorenzo Colombo,it ITA,FW,Genoa,23,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+354,Oliver Provstgaard,,CB,Lazio,22,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",
+355,Honest Ahanor,it ITA,DF,Atalanta,17,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",
+356,Marco Silvestri,it ITA,GK,Cremonese,34,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+357,Adam Obert,sk SVK,"DF,MF",Cagliari,22,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+358,Gianluca Gaetano,it ITA,"MF,FW",Cagliari,25,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+359,Giuseppe Ambrosino,it ITA,FW,Napoli,21,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+360,David Odogu,de GER,DF,Milan,19,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",
+361,Woyo Coulibaly,ml MLI,DF,Sassuolo,26,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+362,Alessandro Circati,au AUS,DF,Parma,21,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+363,Christian Ordoñez,ar ARG,MF,Parma,21,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+364,Gabriel Strefezza,br BRA,FW,Parma,28,"€ 17,885 (£ 15,489, $20,788)","€ 930,000 (£ 805,433, $1,081,001)",Unverified estimation
+365,Jacob Ondrejka,se SWE,"FW,MF",Parma,22,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+366,Zion Suzuki,jp JPN,GK,Parma,22,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+367,Jamil Siebert,de GER,DF,Lecce,23,"€ 17,885 (£ 15,503, $20,830)","€ 930,000 (£ 806,178, $1,083,156)",Unverified estimation
+368,Keinan Davis,eng ENG,FW,Udinese,27,"€ 17,308 (£ 15,003, $20,158)","€ 900,000 (£ 780,172, $1,048,215)",Unverified estimation
+369,Kingsley Ehizibue,nl NED,"MF,DF",Udinese,30,"€ 17,308 (£ 15,003, $20,158)","€ 900,000 (£ 780,172, $1,048,215)",Unverified estimation
+370,Maduka Okoye,ng NGA,GK,Udinese,25,"€ 17,308 (£ 15,003, $20,158)","€ 900,000 (£ 780,172, $1,048,215)",Unverified estimation
+371,Sandi Lovrić,si SVN,MF,Udinese,27,"€ 17,308 (£ 15,003, $20,158)","€ 900,000 (£ 780,172, $1,048,215)",
+372,Milan Đurić,ba BIH,FW,Cremonese,35,"€ 17,308 (£ 14,989, $20,118)","€ 900,000 (£ 779,452, $1,046,130)",Unverified estimation
+373,Stefano Turati,it ITA,GK,Sassuolo,23,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",
+374,Simon Sohm,ch SUI,MF,Bologna,24,"€ 15,962 (£ 13,824, $18,553)","€ 830,000 (£ 718,828, $964,764)",Unverified estimation
+375,Jayden Addai,,RW,Como,20,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+376,Henrik Meister,,CF,Pisa,22,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+377,Alieu Fadera,gm GAM,FW,Sassuolo,23,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+378,Edoardo Iannoni,it ITA,MF,Sassuolo,24,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+379,Abdoulaye Ndiaye,,CB,Parma,23,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+380,Hans Nicolussi Caviglia,it ITA,MF,Parma,25,"€ 15,962 (£ 13,824, $18,553)","€ 830,000 (£ 718,828, $964,764)",
+381,Mariano Troilo,,CB,Parma,22,"€ 15,962 (£ 13,836, $18,590)","€ 830,000 (£ 719,492, $966,687)",Unverified estimation
+382,Abdou Harroui,nl NED,MF,Hellas Verona,27,"€ 14,808 (£ 12,836, $17,246)","€ 770,000 (£ 667,480, $896,806)",Unverified estimation
+383,Lucas Da Cunha,fr FRA,MF,Como,24,"€ 14,808 (£ 12,836, $17,246)","€ 770,000 (£ 667,480, $896,806)",Unverified estimation
+384,Caleb Ekuban,gh GHA,"FW,MF",Genoa,31,"€ 14,808 (£ 12,836, $17,246)","€ 770,000 (£ 667,480, $896,806)",
+385,David Okereke,ng NGA,"FW,MF",Cremonese,27,"€ 14,808 (£ 12,836, $17,246)","€ 770,000 (£ 667,480, $896,806)",
+386,Kristian Thorstvedt,no NOR,MF,Sassuolo,26,"€ 14,808 (£ 12,836, $17,246)","€ 770,000 (£ 667,480, $896,806)",Unverified estimation
+387,Lautaro Valenti,ar ARG,DF,Parma,26,"€ 14,808 (£ 12,836, $17,246)","€ 770,000 (£ 667,480, $896,806)",Unverified estimation
+388,Lassana Coulibaly,ml MLI,MF,Lecce,29,"€ 14,808 (£ 12,836, $17,246)","€ 770,000 (£ 667,480, $896,806)",Unverified estimation
+389,Alessandro Zanoli,it ITA,MF,Udinese,24,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+390,Branimir Mlacic,,CB,Udinese,18,"€ 14,231 (£ 12,325, $16,541)","€ 740,000 (£ 640,882, $860,151)",Unverified estimation
+391,Lennon Miller,,CM,Udinese,19,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+392,Nicolò Bertola,it ITA,"DF,MF",Udinese,22,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",
+393,Rui Modesto,ao ANG,MF,Udinese,25,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+394,Jean-Daniel Akpa-Akpro,ci CIV,MF,Hellas Verona,32,"€ 14,231 (£ 12,325, $16,541)","€ 740,000 (£ 640,882, $860,151)",Unverified estimation
+395,Pol Lirola,es ESP,MF,Hellas Verona,27,"€ 14,231 (£ 12,325, $16,541)","€ 740,000 (£ 640,882, $860,151)",Unverified estimation
+396,Alberto Paleari,it ITA,GK,Torino,32,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+397,Benjamín Domínguez,ar ARG,MF,Bologna,21,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+398,Eivind Helland,,CB,Bologna,20,"€ 14,231 (£ 12,325, $16,541)","€ 740,000 (£ 640,882, $860,151)",Unverified estimation
+399,Federico Ravaglia,it ITA,GK,Bologna,25,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+400,Giovanni Fabbian,it ITA,MF,Bologna,22,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",
+401,Ebenezer Akinsanmiro,ng NGA,MF,Pisa,20,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+402,Rosen Bozhinov,,CB,Pisa,21,"€ 14,231 (£ 12,325, $16,541)","€ 740,000 (£ 640,882, $860,151)",Unverified estimation
+403,Simone Scuffet,it ITA,GK,Pisa,29,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+404,Benjamin Siegrist,ch SUI,GK,Genoa,33,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+405,Leonardo Sernicola,it ITA,"DF,MF",Cremonese,28,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+406,Matteo Bianchetti,it ITA,DF,Cremonese,32,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+407,Alessandro Deiola,it ITA,"MF,DF",Cagliari,29,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+408,Gennaro Borrelli,it ITA,FW,Cagliari,25,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+409,Vasilije Adžić,me MNE,MF,Juventus,19,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+410,Darryl Bakola,fr FRA,MF,Sassuolo,17,"€ 14,231 (£ 12,325, $16,541)","€ 740,000 (£ 640,882, $860,151)",Unverified estimation
+411,Filippo Romagna,it ITA,DF,Sassuolo,28,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",
+412,Laurs Skjellerup,dk DEN,FW,Sassuolo,22,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+413,Tarik Muharemovic,ba BIH,DF,Sassuolo,22,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+414,Gaetano Oristanio,it ITA,"FW,MF",Parma,22,"€ 14,231 (£ 12,336, $16,574)","€ 740,000 (£ 641,475, $861,866)",Unverified estimation
+415,Niels Nkounkou,fr FRA,"MF,DF",Torino,24,"€ 13,269 (£ 11,503, $15,454)","€ 690,000 (£ 598,132, $803,632)",Unverified estimation
+416,Razvan Sava,ro ROU,GK,Udinese,23,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+417,Mihajlo Ilić,rs SRB,CB,Bologna,22,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+418,Filip Stojilković,ch SUI,"FW,MF",Pisa,25,"€ 12,500 (£ 10,826, $14,530)","€ 650,000 (£ 562,937, $755,538)",Unverified estimation
+419,Alessandro Marcandalli,it ITA,DF,Genoa,22,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+420,Stefano Sabelli,it ITA,"MF,DF",Genoa,32,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+421,Lorenzo Bernasconi,,LM,Atalanta,22,"€ 12,500 (£ 10,826, $14,530)","€ 650,000 (£ 562,937, $755,538)",Unverified estimation
+422,Manuel De Luca,it ITA,FW,Cremonese,27,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+423,Tommaso Barbieri,it ITA,MF,Cremonese,22,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+424,Fali Candé,gw GNB,DF,Sassuolo,27,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+425,Filip Marchwiński,pl POL,MF,Lecce,23,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+426,Gaby Jean,fr FRA,DF,Lecce,25,"€ 12,500 (£ 10,836, $14,559)","€ 650,000 (£ 563,457, $757,044)",Unverified estimation
+427,Saba Sazonov,ge GEO,DF,Torino,23,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+428,Oliver Christensen,dk DEN,GK,Fiorentina,26,"€ 12,308 (£ 10,611, $14,407)","€ 640,000 (£ 551,795, $749,154)",Unverified estimation
+429,Eldor Shomurodov,uz UZB,CF,Roma,30,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",
+430,Patrick Cutrone,it ITA,FW,Parma,27,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",Unverified estimation
+431,Lameck Banda,zm ZAM,"MF,FW",Lecce,24,"€ 12,308 (£ 10,669, $14,335)","€ 640,000 (£ 554,789, $745,398)",
+432,Lorran,,AM,Pisa,19,"€ 11,731 (£ 10,169, $13,663)","€ 610,000 (£ 528,783, $710,457)",Unverified estimation
+433,Kialonda Gaspar,,CB,Lecce,28,"€ 11,346 (£ 9,836, $13,215)","€ 590,000 (£ 511,446, $687,163)",Unverified estimation
+434,Ylber Ramadani,al ALB,MF,Lecce,29,"€ 11,154 (£ 9,669, $12,991)","€ 580,000 (£ 502,777, $675,516)",Unverified estimation
+435,Arthur Atta,fr FRA,MF,Udinese,22,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+436,Daniel Mosquera,co COL,FW,Hellas Verona,25,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+437,Rafik Belghali,,RB,Hellas Verona,23,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+438,Ali Dembélé,fr FRA,DF,Torino,21,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+439,Alieu Njie,se SWE,"MF,FW",Torino,20,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+440,Faustino Anjorin,eng ENG,MF,Torino,23,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+441,Álex Valle,es ESP,DF,Como,21,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+442,Ivan Smolčić,hr CRO,DF,Como,24,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+443,Adrian Przyborek,,AM,Lazio,19,"€ 10,769 (£ 9,327, $12,518)","€ 560,000 (£ 484,992, $650,925)",Unverified estimation
+444,Francesco Folino,it ITA,DF,Cremonese,23,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+445,Michele Collocolo,it ITA,MF,Cremonese,25,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+446,Youssef Maleh,ma MAR,MF,Cremonese,26,"€ 10,769 (£ 9,327, $12,518)","€ 560,000 (£ 484,992, $650,925)",Unverified estimation
+447,Juan Rodríguez,,CB,Cagliari,20,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+448,Semih Kılıçsoy,,CF,Cagliari,20,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+449,Devis Vásquez,co COL,GK,Roma,27,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",
+450,Antonio Vergara,it ITA,MF,Napoli,22,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+451,Nikita Contini Baranovsky,it ITA,GK,Napoli,29,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",
+452,Carlo Pinsoglio,it ITA,GK,Juventus,35,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",
+453,Edoardo Pieragnolo,it ITA,"DF,MF",Sassuolo,22,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+454,Mateo Pellegrino,,CF,Parma,24,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+455,Christian Früchtl,de GER,GK,Lecce,25,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+456,Konan N'Dri,,RW,Lecce,25,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+457,Santiago Pierotti,ar ARG,"MF,FW",Lecce,24,"€ 10,769 (£ 9,335, $12,543)","€ 560,000 (£ 485,440, $652,223)",Unverified estimation
+458,Martin Frese,dk DEN,"MF,DF",Hellas Verona,27,"€ 10,000 (£ 8,669, $11,647)","€ 520,000 (£ 450,766, $605,635)",Unverified estimation
+459,Jordan Zemura,zw ZIM,"MF,DF",Udinese,25,"€ 9,808 (£ 8,502, $11,423)","€ 510,000 (£ 442,097, $593,989)",Unverified estimation
+460,Enzo Ebosse,cm CMR,DF,Hellas Verona,26,"€ 9,808 (£ 8,502, $11,423)","€ 510,000 (£ 442,097, $593,989)",
+461,Tomáš Suslov,sk SVK,FW,Hellas Verona,23,"€ 9,808 (£ 8,502, $11,423)","€ 510,000 (£ 442,097, $593,989)",Unverified estimation
+462,Jesper Karlsson,se SWE,"FW,MF",Bologna,27,"€ 9,808 (£ 8,502, $11,423)","€ 510,000 (£ 442,097, $593,989)",
+463,Andrias Edmundsson,,CB,Hellas Verona,25,"€ 8,846 (£ 7,661, $10,282)","€ 460,000 (£ 398,386, $534,689)",Unverified estimation
+464,Kieron Bowie,,CF,Hellas Verona,23,"€ 8,846 (£ 7,661, $10,282)","€ 460,000 (£ 398,386, $534,689)",Unverified estimation
+465,Simone Perilli,it ITA,GK,Hellas Verona,30,"€ 8,846 (£ 7,668, $10,303)","€ 460,000 (£ 398,754, $535,754)",Unverified estimation
+466,Adrian Lahdo,,CM,Como,18,"€ 8,846 (£ 7,661, $10,282)","€ 460,000 (£ 398,386, $534,689)",Unverified estimation
+467,Ignace Van Der Brempt,be BEL,DF,Como,23,"€ 8,846 (£ 7,668, $10,303)","€ 460,000 (£ 398,754, $535,754)",Unverified estimation
+468,Felipe Loyola,,CM,Pisa,25,"€ 8,846 (£ 7,661, $10,282)","€ 460,000 (£ 398,386, $534,689)",Unverified estimation
+469,İsak Vural,tr TUR,MF,Pisa,19,"€ 8,846 (£ 7,668, $10,303)","€ 460,000 (£ 398,754, $535,754)",Unverified estimation
+470,Amorim,,CM,Genoa,20,"€ 8,846 (£ 7,661, $10,282)","€ 460,000 (£ 398,386, $534,689)",Unverified estimation
+471,Jeff Ekhator,it ITA,"FW,MF",Genoa,18,"€ 8,846 (£ 7,668, $10,303)","€ 460,000 (£ 398,754, $535,754)",Unverified estimation
+472,Nicola Leali,it ITA,GK,Genoa,32,"€ 8,846 (£ 7,668, $10,303)","€ 460,000 (£ 398,754, $535,754)",Unverified estimation
+473,Mattia Felici,it ITA,MF,Cagliari,24,"€ 8,846 (£ 7,668, $10,303)","€ 460,000 (£ 398,754, $535,754)",Unverified estimation
+474,Nesta Elphege,,CF,Parma,25,"€ 8,846 (£ 7,661, $10,282)","€ 460,000 (£ 398,386, $534,689)",Unverified estimation
+475,Danilo Veiga,pt POR,DF,Lecce,22,"€ 8,846 (£ 7,668, $10,303)","€ 460,000 (£ 398,754, $535,754)",Unverified estimation
+476,Oier Zarraga,es ESP,MF,Udinese,26,"€ 8,654 (£ 7,502, $10,079)","€ 450,000 (£ 390,086, $524,108)",Unverified estimation
+477,Matteo Prati,it ITA,MF,Torino,21,"€ 8,462 (£ 7,328, $9,835)","€ 440,000 (£ 381,065, $511,441)",Unverified estimation
+478,Arturo Calabresi,it ITA,DF,Pisa,29,"€ 8,462 (£ 7,335, $9,855)","€ 440,000 (£ 381,417, $512,461)",Unverified estimation
+479,Daniele Padelli,it ITA,GK,Udinese,39,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+480,Iker Bravo,es ESP,FW,Udinese,20,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+481,Juan Arizala,,LM,Udinese,20,"€ 7,115 (£ 6,162, $8,271)","€ 370,000 (£ 320,441, $430,076)",Unverified estimation
+482,Tobias Slotsager,dk DEN,DF,Hellas Verona,19,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+483,Lapo Siviero,,GK,Torino,19,"€ 7,115 (£ 6,162, $8,271)","€ 370,000 (£ 320,441, $430,076)",Unverified estimation
+484,Lorenzo De Silvestri,it ITA,DF,Bologna,37,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",
+485,Nikola Cavlina,,GK,Como,23,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+486,Mattéo Tramoni,fr FRA,"MF,FW",Pisa,25,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+487,Nils Zätterström,,CB,Genoa,20,"€ 7,115 (£ 6,162, $8,271)","€ 370,000 (£ 320,441, $430,076)",Unverified estimation
+488,Seydou Fini,it ITA,FW,Genoa,19,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+489,Lorenzo Torriani,it ITA,GK,Milan,20,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+490,Giacomo Satalino,it ITA,GK,Sassuolo,26,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+491,Gioele Zacchi,it ITA,GK,Sassuolo,22,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+492,Álex Sala,,CM,Lecce,24,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+493,Medon Berisha,al ALB,MF,Lecce,21,"€ 7,115 (£ 6,168, $8,287)","€ 370,000 (£ 320,737, $430,933)",Unverified estimation
+494,Emirhan İlkhan,tr TUR,MF,Torino,21,"€ 6,731 (£ 5,835, $7,839)","€ 350,000 (£ 303,400, $407,639)",
+495,Simone Canestrelli,it ITA,DF,Pisa,24,"€ 6,731 (£ 5,835, $7,839)","€ 350,000 (£ 303,400, $407,639)",Unverified estimation
+496,Patrizio Masini,it ITA,MF,Genoa,24,"€ 6,346 (£ 5,501, $7,391)","€ 330,000 (£ 286,063, $384,346)",Unverified estimation
+497,Alessio Zerbin,it ITA,MF,Cremonese,26,"€ 6,346 (£ 5,496, $7,377)","€ 330,000 (£ 285,799, $383,581)",Unverified estimation
+498,Corrie Ndaba,ie IRL,DF,Lecce,25,"€ 6,346 (£ 5,501, $7,391)","€ 330,000 (£ 286,063, $384,346)",Unverified estimation
+499,Oumar Ngom,,DM,Lecce,21,"€ 6,346 (£ 5,496, $7,377)","€ 330,000 (£ 285,799, $383,581)",Unverified estimation
+500,Sadik Fofana,tg TOG,MF,Lecce,22,"€ 6,346 (£ 5,496, $7,377)","€ 330,000 (£ 285,799, $383,581)",Unverified estimation
+501,Tiago Gabriel,pt POR,DF,Lecce,20,"€ 6,346 (£ 5,501, $7,391)","€ 330,000 (£ 286,063, $384,346)",Unverified estimation
+502,Thomas Kristensen,dk DEN,DF,Udinese,23,"€ 6,154 (£ 5,335, $7,167)","€ 320,000 (£ 277,394, $372,699)",Unverified estimation
+503,Agustín Albarracín,,LW,Cagliari,20,"€ 5,962 (£ 5,163, $6,930)","€ 310,000 (£ 268,478, $360,334)",Unverified estimation
+504,Jacobo Ramón,,CB,Como,21,"€ 5,769 (£ 5,001, $6,719)","€ 300,000 (£ 260,057, $349,405)",Unverified estimation
+505,Alessandro Nunziante,,GK,Udinese,18,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+506,Isaac,,CF,Hellas Verona,21,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+507,Rafa Obrador,,LB,Torino,21,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+508,Sergiu Perciun,md MDA,MF,Torino,19,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+509,Zanos Savva,cy CYP,FW,Torino,19,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+510,Noel Törnqvist,,GK,Como,24,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+511,Antonio Caracciolo,it ITA,DF,Pisa,35,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+512,Francesco Coppola,it ITA,DF,Pisa,20,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+513,Malthe Højholt,,DM,Pisa,24,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+514,Nícolas Andrade,br BRA,GK,Pisa,37,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+515,Samuele Angori,it ITA,MF,Pisa,21,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+516,Daniele Sommariva,it ITA,GK,Genoa,28,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+517,Sebastian Otoa,dk DEN,DF,Genoa,21,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+518,Edoardo Motta,,GK,Lazio,21,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+519,Joseph Liteta,,CM,Cagliari,19,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+520,Marco Palestra,it ITA,"MF,DF",Cagliari,20,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+521,Riyad Idrissi,it ITA,"MF,DF",Cagliari,20,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+522,Yael Trepy,,CF,Cagliari,19,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+523,Edoardo Corvi,it ITA,GK,Parma,24,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+524,Walid Cheddira,ma MAR,FW,Lecce,27,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",
+525,Raffaele Di Gennaro,it ITA,GK,Inter,31,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",
+526,Daniel Oyegoke,eng ENG,"MF,DF",Hellas Verona,22,"€ 5,000 (£ 4,334, $5,823)","€ 260,000 (£ 225,383, $302,818)",Unverified estimation
+527,Radoslaw Zelezny,,GK,Roma,19,"€ 4,615 (£ 4,001, $5,375)","€ 240,000 (£ 208,046, $279,524)",Unverified estimation
+528,Idrissa Touré,de GER,MF,Pisa,27,"€ 4,231 (£ 3,667, $4,928)","€ 220,000 (£ 190,709, $256,230)",Unverified estimation
+529,Alen Sherri,al ALB,GK,Cagliari,27,"€ 4,231 (£ 3,648, $4,952)","€ 220,000 (£ 189,679, $257,522)",Unverified estimation
+530,Othniël Raterink,,RB,Cagliari,19,"€ 4,231 (£ 3,664, $4,918)","€ 220,000 (£ 190,533, $255,721)",Unverified estimation
+531,Luca Moro,it ITA,FW,Sassuolo,24,"€ 4,231 (£ 3,667, $4,928)","€ 220,000 (£ 190,709, $256,230)",Unverified estimation
+532,Pedro Felipe,,CB,Sassuolo,21,"€ 4,231 (£ 3,664, $4,918)","€ 220,000 (£ 190,533, $255,721)",Unverified estimation
+533,Matteo Palma,de GER,DF,Udinese,17,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+534,Junior Ajayi,ci CIV,FW,Hellas Verona,20,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+535,Francesco Rossi,it ITA,GK,Atalanta,34,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",
+536,Romano Floriani Mussolini,,RB,Cremonese,23,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+537,Lorenzo Venturino,it ITA,MF,Roma,19,"€ 3,654 (£ 3,164, $4,247)","€ 190,000 (£ 164,551, $220,850)",Unverified estimation
+538,Filippo Rinaldi,it ITA,GK,Parma,22,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+539,Franco Carboni,it ITA,MF,Parma,22,"€ 3,654 (£ 3,164, $4,247)","€ 190,000 (£ 164,551, $220,850)",Unverified estimation
+540,Matías Pérez,,CB,Lecce,20,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+541,Mauro Vigorito,it ITA,GK,Como,35,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+542,Eman Kospo,,CB,Fiorentina,18,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+543,Luca Lezzerini,it ITA,GK,Fiorentina,30,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+544,Niccolò Fortini,it ITA,MF,Fiorentina,19,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+545,Gabriele Piccinini,it ITA,MF,Pisa,24,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+546,Luca Lipani,it ITA,MF,Sassuolo,20,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+547,Luis Balbo,,LB,Fiorentina,19,"€ 2,885 (£ 2,498, $3,353)","€ 150,000 (£ 129,909, $174,355)",Unverified estimation
+548,Ernestas Lysionok,,GK,Genoa,18,"€ 2,885 (£ 2,498, $3,353)","€ 150,000 (£ 129,909, $174,355)",Unverified estimation
+549,Mathias Ferrante,,GK,Napoli,19,"€ 2,885 (£ 2,498, $3,353)","€ 150,000 (£ 129,909, $174,355)",Unverified estimation
+550,Abdoulaye Camara,,DM,Udinese,17,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+551,Idrissa Guèye,sn SEN,FW,Udinese,18,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+552,Arthur Borghi,,GK,Hellas Verona,18,"€ 2,500 (£ 2,165, $2,906)","€ 130,000 (£ 112,587, $151,108)",Unverified estimation
+553,Henrique Menke,,GK,Como,19,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+554,Daniel Denoon,,CB,Pisa,22,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+555,Benja Cremaschi,,CM,Parma,20,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",
+556,Elia Plicco,,AM,Parma,19,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+557,Gianluca Astaldi,,GK,Parma,19,"€ 2,500 (£ 2,165, $2,906)","€ 130,000 (£ 112,587, $151,108)",Unverified estimation
+558,Sascha Britschgi,,RB,Parma,19,"€ 2,500 (£ 2,167, $2,912)","€ 130,000 (£ 112,691, $151,409)",Unverified estimation
+559,Jasper Samooja,fi FIN,GK,Lecce,22,"€ 2,308 (£ 2,000, $2,688)","€ 120,000 (£ 104,023, $139,762)",Unverified estimation
+560,Fallou Cham,,RB,Hellas Verona,19,"€ 2,115 (£ 1,834, $2,464)","€ 110,000 (£ 95,354, $128,115)",Unverified estimation
+561,Giacomo Toniolo,,GK,Hellas Verona,21,"€ 2,115 (£ 1,834, $2,464)","€ 110,000 (£ 95,354, $128,115)",Unverified estimation
+562,Massimo Pessina,,GK,Bologna,18,"€ 2,115 (£ 1,834, $2,464)","€ 110,000 (£ 95,354, $128,115)",Unverified estimation
+563,Eddy Kouadio,,CB,Fiorentina,19,"€ 2,115 (£ 1,834, $2,464)","€ 110,000 (£ 95,354, $128,115)",Unverified estimation
+564,Marius Marin,ro ROU,MF,Pisa,26,"€ 2,115 (£ 1,834, $2,464)","€ 110,000 (£ 95,354, $128,115)",Unverified estimation
+565,Alessio Furlanetto,it ITA,GK,Lazio,23,"€ 2,115 (£ 1,834, $2,464)","€ 110,000 (£ 95,354, $128,115)",Unverified estimation
+566,Lapo Nava,it ITA,GK,Cremonese,21,"€ 2,115 (£ 1,834, $2,464)","€ 110,000 (£ 95,354, $128,115)",Unverified estimation
+567,Giuseppe Ciocci,it ITA,GK,Cagliari,23,"€ 1,346 (£ 1,167, $1,568)","€ 70,000 (£ 60,680, $81,528)",Unverified estimation
+568,Þórir Jóhann Helgason,is ISL,MF,Lecce,24,"€ 1,154 (£ 1,000, $1,344)","€ 60,000 (£ 52,011, $69,881)",Unverified estimation

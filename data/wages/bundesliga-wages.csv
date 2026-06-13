@@ -1,0 +1,541 @@
+Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes
+1,Harry Kane,eng ENG,"FW,MF",Bayern Munich,32,"€ 480,769 (£ 416,758, $559,944)","€ 25,000,000 (£ 21,671,440, $29,117,090)",
+2,Manuel Neuer,de GER,GK,Bayern Munich,39,"€ 403,846 (£ 350,077, $470,353)","€ 21,000,000 (£ 18,204,009, $24,458,356)",
+3,Joshua Kimmich,de GER,MF,Bayern Munich,30,"€ 384,615 (£ 333,407, $447,955)","€ 20,000,000 (£ 17,337,152, $23,293,672)",
+4,Jamal Musiala,de GER,"MF,FW",Bayern Munich,22,"€ 362,885 (£ 314,569, $422,646)","€ 18,870,000 (£ 16,357,603, $21,977,580)",
+5,Serge Gnabry,de GER,MF,Bayern Munich,30,"€ 362,885 (£ 314,569, $422,646)","€ 18,870,000 (£ 16,357,603, $21,977,580)",
+6,Alphonso Davies,ca CAN,DF,Bayern Munich,24,"€ 288,462 (£ 250,055, $335,966)","€ 15,000,000 (£ 13,002,864, $17,470,254)",
+7,Luis Díaz,co COL,MF,Bayern Munich,28,"€ 269,231 (£ 233,385, $313,569)","€ 14,000,000 (£ 12,136,006, $16,305,570)",
+8,Michael Olise,fr FRA,MF,Bayern Munich,23,"€ 259,808 (£ 225,216, $302,594)","€ 13,510,000 (£ 11,711,246, $15,734,875)",
+9,Leon Goretzka,de GER,MF,Bayern Munich,30,"€ 250,000 (£ 216,714, $291,171)","€ 13,000,000 (£ 11,269,149, $15,140,887)",
+10,Jonathan Tah,de GER,DF,Bayern Munich,29,"€ 230,769 (£ 200,044, $268,773)","€ 12,000,000 (£ 10,402,291, $13,976,203)",
+11,Kim Min-jae,kr KOR,DF,Bayern Munich,28,"€ 230,769 (£ 200,044, $268,773)","€ 12,000,000 (£ 10,402,291, $13,976,203)",
+12,Niklas Süle,de GER,DF,Dortmund,29,"€ 192,308 (£ 166,703, $223,978)","€ 10,000,000 (£ 8,668,576, $11,646,836)",
+13,Dayot Upamecano,fr FRA,DF,Bayern Munich,26,"€ 192,308 (£ 166,703, $223,978)","€ 10,000,000 (£ 8,668,576, $11,646,836)",
+14,Serhou Guirassy,gn GUI,FW,Dortmund,29,"€ 181,346 (£ 157,201, $211,211)","€ 9,430,000 (£ 8,174,467, $10,982,966)",
+15,Gregor Kobel,ch SUI,GK,Dortmund,27,"€ 174,231 (£ 151,033, $202,924)","€ 9,060,000 (£ 7,853,730, $10,552,033)",
+16,Konrad Laimer,at AUT,DF,Bayern Munich,28,"€ 173,077 (£ 150,033, $201,580)","€ 9,000,000 (£ 7,801,718, $10,482,152)",Unverified estimation
+17,Emre Can,de GER,DF,Dortmund,31,"€ 153,846 (£ 133,363, $179,182)","€ 8,000,000 (£ 6,934,861, $9,317,469)",
+18,Raphaël Guerreiro,pt POR,MF,Bayern Munich,31,"€ 153,846 (£ 133,363, $179,182)","€ 8,000,000 (£ 6,934,861, $9,317,469)",Unverified estimation
+19,Benjamin Henrichs,de GER,DF,RB Leipzig,28,"€ 145,192 (£ 125,861, $169,103)","€ 7,550,000 (£ 6,544,775, $8,793,361)",Unverified estimation
+20,David Raum,de GER,DF,RB Leipzig,27,"€ 145,192 (£ 125,861, $169,103)","€ 7,550,000 (£ 6,544,775, $8,793,361)",
+21,Exequiel Palacios,ar ARG,MF,Leverkusen,26,"€ 145,192 (£ 125,861, $169,103)","€ 7,550,000 (£ 6,544,775, $8,793,361)",
+22,Patrik Schick,cz CZE,FW,Leverkusen,29,"€ 145,192 (£ 125,861, $169,103)","€ 7,550,000 (£ 6,544,775, $8,793,361)",Unverified estimation
+23,Nicolas Jackson,sn SEN,FW,Bayern Munich,24,"€ 145,192 (£ 125,861, $169,103)","€ 7,550,000 (£ 6,544,775, $8,793,361)",Unverified estimation
+24,Marcel Sabitzer,at AUT,MF,Dortmund,31,"€ 144,423 (£ 125,194, $168,207)","€ 7,510,000 (£ 6,510,101, $8,746,774)",
+25,Álex Grimaldo,es ESP,MF,Leverkusen,29,"€ 137,885 (£ 119,526, $160,592)","€ 7,170,000 (£ 6,215,369, $8,350,781)",
+26,Julian Brandt,de GER,"MF,FW",Dortmund,29,"€ 134,615 (£ 116,692, $156,784)","€ 7,000,000 (£ 6,068,003, $8,152,785)",
+27,Lucas Vázquez,es ESP,MF,Leverkusen,34,"€ 126,923 (£ 110,024, $147,825)","€ 6,600,000 (£ 5,721,260, $7,686,912)",Unverified estimation
+28,Josip Stanišić,hr CRO,DF,Bayern Munich,25,"€ 126,923 (£ 110,024, $147,825)","€ 6,600,000 (£ 5,721,260, $7,686,912)",Unverified estimation
+29,Carney Chukwuemeka,at AUT,"MF,FW",Dortmund,21,"€ 115,385 (£ 100,022, $134,387)","€ 6,000,000 (£ 5,201,146, $6,988,102)",
+30,Felix Nmecha,de GER,MF,Dortmund,24,"€ 115,385 (£ 100,022, $134,387)","€ 6,000,000 (£ 5,201,146, $6,988,102)",
+31,Lovro Majer,hr CRO,MF,Wolfsburg,27,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",
+32,Matthias Ginter,de GER,DF,Freiburg,31,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",
+33,Lukas Klostermann,de GER,DF,RB Leipzig,29,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",Unverified estimation
+34,Péter Gulácsi,hu HUN,GK,RB Leipzig,35,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",
+35,Willi Orban,hu HUN,DF,RB Leipzig,32,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",Unverified estimation
+36,Edmond Tapsoba,bf BFA,DF,Leverkusen,26,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",Unverified estimation
+37,Ritsu Doan,jp JPN,MF,Eintracht Frankfurt,27,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",Unverified estimation
+38,Robin Koch,de GER,DF,Eintracht Frankfurt,29,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",
+39,Aleksandar Pavlovic,de GER,MF,Bayern Munich,21,"€ 108,846 (£ 94,354, $126,771)","€ 5,660,000 (£ 4,906,414, $6,592,109)",Unverified estimation
+40,Philipp Lienhart,at AUT,DF,Freiburg,29,"€ 101,538 (£ 88,019, $118,260)","€ 5,280,000 (£ 4,577,008, $6,149,529)",Unverified estimation
+41,Castello Lukeba,fr FRA,DF,RB Leipzig,22,"€ 101,538 (£ 88,019, $118,260)","€ 5,280,000 (£ 4,577,008, $6,149,529)",Unverified estimation
+42,Waldemar Anton,de GER,DF,Dortmund,29,"€ 101,538 (£ 88,019, $118,260)","€ 5,280,000 (£ 4,577,008, $6,149,529)",Unverified estimation
+43,Aleix García,es ESP,MF,Leverkusen,28,"€ 101,538 (£ 88,019, $118,260)","€ 5,280,000 (£ 4,577,008, $6,149,529)",Unverified estimation
+44,Julian Ryerson,no NOR,MF,Dortmund,27,"€ 96,154 (£ 83,352, $111,989)","€ 5,000,000 (£ 4,334,288, $5,823,418)",
+45,Karim Adeyemi,de GER,"MF,FW",Dortmund,23,"€ 96,154 (£ 83,352, $111,989)","€ 5,000,000 (£ 4,334,288, $5,823,418)",
+46,Maximilian Mittelstädt,de GER,"DF,MF",Stuttgart,28,"€ 94,423 (£ 81,851, $109,973)","€ 4,910,000 (£ 4,256,271, $5,718,596)",Unverified estimation
+47,Jonathan Burkardt,de GER,FW,Eintracht Frankfurt,25,"€ 94,423 (£ 81,851, $109,973)","€ 4,910,000 (£ 4,256,271, $5,718,596)",Unverified estimation
+48,Franck Honorat,fr FRA,"MF,FW",Gladbach,28,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+49,Mohamed Amoura,dz ALG,"FW,MF",Wolfsburg,25,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+50,Vinicius Souza,br BRA,MF,Wolfsburg,26,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+51,Ermedin Demirović,ba BIH,FW,Stuttgart,27,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+52,Maximilian Eggestein,de GER,MF,Freiburg,28,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+53,Jobe Bellingham,eng ENG,MF,Dortmund,19,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+54,Nico Schlotterbeck,de GER,DF,Dortmund,25,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",
+55,Yan Couto,br BRA,MF,Dortmund,23,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+56,Loïc Bade,fr FRA,DF,Leverkusen,25,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+57,Malik Tillman,us USA,MF,Leverkusen,23,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",
+58,Mark Flekken,nl NED,GK,Leverkusen,32,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+59,Martin Terrier,fr FRA,"MF,FW",Leverkusen,28,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",Unverified estimation
+60,Rasmus Kristensen,dk DEN,"DF,MF",Eintracht Frankfurt,28,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",
+61,Sacha Boey,fr FRA,DF,Bayern Munich,24,"€ 90,769 (£ 78,684, $105,717)","€ 4,720,000 (£ 4,091,568, $5,497,307)",
+62,Angelo Stiller,de GER,MF,Stuttgart,24,"€ 87,115 (£ 75,517, $101,462)","€ 4,530,000 (£ 3,926,865, $5,276,017)",
+63,Deniz Undav,de GER,"FW,MF",Stuttgart,29,"€ 87,115 (£ 75,517, $101,462)","€ 4,530,000 (£ 3,926,865, $5,276,017)",
+64,Vincenzo Grifo,it ITA,MF,Freiburg,32,"€ 87,115 (£ 75,517, $101,462)","€ 4,530,000 (£ 3,926,865, $5,276,017)",Unverified estimation
+65,Ramy Bensebaini,dz ALG,DF,Dortmund,30,"€ 86,731 (£ 75,183, $101,014)","€ 4,510,000 (£ 3,909,528, $5,252,723)",Unverified estimation
+66,Jesper Lindstrøm,dk DEN,MF,Wolfsburg,25,"€ 83,462 (£ 72,349, $97,206)","€ 4,340,000 (£ 3,762,162, $5,054,727)",
+67,Christoph Baumgartner,at AUT,MF,RB Leipzig,25,"€ 83,462 (£ 72,349, $97,206)","€ 4,340,000 (£ 3,762,162, $5,054,727)",Unverified estimation
+68,Jonas Hofmann,de GER,MF,Leverkusen,33,"€ 83,462 (£ 72,349, $97,206)","€ 4,340,000 (£ 3,762,162, $5,054,727)",Unverified estimation
+69,Joakim Mæhle,dk DEN,"MF,DF",Wolfsburg,28,"€ 79,808 (£ 69,182, $92,951)","€ 4,150,000 (£ 3,597,459, $4,833,437)",Unverified estimation
+70,Alexander Nübel,de GER,GK,Stuttgart,28,"€ 79,808 (£ 69,182, $92,951)","€ 4,150,000 (£ 3,597,459, $4,833,437)",
+71,Fábio Silva,pt POR,"FW,MF",Dortmund,23,"€ 79,808 (£ 69,182, $92,951)","€ 4,150,000 (£ 3,597,459, $4,833,437)",Unverified estimation
+72,Maximilian Beier,de GER,"MF,FW",Dortmund,22,"€ 79,808 (£ 69,182, $92,951)","€ 4,150,000 (£ 3,597,459, $4,833,437)",Unverified estimation
+73,Arthur Theate,be BEL,DF,Eintracht Frankfurt,25,"€ 79,808 (£ 69,182, $92,951)","€ 4,150,000 (£ 3,597,459, $4,833,437)",Unverified estimation
+74,Mario Götze,de GER,MF,Eintracht Frankfurt,33,"€ 79,808 (£ 69,182, $92,951)","€ 4,150,000 (£ 3,597,459, $4,833,437)",
+75,Xaver Schlager,at AUT,MF,RB Leipzig,27,"€ 76,923 (£ 66,681, $89,591)","€ 4,000,000 (£ 3,467,430, $4,658,734)",
+76,Andrej Kramarić,hr CRO,"MF,FW",Hoffenheim,34,"€ 76,154 (£ 66,015, $88,695)","€ 3,960,000 (£ 3,432,756, $4,612,147)",Unverified estimation
+77,Florian Neuhaus,de GER,"MF,FW",Gladbach,28,"€ 76,154 (£ 66,015, $88,695)","€ 3,960,000 (£ 3,432,756, $4,612,147)",
+78,Bernardo,br BRA,DF,Hoffenheim,30,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+79,Koki Machida,jp JPN,DF,Hoffenheim,27,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+80,Vladimír Coufal,cz CZE,"DF,MF",Hoffenheim,32,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+81,Robin Hack,de GER,MF,Gladbach,26,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+82,Tim Kleindienst,de GER,FW,Gladbach,29,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+83,Andreas Skov Olsen,dk DEN,MF,Wolfsburg,25,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+84,Maximilian Arnold,de GER,MF,Wolfsburg,31,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+85,Cameron Puertas,ch SUI,MF,Werder Bremen,26,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+86,Ridle Baku,de GER,DF,RB Leipzig,27,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+87,Salih Özcan,tr TUR,MF,Dortmund,27,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+88,Jarell Quansah,eng ENG,DF,Leverkusen,22,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+89,Robert Andrich,de GER,"DF,MF",Leverkusen,30,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+90,Elye Wahi,ci CIV,FW,Eintracht Frankfurt,22,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+91,Michael Zetterer,de GER,GK,Eintracht Frankfurt,30,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+92,Hiroki Ito,jp JPN,DF,Bayern Munich,26,"€ 72,500 (£ 62,847, $84,440)","€ 3,770,000 (£ 3,268,053, $4,390,857)",Unverified estimation
+93,Oliver Baumann,de GER,GK,Hoffenheim,35,"€ 68,846 (£ 59,680, $80,184)","€ 3,580,000 (£ 3,103,350, $4,169,567)",Unverified estimation
+94,Nico Elvedi,ch SUI,DF,Gladbach,28,"€ 68,846 (£ 59,680, $80,184)","€ 3,580,000 (£ 3,103,350, $4,169,567)",Unverified estimation
+95,Yannick Gerhardt,de GER,MF,Wolfsburg,31,"€ 68,846 (£ 59,680, $80,184)","€ 3,580,000 (£ 3,103,350, $4,169,567)",Unverified estimation
+96,Christian Eriksen,dk DEN,MF,Wolfsburg,33,"€ 67,115 (£ 58,126, $78,013)","€ 3,490,000 (£ 3,022,540, $4,056,659)",
+97,Denis Vavro,sk SVK,DF,Wolfsburg,29,"€ 65,385 (£ 56,679, $76,152)","€ 3,400,000 (£ 2,947,316, $3,959,924)",Unverified estimation
+98,Chris Führich,de GER,MF,Stuttgart,27,"€ 65,385 (£ 56,679, $76,152)","€ 3,400,000 (£ 2,947,316, $3,959,924)",
+99,Jan-Niklas Beste,de GER,MF,Freiburg,26,"€ 65,385 (£ 56,679, $76,152)","€ 3,400,000 (£ 2,947,316, $3,959,924)",Unverified estimation
+100,Nicolas Seiwald,at AUT,MF,RB Leipzig,24,"€ 65,385 (£ 56,679, $76,152)","€ 3,400,000 (£ 2,947,316, $3,959,924)",Unverified estimation
+101,Nathan Tella,ng NGA,MF,Leverkusen,26,"€ 65,385 (£ 56,679, $76,152)","€ 3,400,000 (£ 2,947,316, $3,959,924)",Unverified estimation
+102,Ellyes Skhiri,tn TUN,"MF,DF",Eintracht Frankfurt,30,"€ 65,385 (£ 56,679, $76,152)","€ 3,400,000 (£ 2,947,316, $3,959,924)",Unverified estimation
+103,Michy Batshuayi,be BEL,FW,Eintracht Frankfurt,31,"€ 65,385 (£ 56,679, $76,152)","€ 3,400,000 (£ 2,947,316, $3,959,924)",
+104,Kamil Grabara,pl POL,GK,Wolfsburg,26,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",Unverified estimation
+105,Jamie Leweling,de GER,MF,Stuttgart,24,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",Unverified estimation
+106,Jens Stage,dk DEN,MF,Werder Bremen,28,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",Unverified estimation
+107,Yuito Suzuki,jp JPN,MF,Freiburg,23,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",Unverified estimation
+108,Johan Bakayoko,be BEL,"FW,MF",RB Leipzig,22,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",Unverified estimation
+109,Eliesse Ben Seghir,ma MAR,MF,Leverkusen,20,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",Unverified estimation
+110,Mahmoud Dahoud,de GER,"MF,FW",Eintracht Frankfurt,29,"€ 61,731 (£ 53,512, $71,897)","€ 3,210,000 (£ 2,782,613, $3,738,634)",Unverified estimation
+111,Jonas Omlin,ch SUI,GK,Gladbach,31,"€ 58,077 (£ 50,344, $67,641)","€ 3,020,000 (£ 2,617,910, $3,517,344)",Unverified estimation
+112,Marco Friedl,at AUT,DF,Werder Bremen,27,"€ 58,077 (£ 50,344, $67,641)","€ 3,020,000 (£ 2,617,910, $3,517,344)",Unverified estimation
+113,Jordy Makengo,fr FRA,DF,Freiburg,23,"€ 58,077 (£ 50,344, $67,641)","€ 3,020,000 (£ 2,617,910, $3,517,344)",Unverified estimation
+114,Luca Waldschmidt,de GER,"FW,MF",Köln,29,"€ 58,077 (£ 50,344, $67,641)","€ 3,020,000 (£ 2,617,910, $3,517,344)",Unverified estimation
+115,Adam Hložek,cz CZE,"FW,MF",Hoffenheim,23,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+116,Ozan Kabak,tr TUR,DF,Hoffenheim,25,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+117,Fabio Vieira,pt POR,"MF,FW",Hamburger SV,25,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",
+118,Kevin Diks,id IDN,DF,Gladbach,28,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+119,Kevin Stöger,at AUT,MF,Gladbach,31,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+120,Moritz Nicolas,de GER,GK,Gladbach,27,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+121,Mattias Svanberg,se SWE,MF,Wolfsburg,26,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+122,Atakan Karazor,tr TUR,MF,Stuttgart,28,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+123,Bilal El Khannouss,ma MAR,"MF,FW",Stuttgart,21,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+124,Josha Vagnoman,de GER,"DF,MF",Stuttgart,24,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+125,Julian Chabot,de GER,DF,Stuttgart,27,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+126,Mitchell Weiser,de GER,RB,Werder Bremen,31,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+127,Victor Boniface,ng NGA,FW,Werder Bremen,24,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",
+128,Danilho Doekhi,nl NED,DF,Union Berlin,27,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+129,Nadiem Amiri,de GER,MF,Mainz 05,28,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+130,Christian Günter,de GER,DF,Freiburg,32,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+131,El Chadaille Bitshiabu,fr FRA,DF,RB Leipzig,20,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",
+132,Ragnar Ache,de GER,FW,Köln,27,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+133,Hugo Larsson,se SWE,MF,Eintracht Frankfurt,21,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+134,Tom Bischof,de GER,"DF,MF",Bayern Munich,20,"€ 54,423 (£ 47,177, $63,386)","€ 2,830,000 (£ 2,453,207, $3,296,055)",Unverified estimation
+135,Yussuf Poulsen,dk DEN,FW,Hamburger SV,31,"€ 50,769 (£ 44,010, $59,130)","€ 2,640,000 (£ 2,288,504, $3,074,765)",Unverified estimation
+136,Leonardo Bittencourt,de GER,MF,Werder Bremen,31,"€ 50,769 (£ 44,010, $59,130)","€ 2,640,000 (£ 2,288,504, $3,074,765)",
+137,Niklas Stark,de GER,DF,Werder Bremen,30,"€ 50,769 (£ 44,010, $59,130)","€ 2,640,000 (£ 2,288,504, $3,074,765)",Unverified estimation
+138,Senne Lynen,be BEL,MF,Werder Bremen,26,"€ 50,769 (£ 44,010, $59,130)","€ 2,640,000 (£ 2,288,504, $3,074,765)",Unverified estimation
+139,Lee Jae-sung,kr KOR,"MF,FW",Mainz 05,32,"€ 50,769 (£ 44,010, $59,130)","€ 2,640,000 (£ 2,288,504, $3,074,765)",Unverified estimation
+140,Alessio Castro-Montes,be BEL,"MF,DF",Köln,28,"€ 50,769 (£ 44,010, $59,130)","€ 2,640,000 (£ 2,288,504, $3,074,765)",Unverified estimation
+141,Timo Hübers,de GER,DF,Köln,29,"€ 50,769 (£ 44,010, $59,130)","€ 2,640,000 (£ 2,288,504, $3,074,765)",Unverified estimation
+142,Valentin Gendrey,fr FRA,DF,Hoffenheim,25,"€ 47,115 (£ 40,842, $54,875)","€ 2,450,000 (£ 2,123,801, $2,853,475)",Unverified estimation
+143,Andreas Hanche-Olsen,no NOR,DF,Mainz 05,28,"€ 47,115 (£ 40,842, $54,875)","€ 2,450,000 (£ 2,123,801, $2,853,475)",Unverified estimation
+144,Robin Zentner,de GER,GK,Mainz 05,30,"€ 47,115 (£ 40,842, $54,875)","€ 2,450,000 (£ 2,123,801, $2,853,475)",Unverified estimation
+145,Philipp Treu,de GER,"DF,MF",Freiburg,24,"€ 47,115 (£ 40,842, $54,875)","€ 2,450,000 (£ 2,123,801, $2,853,475)",Unverified estimation
+146,Daniel Svensson,se SWE,MF,Dortmund,23,"€ 47,115 (£ 40,842, $54,875)","€ 2,450,000 (£ 2,123,801, $2,853,475)",Unverified estimation
+147,Ezequiél Fernández,ar ARG,MF,Leverkusen,23,"€ 47,115 (£ 40,842, $54,875)","€ 2,450,000 (£ 2,123,801, $2,853,475)",Unverified estimation
+148,Yukinari Sugawara,jp JPN,"DF,MF",Werder Bremen,25,"€ 45,385 (£ 39,342, $52,859)","€ 2,360,000 (£ 2,045,784, $2,748,653)",Unverified estimation
+149,Ihlas Bebou,tg TOG,"FW,MF",Hoffenheim,31,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+150,Chrislain Matsima,fr FRA,DF,Augsburg,23,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+151,Finn Dahmen,de GER,GK,Augsburg,27,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+152,Jeffrey Gouweleeuw,nl NED,DF,Augsburg,34,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+153,Kristijan Jakić,hr CRO,"MF,DF",Augsburg,28,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+154,Marius Wolf,de GER,MF,Augsburg,30,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+155,Nicolás Capaldo,ar ARG,"DF,MF",Hamburger SV,26,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+156,Robert Glatzel,de GER,FW,Hamburger SV,31,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+157,Shuto Machino,jp JPN,"FW,MF",Gladbach,25,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+158,Dan-Axel Zagadou,fr FRA,DF,Stuttgart,26,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+159,Lorenz Assignon,tg TOG,"DF,MF",Stuttgart,25,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+160,Alex Král,cz CZE,MF,Union Berlin,27,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+161,Josip Juranović,hr CRO,MF,Union Berlin,29,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+162,Benedict Hollerbach,de GER,"FW,MF",Mainz 05,24,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+163,Dominik Kohr,de GER,DF,Mainz 05,31,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+164,Maximilian Philipp,de GER,"FW,MF",Freiburg,31,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+165,Antonio Nusa,no NOR,"FW,MF",RB Leipzig,20,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+166,Conrad Harder,,CF,RB Leipzig,20,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+167,Marvin Schwäbe,de GER,GK,Köln,30,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+168,Nathaniel Brown,de GER,"MF,DF",Eintracht Frankfurt,22,"€ 43,462 (£ 37,675, $50,619)","€ 2,260,000 (£ 1,959,098, $2,632,185)",Unverified estimation
+169,Alexander Prass,at AUT,MF,Hoffenheim,24,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+170,Dennis Geiger,de GER,CM,Hoffenheim,27,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+171,Cedric Zesiger,ch SUI,DF,Augsburg,27,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+172,Keven Schlotterbeck,de GER,DF,Augsburg,28,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+173,Jordan Torunarigha,de GER,DF,Hamburger SV,27,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+174,Marvin Friedrich,de GER,DF,Gladbach,29,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",
+175,Jonas Wind,dk DEN,FW,Wolfsburg,26,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+176,Jackson Irvine,au AUS,MF,St Pauli,32,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+177,Maximilian Wöber,at AUT,DF,Werder Bremen,27,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+178,Samuel Mbangula,be BEL,"MF,FW",Werder Bremen,21,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",
+179,Robert Skov,dk DEN,"DF,MF",Union Berlin,29,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+180,Silvan Widmer,ch SUI,MF,Mainz 05,32,"€ 40,000 (£ 34,674, $46,587)","€ 2,080,000 (£ 1,803,064, $2,422,542)",Unverified estimation
+181,Fisnik Asllani,xk KVX,"FW,MF",Hoffenheim,22,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+182,Elias Saad,tn TUN,"MF,FW",Augsburg,25,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+183,Budu Zivzivadze,ge GEO,FW,Heidenheim,31,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+184,Patrick Mainka,de GER,DF,Heidenheim,30,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+185,Jean-Luc Dompé,fr FRA,"FW,MF",Hamburger SV,29,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+186,Miro Muheim,ch SUI,"MF,DF",Hamburger SV,27,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+187,Haris Tabaković,ba BIH,FW,Gladbach,31,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+188,Patrick Wimmer,at AUT,MF,Wolfsburg,24,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+189,Rogério,br BRA,LB,Wolfsburg,28,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+190,Eric Smith,se SWE,"DF,MF",St Pauli,28,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+191,Tiago Tomás,pt POR,"MF,FW",Stuttgart,23,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+192,Christopher Trimmel,at AUT,"MF,DF",Union Berlin,38,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+193,Frederik Rønnow,dk DEN,GK,Union Berlin,32,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+194,Rani Khedira,tn TUN,MF,Union Berlin,31,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+195,Anthony Caci,fr FRA,MF,Mainz 05,28,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+196,Phillipp Mwene,at AUT,MF,Mainz 05,31,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+197,Lukas Kübler,de GER,DF,Freiburg,32,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+198,Fares Chaïbi,dz ALG,MF,Eintracht Frankfurt,22,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+199,Sven Ulreich,de GER,GK,Bayern Munich,36,"€ 36,346 (£ 31,507, $42,332)","€ 1,890,000 (£ 1,638,361, $2,201,252)",Unverified estimation
+200,Arnaud Kalimuendo,fr FRA,"FW,MF",Eintracht Frankfurt,23,"€ 34,423 (£ 29,812, $40,012)","€ 1,790,000 (£ 1,550,242, $2,080,636)",Unverified estimation
+201,Alexis Claude-Maurice,fr FRA,"MF,FW",Augsburg,27,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+202,Benedikt Gimber,de GER,DF,Heidenheim,28,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+203,Niklas Dorsch,de GER,MF,Heidenheim,27,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+204,Daniel Elfadli,ly LBY,DF,Hamburger SV,28,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+205,Nathan N'Goumou,cm CMR,RW,Gladbach,25,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+206,Rocco Reitz,de GER,MF,Gladbach,23,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+207,Wael Mohya,,AM,Gladbach,17,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+208,Moritz Jenz,de GER,DF,Wolfsburg,26,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+209,Hauke Wahl,de GER,DF,St Pauli,31,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+210,Manolis Saliakas,gr GRE,MF,St Pauli,28,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+211,Nikola Vasilj,ba BIH,GK,St Pauli,29,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+212,Felix Agu,ng NGA,"DF,MF",Werder Bremen,25,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+213,András Schäfer,hu HUN,MF,Union Berlin,26,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+214,Derrick Köhn,gh GHA,"MF,DF",Union Berlin,26,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+215,Janik Haberer,de GER,MF,Union Berlin,31,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+216,Jeong Woo-yeong,kr KOR,"MF,FW",Union Berlin,25,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+217,Arnaud Nordin,fr FRA,"MF,FW",Mainz 05,27,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+218,Stefan Bell,de GER,DF,Mainz 05,33,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+219,Patrick Osterhage,de GER,MF,Freiburg,25,"€ 32,692 (£ 28,340, $38,076)","€ 1,700,000 (£ 1,473,658, $1,979,962)",Unverified estimation
+220,Martijn Kaars,,CF,St Pauli,26,"€ 30,769 (£ 26,673, $35,836)","€ 1,600,000 (£ 1,386,972, $1,863,494)",Unverified estimation
+221,Mathias Pereira Lage,pt POR,"MF,FW",St Pauli,28,"€ 30,769 (£ 26,673, $35,836)","€ 1,600,000 (£ 1,386,972, $1,863,494)",Unverified estimation
+222,Albian Hajdari,xk KVX,DF,Hoffenheim,22,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+223,Kevin Akpoguma,ng NGA,DF,Hoffenheim,30,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+224,Elvis Rexhbeçaj,xk KVX,MF,Augsburg,27,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+225,Fabian Rieder,ch SUI,MF,Augsburg,23,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+226,Han-Noah Massengo,fr FRA,MF,Augsburg,24,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+227,Samuel Essende,cd COD,"MF,FW",Augsburg,27,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+228,Adrian Beck,de GER,MF,Heidenheim,28,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+229,Diant Ramaj,de GER,GK,Heidenheim,23,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+230,Jan Schöppner,de GER,MF,Heidenheim,26,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+231,Albert Sambi Lokonga,be BEL,MF,Hamburger SV,25,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+232,Daniel Peretz,il ISR,GK,Hamburger SV,25,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",
+233,Rayan Philippe,fr FRA,"FW,MF",Hamburger SV,24,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+234,Joe Scally,us USA,"DF,MF",Gladbach,22,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+235,Philipp Sander,de GER,"DF,MF",Gladbach,27,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+236,Ameen Al-Dakhil,be BEL,DF,Stuttgart,23,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+237,Badredine Bouanani,dz ALG,MF,Stuttgart,20,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+238,Justin Njinmah,de GER,"FW,MF",Werder Bremen,24,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+239,Marco Grüll,at AUT,"MF,FW",Werder Bremen,27,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+240,Andrej Ilic,rs SRB,FW,Union Berlin,25,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+241,Diogo Leite,pt POR,DF,Union Berlin,26,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+242,Oliver Burke,sct SCO,"FW,MF",Union Berlin,28,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+243,Danny da Costa,de GER,"DF,MF",Mainz 05,32,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+244,Daniel Kyereh,gh GHA,AM,Freiburg,29,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+245,Max Rosenfelder,de GER,DF,Freiburg,22,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+246,Brajan Gruda,de GER,"MF,FW",RB Leipzig,21,"€ 29,038 (£ 25,149, $33,753)","€ 1,510,000 (£ 1,307,746, $1,755,173)",Unverified estimation
+247,Ezechiel Banzuzi,nl NED,MF,RB Leipzig,20,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+248,Maarten Vandevoordt,be BEL,GK,RB Leipzig,23,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+249,Rômulo,br BRA,FW,RB Leipzig,23,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+250,Florian Kainz,at AUT,MF,Köln,32,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+251,Linton Maina,de GER,"MF,FW",Köln,26,"€ 29,038 (£ 25,172, $33,821)","€ 1,510,000 (£ 1,308,955, $1,758,672)",Unverified estimation
+252,Leon Avdullahu,xk KVX,MF,Hoffenheim,21,"€ 27,308 (£ 23,672, $31,805)","€ 1,420,000 (£ 1,230,938, $1,653,851)",Unverified estimation
+253,Noah Katterbach,de GER,"DF,MF",Hamburger SV,24,"€ 27,308 (£ 23,672, $31,805)","€ 1,420,000 (£ 1,230,938, $1,653,851)",Unverified estimation
+254,Konstantinos Koulierakis,gr GRE,DF,Wolfsburg,21,"€ 27,308 (£ 23,672, $31,805)","€ 1,420,000 (£ 1,230,938, $1,653,851)",Unverified estimation
+255,David Nemeth,at AUT,DF,St Pauli,24,"€ 27,308 (£ 23,672, $31,805)","€ 1,420,000 (£ 1,230,938, $1,653,851)",Unverified estimation
+256,Tim Skarke,de GER,"MF,FW",Union Berlin,28,"€ 27,308 (£ 23,672, $31,805)","€ 1,420,000 (£ 1,230,938, $1,653,851)",Unverified estimation
+257,Paul Nebel,de GER,MF,Mainz 05,22,"€ 27,308 (£ 23,672, $31,805)","€ 1,420,000 (£ 1,230,938, $1,653,851)",Unverified estimation
+258,Tom Krauß,de GER,"MF,DF",Köln,24,"€ 27,308 (£ 23,672, $31,805)","€ 1,420,000 (£ 1,230,938, $1,653,851)",Unverified estimation
+259,Grischa Prömel,de GER,MF,Hoffenheim,30,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+260,Robin Hranáč,cz CZE,DF,Hoffenheim,25,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+261,Dimitris Giannoulis,gr GRE,MF,Augsburg,29,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+262,Robin Fellhauer,de GER,MF,Augsburg,27,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+263,Leart Paqarada,xk KVX,DF,Heidenheim,30,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+264,Mathias Honsak,at AUT,"MF,FW",Heidenheim,28,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+265,Nicolai Remberg,de GER,MF,Hamburger SV,25,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+266,Connor Metcalfe,au AUS,"MF,FW",St Pauli,25,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+267,Romano Schmid,at AUT,"MF,FW",Werder Bremen,25,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+268,Lennard Maloney,us USA,"DF,MF",Mainz 05,25,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+269,Phillip Tietz,de GER,FW,Mainz 05,28,"€ 25,385 (£ 21,985, $29,506)","€ 1,320,000 (£ 1,143,196, $1,534,324)",Unverified estimation
+270,Igor Matanović,hr CRO,FW,Freiburg,22,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+271,Assan Ouédraogo,de GER,MF,RB Leipzig,19,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+272,Kosta Nedeljković,rs SRB,DF,RB Leipzig,19,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+273,Alexander Meyer,de GER,GK,Dortmund,34,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+274,Marius Bülter,de GER,"FW,MF",Köln,32,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+275,Ibrahim Maza,dz ALG,MF,Leverkusen,19,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+276,Can Uzun,tr TUR,MF,Eintracht Frankfurt,19,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+277,Jonas Urbig,de GER,GK,Bayern Munich,21,"€ 25,385 (£ 22,005, $29,565)","€ 1,320,000 (£ 1,144,252, $1,537,382)",Unverified estimation
+278,Bazoumana Touré,ci CIV,"MF,FW",Hoffenheim,19,"€ 23,654 (£ 20,505, $27,549)","€ 1,230,000 (£ 1,066,235, $1,432,561)",Unverified estimation
+279,Kōta Takai,jp JPN,DF,Gladbach,20,"€ 23,654 (£ 20,486, $27,494)","€ 1,230,000 (£ 1,065,250, $1,429,711)",Unverified estimation
+280,Amos Pieper,de GER,DF,Werder Bremen,27,"€ 23,654 (£ 20,505, $27,549)","€ 1,230,000 (£ 1,066,235, $1,432,561)",Unverified estimation
+281,Jan Thielmann,de GER,"MF,FW",Köln,23,"€ 23,654 (£ 20,505, $27,549)","€ 1,230,000 (£ 1,066,235, $1,432,561)",Unverified estimation
+282,Janis Blaswich,de GER,GK,Leverkusen,34,"€ 23,654 (£ 20,505, $27,549)","€ 1,230,000 (£ 1,066,235, $1,432,561)",Unverified estimation
+283,Stanley N'Soki,fr FRA,"DF,MF",Union Berlin,26,"€ 23,269 (£ 20,171, $27,101)","€ 1,210,000 (£ 1,048,898, $1,409,267)",Unverified estimation
+284,Arthur Chaves,br BRA,DF,Hoffenheim,24,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+285,Mads Pedersen,dk DEN,MF,Augsburg,28,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+286,Arijon Ibrahimović,de GER,"MF,FW",Heidenheim,19,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+287,Kevin Müller,de GER,GK,Heidenheim,34,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+288,Marvin Pieringer,de GER,"FW,MF",Heidenheim,25,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+289,Albert Grønbaek,dk DEN,MF,Hamburger SV,24,"€ 21,731 (£ 18,820, $25,259)","€ 1,130,000 (£ 978,645, $1,313,474)",Unverified estimation
+290,Bakery Jatta,gm GAM,MF,Hamburger SV,27,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+291,Daniel Heuer Fernandes,pt POR,GK,Hamburger SV,32,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+292,Gio Reyna,us USA,MF,Gladbach,22,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+293,Jens Castrop,kr KOR,MF,Gladbach,22,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+294,Yannik Engelhardt,de GER,MF,Gladbach,24,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+295,Kevin Paredes,us USA,MF,Wolfsburg,22,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+296,Kilian Fischer,de GER,DF,Wolfsburg,24,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+297,Danel Sinani,lu LUX,"MF,FW",St Pauli,28,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+298,Fabian Bredlow,de GER,GK,Stuttgart,30,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+299,Tom Rothe,de GER,"MF,DF",Union Berlin,20,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+300,Maxim Leitsch,de GER,DF,Mainz 05,27,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+301,Nelson Weiper,de GER,FW,Mainz 05,20,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+302,Silas Katompa Mvumpa,,RW,Mainz 05,27,"€ 21,731 (£ 18,820, $25,259)","€ 1,130,000 (£ 978,645, $1,313,474)",Unverified estimation
+303,Cyriaque Irié,bf BFA,MF,Freiburg,20,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+304,Junior Adamu,at AUT,FW,Freiburg,24,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+305,Noah Atubolu,de GER,GK,Freiburg,23,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+306,Andrija Maksimovic,,AM,RB Leipzig,18,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+307,Dominique Heintz,de GER,DF,Köln,31,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+308,Ísak Jóhannesson,is ISL,MF,Köln,22,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+309,Jakub Kamiński,pl POL,"MF,FW",Köln,23,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+310,Rav van den Berg,nl NED,DF,Köln,21,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+311,Jean-Mattéo Bahoya,,LW,Eintracht Frankfurt,20,"€ 21,731 (£ 18,837, $25,309)","€ 1,130,000 (£ 979,549, $1,316,092)",Unverified estimation
+312,Wouter Burger,nl NED,MF,Hoffenheim,24,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+313,James Sands,us USA,MF,St Pauli,25,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",
+314,Marin Ljubicic,hr CRO,FW,Union Berlin,23,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+315,William Bøving,,CF,Mainz 05,22,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+316,Joël Schmied,ch SUI,DF,Köln,26,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+317,Sebastian Sebulonsen,,RB,Köln,26,"€ 20,000 (£ 17,337, $23,294)","€ 1,040,000 (£ 901,532, $1,211,271)",Unverified estimation
+318,Muhammed Damar,de GER,"MF,FW",Hoffenheim,21,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+319,Tim Lemperle,de GER,FW,Hoffenheim,23,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+320,Nediljko Labrović,hr CRO,GK,Augsburg,25,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+321,Tim Siersleben,de GER,DF,Heidenheim,25,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+322,Ransford Königsdörffer,gh GHA,"FW,MF",Hamburger SV,23,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+323,Jonas Adjetey,,CB,Wolfsburg,22,"€ 18,077 (£ 15,656, $21,012)","€ 940,000 (£ 814,094, $1,092,624)",Unverified estimation
+324,Sael Kumbedi,fr FRA,"DF,MF",Wolfsburg,20,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+325,Finn Jeltsch,de GER,DF,Stuttgart,19,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+326,Pascal Stenzel,de GER,MF,Stuttgart,29,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+327,Olivier Deman,be BEL,"DF,MF",Werder Bremen,25,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+328,Aljoscha Kemlein,de GER,MF,Union Berlin,20,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+329,Leopold Querfeld,at AUT,DF,Union Berlin,21,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+330,Anthony Jung,de GER,DF,Freiburg,33,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+331,Derry Scherhant,de GER,MF,Freiburg,22,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+332,Johan Manzambi,ch SUI,MF,Freiburg,19,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+333,Nicolas Höfler,de GER,MF,Freiburg,35,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+334,Julien Duranville,be BEL,FW,Dortmund,19,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+335,Denis Huseinbasic,ba BIH,MF,Köln,24,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+336,Jusuf Gazibegović,ba BIH,DF,Köln,25,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+337,Arthur,br BRA,MF,Leverkusen,22,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+338,Claudio Echeverri,ar ARG,MF,Leverkusen,19,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+339,Ernest Poku,nl NED,MF,Leverkusen,21,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+340,Ansgar Knauff,de GER,"MF,FW",Eintracht Frankfurt,23,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+341,Jessic Ngankam,de GER,FW,Eintracht Frankfurt,25,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+342,Nnamdi Collins,de GER,DF,Eintracht Frankfurt,21,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+343,Timothy Chandler,us USA,"DF,MF",Eintracht Frankfurt,35,"€ 18,077 (£ 15,670, $21,054)","€ 940,000 (£ 814,846, $1,094,803)",Unverified estimation
+344,Aaron Zehnter,de GER,"DF,MF",Wolfsburg,20,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+345,Adam Daghim,,CF,Wolfsburg,20,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+346,Mathias Rasmussen,,CM,St Pauli,28,"€ 16,346 (£ 14,157, $19,000)","€ 850,000 (£ 736,149, $988,011)",Unverified estimation
+347,Luca Jaquez,ch SUI,DF,Stuttgart,22,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+348,Skelly Alvero,fr FRA,MF,Werder Bremen,23,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+349,Livan Burcu,tr TUR,"MF,FW",Union Berlin,20,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+350,Kaishū Sano,jp JPN,MF,Mainz 05,24,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+351,Florian Müller,de GER,GK,Freiburg,27,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+352,Kristoffer Lund,,LB,Köln,23,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+353,Aurèle Amenda,ch SUI,DF,Eintracht Frankfurt,22,"€ 16,346 (£ 14,170, $19,038)","€ 850,000 (£ 736,829, $989,981)",Unverified estimation
+354,Tomáš Čvančara,cz CZE,CF,Gladbach,25,"€ 15,385 (£ 13,264, $18,009)","€ 800,000 (£ 689,744, $936,443)",Unverified estimation
+355,Giorgi Gocholeishvili,,RB,Hamburger SV,24,"€ 15,192 (£ 13,170, $17,694)","€ 790,000 (£ 684,817, $920,100)",Unverified estimation
+356,Umut Tohumcu,de GER,MF,Hoffenheim,20,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+357,Anton Kade,de GER,"MF,FW",Augsburg,21,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+358,Marnon Busch,de GER,"DF,MF",Heidenheim,30,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+359,Mikkel Kaufmann,dk DEN,FW,Heidenheim,24,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+360,Sirlord Conteh,de GER,"MF,FW",Heidenheim,29,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+361,Damion Downs,us USA,FW,Hamburger SV,21,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+362,Lukas Ullrich,de GER,"DF,MF",Gladbach,21,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+363,Jeanuël Belocian,fr FRA,DF,Wolfsburg,20,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+364,Kento Shiogai,,CF,Wolfsburg,20,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+365,Marius Müller,de GER,GK,Wolfsburg,32,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+366,Pavao Pervan,at AUT,GK,Wolfsburg,37,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+367,Joel Chima Fujita,,CM,St Pauli,23,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+368,Chema Andrés,,CM,Stuttgart,20,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+369,Jeremy Arévalo,,CF,Stuttgart,20,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+370,Ramon Hendriks,nl NED,DF,Stuttgart,24,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+371,Ilyas Ansah,de GER,"MF,FW",Union Berlin,20,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+372,Armindo Sieb,de GER,FW,Mainz 05,22,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+373,Niklas Tauer,de GER,DM,Mainz 05,24,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+374,Sheraldo Becker,sr SUR,FW,Mainz 05,30,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+375,Sota Kawasaki,,DM,Mainz 05,24,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+376,Stefan Posch,at AUT,DF,Mainz 05,28,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+377,Max Finkgräfe,de GER,DF,RB Leipzig,21,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+378,Yan Diomande,,LW,RB Leipzig,19,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+379,Almugera Kabar,de GER,DF,Dortmund,19,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+380,Luca Kilian,de GER,CB,Köln,26,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+381,Niklas Lomb,de GER,GK,Leverkusen,32,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+382,Younes Ebnoutalib,,CF,Eintracht Frankfurt,22,"€ 14,423 (£ 12,491, $16,765)","€ 750,000 (£ 649,543, $871,775)",Unverified estimation
+383,Lennart Karl,de GER,MF,Bayern Munich,17,"€ 14,423 (£ 12,503, $16,798)","€ 750,000 (£ 650,143, $873,513)",Unverified estimation
+384,Said El Mala,de GER,"FW,MF",Köln,18,"€ 13,846 (£ 12,003, $16,126)","€ 720,000 (£ 624,137, $838,572)",
+385,Mert Kömür,de GER,"MF,FW",Augsburg,20,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+386,Noahkai Banks,us USA,DF,Augsburg,18,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+387,Christian Conteh,de GER,"MF,FW",Heidenheim,25,"€ 12,692 (£ 10,992, $14,753)","€ 660,000 (£ 571,598, $767,162)",Unverified estimation
+388,Eren Dinkçi,de GER,"MF,FW",Heidenheim,23,"€ 12,692 (£ 10,992, $14,753)","€ 660,000 (£ 571,598, $767,162)",Unverified estimation
+389,Jonas Föhrenbach,de GER,"DF,MF",Heidenheim,29,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+390,Immanuel Pherai,sr SUR,"FW,MF",Hamburger SV,24,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+391,Warmed Omari,km COM,DF,Hamburger SV,25,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+392,Fabio Chiarodia,it ITA,DF,Gladbach,20,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+393,Bence Dárdai,hu HUN,MF,Wolfsburg,19,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+394,Dženan Pejčinović,de GER,FW,Wolfsburg,20,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+395,Andreas Hountondji,bj BEN,FW,St Pauli,23,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+396,Arkadiusz Pyrka,pl POL,MF,St Pauli,22,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+397,Karol Mets,ee EST,DF,St Pauli,32,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+398,Louis Oppie,,LB,St Pauli,23,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+399,Tomoya Ando,,CB,St Pauli,27,"€ 12,692 (£ 10,992, $14,753)","€ 660,000 (£ 571,598, $767,162)",Unverified estimation
+400,Nikolas Nartey,dk DEN,MF,Stuttgart,25,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+401,Julián Malatini,ar ARG,DF,Werder Bremen,24,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+402,Ben Bobzien,de GER,"FW,MF",Mainz 05,22,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+403,Lucas Höler,de GER,"FW,MF",Freiburg,31,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+404,Leopold Zingerle,de GER,GK,RB Leipzig,31,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+405,Cenk Özkacar,tr TUR,DF,Köln,24,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+406,Ron-Robert Zieler,de GER,GK,Köln,36,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+407,Christian Kofane,,CF,Leverkusen,19,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+408,Elias Baum,de GER,DF,Eintracht Frankfurt,19,"€ 12,692 (£ 11,002, $14,783)","€ 660,000 (£ 572,126, $768,691)",Unverified estimation
+409,Karl Jakob Hein,ee EST,GK,Werder Bremen,23,"€ 11,923 (£ 10,336, $13,887)","€ 620,000 (£ 537,452, $722,104)",Unverified estimation
+410,Isaac Schmidt,ch SUI,"MF,DF",Werder Bremen,25,"€ 11,538 (£ 10,002, $13,439)","€ 600,000 (£ 520,115, $698,810)",Unverified estimation
+411,Luca Philipp,de GER,GK,Hoffenheim,24,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+412,Michael Gregoritsch,at AUT,FW,Augsburg,31,"€ 10,962 (£ 9,493, $12,741)","€ 570,000 (£ 493,653, $662,549)",Unverified estimation
+413,Yannik Keitel,de GER,"MF,DF",Augsburg,25,"€ 10,962 (£ 9,493, $12,741)","€ 570,000 (£ 493,653, $662,549)",Unverified estimation
+414,Leonidas Stergiou,ch SUI,DF,Heidenheim,23,"€ 10,962 (£ 9,493, $12,741)","€ 570,000 (£ 493,653, $662,549)",Unverified estimation
+415,Omar Traoré,de GER,"DF,MF",Heidenheim,27,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+416,Thomas Keller,de GER,DF,Heidenheim,25,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+417,Luka Vuskovic,,CB,Hamburger SV,18,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+418,Philip Otele,,LW,Hamburger SV,26,"€ 10,962 (£ 9,493, $12,741)","€ 570,000 (£ 493,653, $662,549)",Unverified estimation
+419,Grant-Leon Ranos,,CF,Gladbach,22,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+420,Hugo Bolin,,LM,Gladbach,22,"€ 10,962 (£ 9,493, $12,741)","€ 570,000 (£ 493,653, $662,549)",Unverified estimation
+421,Taichi Hara,jp JPN,FW,St Pauli,26,"€ 10,962 (£ 9,493, $12,741)","€ 570,000 (£ 493,653, $662,549)",Unverified estimation
+422,Justin Diehl,de GER,LW,Stuttgart,21,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+423,Lazar Jovanovic,,RW,Stuttgart,19,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+424,Keke Topp,,CF,Werder Bremen,21,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+425,Jannik Huth,de GER,GK,Freiburg,31,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+426,Tidiam Gomis,fr FRA,FW,RB Leipzig,18,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+427,Patrick Drewes,de GER,GK,Dortmund,32,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+428,Eric Martel,de GER,"MF,DF",Köln,23,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+429,Kauã Santos,br BRA,GK,Eintracht Frankfurt,22,"€ 10,962 (£ 9,502, $12,767)","€ 570,000 (£ 494,109, $663,870)",Unverified estimation
+430,Cole Campbell,us USA,FW,Hoffenheim,19,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+431,Max Moerstedt,,CF,Hoffenheim,20,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+432,Ismaël Gharbi,tn TUN,MF,Augsburg,21,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+433,Rodrigo Ribeiro,pt POR,FW,Augsburg,20,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+434,Uchenna Ogundu,,CF,Augsburg,19,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+435,Luca Kerber,de GER,MF,Heidenheim,23,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+436,Alexander Røssing-Lelesiit,no NOR,"FW,MF",Hamburger SV,18,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+437,Fabio Baldé,pt POR,"FW,MF",Hamburger SV,20,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+438,Sander Tangvik,,GK,Hamburger SV,23,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+439,William Mikelbrencis,fr FRA,"MF,DF",Hamburger SV,21,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+440,Tiago Pereira Cardoso,,GK,Gladbach,19,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+441,Tobias Sippel,de GER,GK,Gladbach,37,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+442,Jenson Seelt,,CB,Wolfsburg,22,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+443,Adam Dźwigała,pl POL,DF,St Pauli,29,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+444,Lars Ritzka,de GER,"MF,DF",St Pauli,27,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+445,Noah Darvich,de GER,MF,Stuttgart,18,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+446,Jovan Milošević,rs SRB,FW,Werder Bremen,20,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+447,Patrice Čović,hr CRO,MF,Werder Bremen,18,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+448,Matheo Raab,de GER,GK,Union Berlin,26,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+449,Fabio Moreno Fell,,CF,Mainz 05,25,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+450,Nikolas Veratschnig,at AUT,"MF,DF",Mainz 05,22,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+451,Tim Oermann,de GER,DF,Leverkusen,21,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+452,Jens Grahl,de GER,GK,Eintracht Frankfurt,36,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+453,Keita Kosugi,,LB,Eintracht Frankfurt,19,"€ 9,038 (£ 7,828, $10,506)","€ 470,000 (£ 407,047, $546,312)",Unverified estimation
+454,Oscar Højlund,dk DEN,MF,Eintracht Frankfurt,20,"€ 9,038 (£ 7,835, $10,527)","€ 470,000 (£ 407,423, $547,401)",Unverified estimation
+455,Julian Niehues,de GER,MF,Heidenheim,24,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+456,Mio Backhaus,de GER,GK,Werder Bremen,21,"€ 8,077 (£ 7,002, $9,407)","€ 420,000 (£ 364,080, $489,167)",Unverified estimation
+457,Luis Engelns,,CM,Hoffenheim,18,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+458,Oliver Sorg,,LB,Augsburg,18,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+459,Adam Kölle,de GER,DF,Heidenheim,19,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+460,Stefan Schimmer,de GER,FW,Heidenheim,31,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+461,Alejo Sarco,ar ARG,FW,Gladbach,19,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+462,Jan Olschowsky,de GER,GK,Gladbach,23,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+463,Ben Alexander Voll,de GER,GK,St Pauli,24,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+464,Finley Stevens,wls WAL,DF,St Pauli,22,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+465,Ricky-Jade Jones,,CF,St Pauli,23,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+466,Karim Coulibaly,,CB,Werder Bremen,18,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+467,Markus Kolke,de GER,GK,Werder Bremen,34,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+468,Daniel Batz,de GER,GK,Mainz 05,34,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+469,Lasse Rieß,de GER,GK,Mainz 05,24,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+470,Suleman Sani,,LW,RB Leipzig,19,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+471,Filippo Mane,it ITA,DF,Dortmund,20,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+472,Silas Ostrzinski,de GER,GK,Dortmund,22,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+473,Jahmai Simpson-Pusey,eng ENG,DF,Köln,19,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+474,Axel Tapé,fr FRA,"MF,DF",Leverkusen,17,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+475,Ayoube Amaimouni-Echghouyab,,RW,Eintracht Frankfurt,21,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+476,Love Arrhov,,AM,Eintracht Frankfurt,17,"€ 7,308 (£ 6,329, $8,494)","€ 380,000 (£ 329,102, $441,699)",Unverified estimation
+477,Leon Klanac,de GER,GK,Bayern Munich,18,"€ 7,308 (£ 6,335, $8,511)","€ 380,000 (£ 329,406, $442,580)",Unverified estimation
+478,Stefan Drljača,de GER,GK,Stuttgart,26,"€ 6,923 (£ 6,001, $8,063)","€ 360,000 (£ 312,069, $419,286)",Unverified estimation
+479,Jakub Zieliński,pl POL,GK,Wolfsburg,17,"€ 6,538 (£ 5,668, $7,615)","€ 340,000 (£ 294,732, $395,992)",Unverified estimation
+480,Jannik Robatsch,at AUT,DF,St Pauli,20,"€ 6,538 (£ 5,668, $7,615)","€ 340,000 (£ 294,732, $395,992)",Unverified estimation
+481,Kasey Bos,au AUS,LB,Mainz 05,21,"€ 6,538 (£ 5,668, $7,615)","€ 340,000 (£ 294,732, $395,992)",Unverified estimation
+482,Bruno Ogbus,,CB,Freiburg,20,"€ 6,538 (£ 5,668, $7,615)","€ 340,000 (£ 294,732, $395,992)",Unverified estimation
+483,Montrell Culbreath,,RW,Leverkusen,18,"€ 6,538 (£ 5,663, $7,600)","€ 340,000 (£ 294,459, $395,205)",Unverified estimation
+484,Deniz Zeitler,,CF,Hoffenheim,19,"€ 5,769 (£ 4,996, $6,706)","€ 300,000 (£ 259,817, $348,710)",Unverified estimation
+485,Carl Klaus,de GER,GK,Union Berlin,31,"€ 5,769 (£ 5,001, $6,719)","€ 300,000 (£ 260,057, $349,405)",Unverified estimation
+486,Yannick Eduardo,cz CZE,FW,Hoffenheim,19,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+487,Cleiton,,CB,Wolfsburg,22,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+488,Kacper Potulski,,CB,Mainz 05,18,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+489,Ayodele Thomas,,LW,RB Leipzig,18,"€ 5,385 (£ 4,663, $6,259)","€ 280,000 (£ 242,496, $325,463)",Unverified estimation
+490,Wisdom Mike,,LW,Bayern Munich,17,"€ 5,385 (£ 4,668, $6,271)","€ 280,000 (£ 242,720, $326,111)",Unverified estimation
+491,Abdoulie Ceesay,gm GAM,FW,St Pauli,21,"€ 5,000 (£ 4,334, $5,823)","€ 260,000 (£ 225,383, $302,818)",Unverified estimation
+492,Fynn Schenten,,CF,Köln,18,"€ 5,000 (£ 4,330, $5,812)","€ 260,000 (£ 225,175, $302,215)",Unverified estimation
+493,Matthias Köbbing,de GER,GK,Köln,28,"€ 4,808 (£ 4,168, $5,599)","€ 250,000 (£ 216,714, $291,171)",Unverified estimation
+494,Luka Duric,,CM,Hoffenheim,22,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+495,Daniel Klein,de GER,GK,Augsburg,24,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+496,Hennes Behrens,,LB,Heidenheim,21,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+497,Paul Tschernuth,at AUT,GK,Heidenheim,23,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+498,Yannik Wagner,,LW,Heidenheim,18,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+499,Jan Urbich,,CF,Gladbach,21,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+500,Pharell Hensel,,CM,Wolfsburg,18,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+501,Simon Spari,at AUT,GK,St Pauli,23,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+502,Daniel Gleiber,,CM,Mainz 05,21,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+503,Maxim Dal,de GER,CB,Mainz 05,20,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+504,Joyeux Masanka Bungi,,LM,RB Leipzig,19,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+505,Viggo Gebel,de GER,AM,RB Leipzig,18,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+506,Felipe Chávez,,CM,Köln,18,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+507,Youssoupha Niang,,RW,Köln,19,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+508,Issa Traoré,,CB,Leverkusen,18,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+509,Amil Siljevic,,GK,Eintracht Frankfurt,19,"€ 4,423 (£ 3,834, $5,151)","€ 230,000 (£ 199,377, $267,877)",Unverified estimation
+510,Bara Sapoko Ndiaye,,CM,Bayern Munich,18,"€ 4,423 (£ 3,831, $5,141)","€ 230,000 (£ 199,193, $267,344)",Unverified estimation
+511,Kelven Frees,,CB,Hoffenheim,21,"€ 3,654 (£ 3,164, $4,247)","€ 190,000 (£ 164,551, $220,850)",Unverified estimation
+512,Mahmut Kücüksahin,,DM,Augsburg,21,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+513,Frank Feller,de GER,GK,Heidenheim,21,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+514,Nick Rothweiler,de GER,DF,Heidenheim,19,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+515,Hannes Hermann,de GER,GK,Hamburger SV,20,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+516,Niklas Swider,de GER,MF,Gladbach,18,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+517,Jan Bürger,,RB,Wolfsburg,18,"€ 3,654 (£ 3,164, $4,247)","€ 190,000 (£ 164,551, $220,850)",Unverified estimation
+518,Mirza Catovic,,DM,Stuttgart,18,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+519,Salim Musah,,CF,Werder Bremen,19,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+520,David Preu,de GER,MF,Union Berlin,20,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+521,Samba Konaté,,CF,RB Leipzig,16,"€ 3,654 (£ 3,164, $4,247)","€ 190,000 (£ 164,551, $220,850)",Unverified estimation
+522,Malek El Mala,de GER,CF,Köln,20,"€ 3,654 (£ 3,167, $4,256)","€ 190,000 (£ 164,703, $221,290)",Unverified estimation
+523,Lúkas Petersson,is ISL,GK,Hoffenheim,21,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+524,Felix Meiser,,CB,Augsburg,19,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+525,Fernando Dickes,de GER,GK,Hamburger SV,18,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+526,Omar Megeed,,AM,Hamburger SV,20,"€ 3,269 (£ 2,831, $3,800)","€ 170,000 (£ 147,230, $197,602)",Unverified estimation
+527,Shafiq Nandja,,CB,Hamburger SV,19,"€ 3,269 (£ 2,831, $3,800)","€ 170,000 (£ 147,230, $197,602)",Unverified estimation
+528,Marwin Schmitz,,DM,St Pauli,19,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+529,Florian Hellstern,,GK,Stuttgart,18,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+530,Mick Schmetgens,,CB,Werder Bremen,18,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+531,Stefan Smarkalev,,GK,Werder Bremen,18,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+532,Wesley Adeh,,DM,Werder Bremen,19,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+533,Andrik Markgraf,,LB,Union Berlin,19,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+534,Emin Kujovic,,CM,Köln,21,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+535,Fayssal Harchaoui,de GER,DM,Köln,20,"€ 3,269 (£ 2,834, $3,808)","€ 170,000 (£ 147,366, $197,996)",Unverified estimation
+536,Louis Lemke,,LB,Hamburger SV,16,"€ 2,885 (£ 2,498, $3,353)","€ 150,000 (£ 129,909, $174,355)",Unverified estimation
+537,Emil Gazdov,ca CAN,GK,St Pauli,21,"€ 2,885 (£ 2,498, $3,353)","€ 150,000 (£ 129,909, $174,355)",
+538,Dmytro Bogdanov,,CF,Union Berlin,18,"€ 2,885 (£ 2,501, $3,360)","€ 150,000 (£ 130,029, $174,703)",Unverified estimation
+539,Nick Schmidt,,CM,St Pauli,18,"€ 2,500 (£ 2,165, $2,906)","€ 130,000 (£ 112,587, $151,108)",Unverified estimation
+540,Otto Stange,de GER,FW,Hamburger SV,18,"€ 1,731 (£ 1,492, $2,026)","€ 90,000 (£ 77,596, $105,350)",Unverified estimation
